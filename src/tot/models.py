@@ -37,11 +37,20 @@ def chatgpt(messages, model="gpt-4", temperature=0.7, max_tokens=1000, n=1, stop
     return outputs
     
 def gpt_usage(backend="gpt-4"):
+    ## CHANGE MODEL HERE
+    # choices=['gpt-4-0314', 'gpt-3.5-turbo', 'gpt-4o', 'gpt-4o-mini', 'gpt-4.1', 'gpt-4.1-mini']
     global completion_tokens, prompt_tokens
-    if backend == "gpt-4":
+    if (backend == "gpt-4") or (backend == "gpt-4-0314"):
         cost = completion_tokens / 1000 * 0.06 + prompt_tokens / 1000 * 0.03
     elif backend == "gpt-3.5-turbo":
         cost = completion_tokens / 1000 * 0.002 + prompt_tokens / 1000 * 0.0015
     elif backend == "gpt-4o":
-        cost = completion_tokens / 1000 * 0.00250 + prompt_tokens / 1000 * 0.01
+        cost = completion_tokens / 1000 * 0.01 + prompt_tokens / 1000 * 0.00250
+    elif backend == "gpt-4o-mini":
+        cost = completion_tokens / 1000 * 0.0060 + prompt_tokens / 1000 * 0.0015
+    elif backend == "gpt-4.1":
+        cost = completion_tokens / 1000 * 0.00800 + prompt_tokens / 1000 * 0.00200
+    elif backend == "gpt-4.1-mini":
+        cost = completion_tokens / 1000 * 0.00160 + prompt_tokens / 1000 * 0.00040
+    # need to add cost completion for any added models like 4.1 or o1mini
     return {"completion_tokens": completion_tokens, "prompt_tokens": prompt_tokens, "cost": cost}

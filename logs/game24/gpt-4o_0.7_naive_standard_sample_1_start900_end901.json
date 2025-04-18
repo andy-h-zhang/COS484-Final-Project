@@ -1,0 +1,18 @@
+[
+    {
+        "idx": 900,
+        "ys": [
+            "(5 - 4 + 6) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 16,
+            "prompt_tokens": 180,
+            "cost": 0.00184
+        }
+    }
+]
