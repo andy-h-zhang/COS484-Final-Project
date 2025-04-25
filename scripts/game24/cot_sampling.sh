@@ -1,9 +1,9 @@
 python run.py \
-    --backend gpt-4o \
+    --backend gpt-4 \
     --task game24 \
     --task_start_index 800 \
-    --task_end_index 801 \
+    --task_end_index 805 \
     --naive_run \
     --prompt_sample cot \
-    --n_generate_sample 1 \
+    --n_generate_sample 10 \
     ${@}
