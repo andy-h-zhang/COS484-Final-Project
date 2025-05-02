@@ -3,7 +3,7 @@ import json
 import argparse
 
 from tot.tasks import get_task
-from tot.methods.bfs import solve, naive_solve
+from tot.methods.bfs import solve, naive_solve, astar_solve #add import here
 from tot.models import gpt_usage
 
 def run(args):
@@ -11,6 +11,8 @@ def run(args):
     logs, cnt_avg, cnt_any = [], 0, 0
     if args.naive_run:
         file = f'./logs/{args.task}/{args.backend}_{args.temperature}_naive_{args.prompt_sample}_sample_{args.n_generate_sample}_start{args.task_start_index}_end{args.task_end_index}.json'
+    elif args.astar_run:
+        file = f'./logs/{args.task}/{args.backend}_{args.temperature}_astar_{args.method_generate}{args.n_generate_sample}_{args.method_evaluate}{args.n_evaluate_sample}_{args.method_select}{args.n_select_sample}_start{args.task_start_index}_end{args.task_end_index}.json'
     else:
         file = f'./logs/{args.task}/{args.backend}_{args.temperature}_{args.method_generate}{args.n_generate_sample}_{args.method_evaluate}{args.n_evaluate_sample}_{args.method_select}{args.n_select_sample}_start{args.task_start_index}_end{args.task_end_index}.json'
     os.makedirs(os.path.dirname(file), exist_ok=True)
@@ -19,6 +21,10 @@ def run(args):
         # solve
         if args.naive_run:
             ys, info = naive_solve(args, task, i) 
+        # added line for A* search
+        elif args.astar_run:
+            print('Using A* search')
+            ys, info = astar_solve(args, task, i)
         else:
             ys, info = solve(args, task, i)
 
@@ -51,6 +57,9 @@ def parse_args():
     args.add_argument('--task_end_index', type=int, default=1000)
 
     args.add_argument('--naive_run', action='store_true')
+    # added line for star search
+    args.add_argument('--astar_run', action='store_true')
+
     args.add_argument('--prompt_sample', type=str, choices=['standard', 'cot'])  # only used when method_generate = sample, or naive_run
 
     args.add_argument('--method_generate', type=str, choices=['sample', 'propose'])

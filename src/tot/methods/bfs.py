@@ -3,6 +3,10 @@ import numpy as np
 from functools import partial
 from tot.models import gpt
 
+# for astar
+import heapq
+
+
 def get_value(task, x, y, n_evaluate_sample, cache_value=True):
     value_prompt = task.value_prompt_wrap(x, y)
     if cache_value and value_prompt in task.value_cache:
@@ -94,3 +98,117 @@ def naive_solve(args, task, idx, to_print=True):
     x = task.get_input(idx)  # input
     ys = get_samples(task, x, '', args.n_generate_sample, args.prompt_sample, stop=None)
     return ys, {}
+
+import heapq
+import re
+from functools import partial
+
+
+def is_finished(chain: str) -> bool:
+    """Return True if the last line has no 'left:' (i.e., answer found)."""
+    last = chain.strip().split('\n')[-1]
+    return 'left:' not in last
+
+
+def astar_solve(args, task, idx, to_print=True):
+    def strip_blank_lines(lines):
+        return [ln for ln in (l.strip() for l in lines) if ln]
+
+
+    def is_finished(chain: str) -> bool:
+        """Finished when the last non‑blank line has *no* 'left:' field."""
+        last = strip_blank_lines(chain.split('\n'))[-1]
+        return 'left:' not in last.lower()
+
+
+    def num_moves(chain: str) -> int:
+        """Count the non‑blank lines in the chain (root has 0 moves)."""
+        return len(strip_blank_lines(chain.split('\n')))
+    
+    global gpt
+    gpt = partial(gpt, model=args.backend, temperature=args.temperature)
+
+    x = task.get_input(idx)
+
+    # cost = −reward ; heuristic left as 0
+    cost = lambda y: -get_value(task, x, y, args.n_evaluate_sample)
+    heuristic = lambda y: 0
+
+    open_list = []                                   # (f, g, chain)
+    heapq.heappush(open_list, (0, 0, ''))            # root
+    closed = set()
+
+    finished = []                                    # completed solutions
+    infos = []
+    step = 0
+    max_depth = max(task.steps, 5)                   # root + up‑to‑4 moves
+
+    while open_list and len(finished) < args.n_select_sample:
+
+        f_curr, g_curr, y_curr = heapq.heappop(open_list)
+        if y_curr in closed:
+            continue
+        closed.add(y_curr)
+
+        # ---------------- goal test ----------------------------------------
+        if num_moves(y_curr) > 0 and is_finished(y_curr):
+            finished.append(y_curr)
+            if to_print:
+                print(f"Solution {len(finished)}/{args.n_select_sample}\n{y_curr}\n")
+            continue
+
+        if num_moves(y_curr) >= max_depth:           # depth cap
+            continue
+
+        # ---------------- generation ---------------------------------------
+        raw_children = get_proposals(task, x, y_curr)            # model call
+        children = [ln + '\n' for ln in strip_blank_lines(raw_children)]
+
+        # ---------------- evaluation ---------------------------------------
+        values = [get_value(task, x, c, args.n_evaluate_sample) for c in children]
+
+        # select top‑k children
+        ids = sorted(range(len(children)), key=lambda i: values[i], reverse=True)
+        kept_ids = ids[:args.n_select_sample]
+        kept_children = []
+
+        for i in kept_ids:
+            c = children[i]
+            kept_children.append(c)
+
+            if is_finished(c):
+                finished.append(c)
+                if len(finished) == args.n_select_sample:
+                    break
+                continue
+
+            g_child = g_curr + cost(c)
+            f_child = g_child + heuristic(c)
+            heapq.heappush(open_list, (f_child, g_child, c))
+
+        # global beam prune
+        open_list[:] = heapq.nsmallest(args.n_select_sample, open_list)
+        heapq.heapify(open_list)
+
+        # ---------------- logging ------------------------------------------
+        infos.append({
+            'step': step,
+            'x': x,
+            'ys': [y_curr],            # like BFS: survivors entering this step
+            'new_ys': children,
+            'values': values,
+            'select_new_ys': kept_children,
+        })
+
+        if to_print:
+            print(f"Step {step}: expanded depth={num_moves(y_curr)}")
+            print("  kept:", kept_children, "\n")
+
+        step += 1
+
+    if to_print:
+        print("Final solutions:")
+        for sol in finished:
+            print(sol)
+
+    return finished, {'steps': infos}

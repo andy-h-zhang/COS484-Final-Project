@@ -101,6 +101,7 @@ impossible
 (1 + 3) * 3 = 12
 1 3 3 are all too small
 impossible
+Reply with whatever reasoning you like, **then** END your answer on a single line containing only one of: sure, likely, impossible
 {input}
 '''
 
