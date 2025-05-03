@@ -1,0 +1,262 @@
+[
+    {
+        "idx": 100,
+        "ys": [
+            "Thoughts: \n    EXTRA BALL SPARE TOTE and BACKUP are all terms related to bowling.\n    MUG PIN PEN and TEE are all common items associated with sports or games, specifically golf.\n    COPY ATE LANE and FOR are words that could relate to writing or grammar.\n    WON TOO ALLEY and FLIP could represent terms used in a game or competition.\n\nOutput: EXTRA BALL SPARE BACKUP, MUG PIN PEN TEE, COPY ATE LANE FOR, WON TOO ALLEY FLIP",
+            "Thoughts: \n    EXTRA BALL TEE PIN could be related to bowling terms.\n    BACKUP SPARE LANE TOTE are all associated with storage or support.\n    COPY ATE WON FOR are words that involve actions or transactions.\n    MUG TOO ALLEY PEN represent items or actions related to drinks or beverages.\n\nOutput: EXTRA BALL TEE PIN, BACKUP SPARE LANE TOTE, COPY ATE WON FOR, MUG TOO ALLEY PEN",
+            "Thoughts: \n    BALL TEE PIN SPARE are terms related to bowling, specifically elements used in the game.\n    COPY BACKUP TOTE EXTRA represent synonyms for additional or extra items.\n    WON ATE FOR TOO are words that can indicate a positive outcome or completion.\n    LANE ALLEY PEN MUG are all associated with places or items found in a bowling alley.\n\nOutput: BALL TEE PIN SPARE, COPY BACKUP TOTE EXTRA, WON ATE FOR TOO, LANE ALLEY PEN MUG",
+            "Thoughts: \n    EXTRA BALL BACKUP SPARE TOTE are terms associated with bowling.\n    MUG PIN ATE TOO are kitchen or dining-related words.\n    LANE COPY FOR TEE are terms related to printing or typesetting.\n    WON ALLEY PEN refers to terms used in a competitive context or in games.\n\nOutput: EXTRA BALL BACKUP TOTE, MUG PIN ATE TOO, LANE COPY FOR TEE, WON ALLEY PEN",
+            "Thoughts: \n    EXTRA BALL TEE SPARE are all related to bowling terms.\n    MUG PEN COPY TOTE are items used for carrying or holding things.\n    BACKUP LANE WON ATE are associated with actions or outcomes in games or sports.\n    PIN FOR TOO ALLEY are words that relate to common phrases or terms in various contexts.\n\nOutput: EXTRA BALL TEE SPARE, MUG PEN COPY TOTE, BACKUP LANE WON ATE, PIN FOR TOO ALLEY",
+            "Thoughts: \n    EXTRA BALL SPARE TOTE and BACKUP are all terms related to bowling.\n    WON ATE PIN and TOO are past tense verbs or terms that can imply completion.\n    ALLEY LANE TEE and MUG are all terms associated with bowling alleys.\n    COPY FOR PEN and MUG can be items related to office supplies or stationery.\n\nOutput: EXTRA BALL SPARE BACKUP, WON ATE PIN TOO, ALLEY LANE TEE MUG, COPY FOR PEN",
+            "Thoughts: \n    BALL PIN TEE MUG are all items related to bowling.\n    BACKUP SPARE EXTRA FOR are all terms used in a supportive context.\n    COPY ATE TOO TOTE are words that relate to actions or items that can be duplicated or carried.\n    ALLEY LANE won are locations associated with bowling alleys.\n\nOutput: BALL PIN TEE MUG, BACKUP SPARE EXTRA FOR, COPY ATE TOO TOTE, ALLEY LANE WON",
+            "Thoughts: \n    EXTRA BALL SPARE TOTE and BACKUP are all terms related to bowling.\n    WON ATE PIN and FOR are words that can signify something being completed or a past action.\n    MUG PEN TEE and LANE are items associated with leisure activities.\n    COPY TOO ALLEY and GAME could be terms related to duplication or pathways in games.\n\nOutput: EXTRA BALL SPARE BACKUP, WON ATE PIN FOR, MUG PEN TEE LANE, COPY TOO ALLEY GAME",
+            "Thoughts: \n    EXTRA BALL SPARE TOTE and BACKUP are all terms related to bowling.\n    MUG PIN PEN and TEE are items that can be associated with a coffee or drink-related theme.\n    COPY ATE FOR and TOO represent words that can be related to actions or commands in a game or activity.\n    LANE ALLEY WON and GAME are terms that can refer to locations or objectives in a sport or competition.\n\nOutput: EXTRA BALL SPARE BACKUP, MUG PIN PEN TEE, COPY ATE FOR TOO, LANE ALLEY WON GAME",
+            "Thoughts: \n    EXTRA BALL SPARE TOTE and BACKUP are terms commonly associated with bowling.\n    WON ATE PIN and TEE can all be associated with winning or scoring in games.\n    FOR LANE ALLEY COPY and MUG are related to places or objects found in a bowling alley.\n    TOO PEN and MUG can be seen as items that one might take to a casual outing or event.\n\nOutput: EXTRA BALL SPARE BACKUP, WON ATE TEE PIN, FOR LANE ALLEY COPY, TOO PEN MUG"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1042,
+            "prompt_tokens": 627,
+            "cost": 0.007192500000000001
+        }
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "Thoughts: \n    CHEF BARTENDER SERVER and HOST are all professions related to food and service.\n    DOG PIGGY ANIMAL and GONZO are all types of animals or characters associated with animals.\n    CAR TRUCK SCOOTER and MOTORCYCLE are all types of vehicles.\n    MITT DIGIT BEAKER and BUS are related to items or tools used in specific activities or industries.\n\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL GONZO, CAR TRUCK SCOOTER MOTORCYCLE, MITT DIGIT BEAKER BUS",
+            "Thoughts: \n    CHEF BARTENDER SERVER and HOST are all professions related to food and service.\n    DOG PIGGY ANIMAL and GONZO are all associated with characters or representations of animals.\n    CAR TRUCK SCOOTER and MOTORCYCLE are types of vehicles.\n    MITT DIGIT BEAKER and BUS could represent objects commonly found in a lab or kitchen setting.\n\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL GONZO, CAR TRUCK SCOOTER MOTORCYCLE, MITT DIGIT BEAKER BUS",
+            "Thoughts: \n    CHEF BARTENDER SERVER HOST are all occupations related to food and service.\n    DOG PIGGY ANIMAL MITT are terms that can be associated with pets or animals.\n    BUS TRUCK MOTORCYCLE SCOOTER are all types of vehicles.\n    DIGIT BEAKER GONZO CAR are terms associated with science or measurement, where beakers are used in labs.\n\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL MITT, BUS TRUCK MOTORCYCLE SCOOTER, DIGIT BEAKER GONZO CAR",
+            "Thoughts: \n    CHEF HOST BARTENDER SERVER are all professions related to food and service.\n    DOG PIGGY ANIMAL MITT are all associated with pets or animal-related terms.\n    BUS TRUCK MOTORCYCLE SCOOTER are all types of vehicles.\n    DIGIT BEAKER GONZO are words that can relate to science or experimental contexts.\n\nOutput: CHEF HOST BARTENDER SERVER, DOG PIGGY ANIMAL MITT, BUS TRUCK MOTORCYCLE SCOOTER, DIGIT BEAKER GONZO",
+            "Thoughts: \n    CHEF BARTENDER SERVER HOST are all professions in the food and service industry.\n    DOG PIGGY ANIMAL MITT are all associated with pets or animals.\n    BUS SCOOTER TRUCK MOTORCYCLE are types of vehicles.\n    DIGIT BEAKER GONZO CAR are words that could relate to numbers or measurements in different contexts.\n\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL MITT, BUS SCOOTER TRUCK MOTORCYCLE, DIGIT BEAKER GONZO CAR",
+            "Thoughts: \n    CHEF SERVER BARTENDER HOST are all professions related to food and service. \n    DOG PIGGY ANIMAL MITT are all related to pets or animals in a domestic context.\n    BUS TRUCK MOTORCYCLE SCOOTER are all types of vehicles.\n    DIGIT BEAKER GONZO CAR are all terms associated with numbers or science.\n\nOutput: CHEF SERVER BARTENDER HOST, DOG PIGGY ANIMAL MITT, BUS TRUCK MOTORCYCLE SCOOTER, DIGIT BEAKER GONZO CAR",
+            "Thoughts: \n    CHEF HOST BARTENDER SERVER are all professions related to food and service.\n    DOG PIGGY ANIMAL MITT refer to things associated with pets or animals.\n    CAR TRUCK MOTORCYCLE SCOOTER are all types of vehicles.\n    BEAKER DIGIT GONZO relate to science, numbers, and experimental contexts. \n\nOutput: CHEF HOST BARTENDER SERVER, DOG PIGGY ANIMAL MITT, CAR TRUCK MOTORCYCLE SCOOTER, BEAKER DIGIT GONZO",
+            "Thoughts: \n    CHEF BARTENDER SERVER and HOST are all professions related to food service or hospitality.\n    DOG PIGGY ANIMAL and GONZO are all terms associated with pets or animals.\n    BUS TRUCK MOTORCYCLE and SCOOTER are all types of vehicles.\n    MITT DIGIT BEAKER and CAR can refer to items associated with hands or measurements.\n\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL GONZO, BUS TRUCK MOTORCYCLE SCOOTER, MITT DIGIT BEAKER CAR",
+            "Thoughts: \n    CHEF BARTENDER SERVER and HOST are all professions related to food and service.\n    DOG PIGGY ANIMAL and MITT represent different types of animals or animal-related terms.\n    CAR TRUCK MOTORCYCLE and SCOOTER are all types of vehicles.\n    DIGIT BEAKER and GONZO could relate to characters or objects in a science or experimental context.\n\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL MITT, CAR TRUCK MOTORCYCLE SCOOTER, DIGIT BEAKER GONZO",
+            "Thoughts: \n    Chef Bartender Server and Host are all professions related to food service or hospitality.\n    Dog Piggy Animal and Gonzo represent types of animals or characters associated with animals.\n    Car Truck Scooter and Motorcycle are all types of vehicles.\n    Digit Beaker Mitt and Bus are items or terms related to measurement or tools in various contexts.\n\nOutput: Chef Bartender Server Host, Dog Piggy Animal Gonzo, Car Truck Scooter Motorcycle, Digit Beaker Mitt Bus"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2185,
+            "prompt_tokens": 1262,
+            "cost": 0.015003
+        }
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "Thoughts: \n    FLOAT HOVER DASH and SHAKE are all actions associated with movement or manipulation in a physical or abstract sense.\n    STAR SUNDAE GLASS and MALT are all related to types of food or drinks.\n    FIRM SOLID TANGIBLE and CONCRETE are words that convey a sense of stability or physical presence.\n    KEY SPLIT OLD and SIGNS can relate to concepts of classification or categorization, as in keys to understanding or explanations.\n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE GLASS MALT, FIRM SOLID TANGIBLE CONCRETE, KEY SPLIT OLD SIGNS",
+            "Thoughts: \n    FLOAT HOVER DASH and SHAKE are all actions that can describe movement in a fluid or light manner.\n    STAR SUNDAE CONCRETE and MALT can be related to types of desserts or treats.\n    FIRM SOLID TANGIBLE and KEY relate to things that are solid or concrete in nature.\n    SPLIT GLASS OLD and SIGNS can be connected to things that can break or can represent something that has aged or is no longer in use.\n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE CONCRETE MALT, FIRM SOLID TANGIBLE KEY, SPLIT GLASS OLD SIGNS",
+            "Thoughts: \n    FLOAT HOVER DASH and SHAKE are all actions that refer to movement or physical dynamics.\n    STAR SUNDAE KEY and SIGNS can be associated with things that can be found in a restaurant or diner setting.\n    FIRM SOLID CONCRETE and TANGIBLE describe states of matter or physical properties.\n    OLD MALT SPLIT and GLASS are related to items or concepts involved in making or serving beverages.\n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE KEY SIGNS, FIRM SOLID CONCRETE TANGIBLE, OLD MALT SPLIT GLASS",
+            "Thoughts: \n    FLOAT HOVER DASH SHAKE are all actions that involve something moving or being in motion.\n    STAR SUNDAE KEY SIGNS could represent things that can be categorized as symbols or markers.\n    FIRM SOLID TANGIBLE CONCRETE are all related to material or physical properties.\n    OLD SPLIT MALT GLASS are related to items or concepts that have a historical or vintage aspect.\n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE KEY SIGNS, FIRM SOLID TANGIBLE CONCRETE, OLD SPLIT MALT GLASS",
+            "Thoughts: \n    FLOAT HOVER DASH and SHAKE are all actions related to movement or manipulation.\n    STAR SUNDAE SIGNS and TANGIBLE can be associated with visible or notable items.\n    FIRM SOLID CONCRETE and MALT relate to physical substances or materials.\n    KEY OLD SPLIT and GLASS can refer to items that can be broken or are associated with age.\n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE SIGNS TANGIBLE, FIRM SOLID CONCRETE MALT, KEY OLD SPLIT GLASS",
+            "Thoughts: \n    FLOAT HOVER DASH and SHAKE are all terms related to movement or actions in space.\n    STAR SUNDAE KEY and SIGNS can be associated with concepts or symbols that signify something.\n    FIRM SOLID TANGIBLE and CONCRETE are all words that describe physical properties or states of matter.\n    OLD MALT SPLIT and GLASS could represent aspects related to beverages or food.\n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE KEY SIGNS, FIRM SOLID TANGIBLE CONCRETE, OLD MALT SPLIT GLASS",
+            "Thoughts: \n    FLOAT HOVER DASH and SHAKE are all actions related to movement or manipulation of substances.\n    STAR SUNDAE GLASS and MALT are all items associated with desserts or sweet treats.\n    FIRM SOLID TANGIBLE and CONCRETE relate to physical properties or the state of matter.\n    KEY SPLIT OLD and SIGNS can represent concepts of unlocking, division, age, or symbols.\n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE GLASS MALT, FIRM SOLID TANGIBLE CONCRETE, KEY SPLIT OLD SIGNS",
+            "FLOAT HOVER DASH SHAKE are all terms related to movement or physical actions.  \nSTAR SUNDAE SIGNS MALTS are related to types of treats or items you might find in an ice cream shop.  \nFIRM SOLID CONCRETE TANGIBLE are all adjectives describing something that has strength or physical presence.  \nSPLIT KEY OLD GLASS are words associated with things that can be divided or are fragile.",
+            "Thoughts: \n    FLOAT HOVER DASH and SHAKE are all actions that suggest motion or movement.\n    FIRM SOLID CONCRETE and TANGIBLE are related to physical substances or states of matter.\n    SUNDAE MALT and GLASS are items typically found in a dessert context.\n    KEY OLD SPLIT and SIGNS can be associated with unlocking or revealing information.\n\nOutput: FLOAT HOVER DASH SHAKE, FIRM SOLID CONCRETE TANGIBLE, SUNDAE MALT GLASS, KEY OLD SPLIT SIGNS",
+            "Thoughts: \n    FLOAT HOVER DASH and SHAKE are all actions related to movement or changes in position.\n    FIRM SOLID TANGIBLE and CONCRETE represent concepts of physicality and solidity.\n    SUNDAE MALT and GLASS are all related to food and beverages, particularly desserts or drinks.\n    KEY SPLIT OLD and SIGNS can be categorized as words that represent something important or crucial in various contexts.\n\nOutput: FLOAT HOVER DASH SHAKE, FIRM SOLID TANGIBLE CONCRETE, SUNDAE MALT GLASS, KEY SPLIT OLD SIGNS"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3383,
+            "prompt_tokens": 1895,
+            "cost": 0.0231405
+        }
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "Thoughts: \n    FALL SPRING SUMMER TAP are all related to seasons or actions associated with seasonal changes.\n    STRONG SWIFT HEALTHY FIT are all adjectives that describe a state of physical condition or capability.\n    DROP SINK DIP NICKS are verbs that describe a downward movement or action.\n    SOUND FOUNTAIN KEYS WELL are all associated with elements of water or mechanisms involving water.\n\nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT HEALTHY FIT, DROP SINK DIP NICKS, SOUND FOUNTAIN KEYS WELL",
+            "Thoughts: \n    FALL SPRING SUMMER TAP are all related to seasons or actions associated with them.\n    STRONG SWIFT HEALTHY FIT are synonyms related to being in good physical condition.\n    DROP SINK DIP NICKS refer to actions associated with lowering or making contact.\n    SOUND FOUNTAIN KEYS WELL are words that can relate to water or sources of water.\n\nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT HEALTHY FIT, DROP SINK DIP NICKS, SOUND FOUNTAIN KEYS WELL",
+            "Thoughts: \n    FALL SPRING SUMMER TAP are all words associated with seasons or actions related to them.\n    STRONG SWIFT HEALTHY WELL describe various states of being or qualities.\n    DROP SINK DIP NICKS are all actions that involve moving something downward or damaging it.\n    KEYS SOUND FOUNTAIN FIT SUM represent elements related to music or functionality.\n\nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT HEALTHY WELL, DROP SINK DIP NICKS, KEYS SOUND FOUNTAIN FIT",
+            "Thoughts: \n    FALL SPRING SUMMER and SOUND can all be related to different seasons or natural phenomena.\n    STRONG SWIFT HEALTHY and WELL describe states of being or qualities.\n    DROP DIP SINK and TAP are all actions that involve liquid or movement.\n    KEYS FOUNTAIN NICKS and FIT can be associated with objects or items that are essential or functional.\n\nOutput: FALL SPRING SUMMER SOUND, STRONG SWIFT HEALTHY WELL, DROP DIP SINK TAP, KEYS FOUNTAIN NICKS FIT",
+            "Thoughts: \n    FALL SPRING SUMMER TAP are all related to seasons or actions associated with them.\n    STRONG SWIFT HEALTHY FIT are words that describe physical attributes or conditions.\n    DROP SINK DIP NICKS are actions that involve descending or reducing something.\n    KEYS SOUND FOUNTAIN WELL are all related to water or liquid contexts.\n\nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT HEALTHY FIT, DROP SINK DIP NICKS, KEYS SOUND FOUNTAIN WELL",
+            "Thoughts: \n    FALL SPRING SUMMER and SOUND are all words associated with seasons or natural elements.\n    STRONG SWIFT HEALTHY and WELL are all adjectives that describe positive attributes or states of being.\n    DROP DIP SINK and TAP are all verbs that describe actions involving movement downwards or liquid.\n    KEYS FOUNTAIN NICKS and FIT are related to mechanisms or functions, such as in music or physical fitness.\n\nOutput: FALL SPRING SUMMER SOUND, STRONG SWIFT HEALTHY WELL, DROP DIP SINK TAP, KEYS FOUNTAIN NICKS FIT",
+            "Thoughts: \n    FALL SPRING SUMMER and SOUND are all related to seasons or phenomena associated with time.\n    STRONG HEALTHY WELL and FIT are synonyms or related terms that describe good physical condition.\n    DROP DIP SINK and TAP are actions that involve downward movement or a decrease in levels.\n    KEYS FOUNTAIN NICKS and SWIFT may refer to different types of keys or methods of unlocking something, though this one is less clear.\n\nOutput: FALL SPRING SUMMER SOUND, STRONG HEALTHY WELL FIT, DROP DIP SINK TAP, KEYS FOUNTAIN NICKS SWIFT",
+            "Thoughts: \n    FALL SPRING SUMMER TAP are all related to seasons or times of year.\n    STRONG SWIFT HEALTHY WELL describe positive attributes or conditions.\n    DROP SINK DIP FIT are all terms related to lowering or reducing something.\n    SOUND FOUNTAIN NICKS KEYS can relate to musical elements or objects that produce sound.\n\nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT HEALTHY WELL, DROP SINK DIP FIT, SOUND FOUNTAIN NICKS KEYS",
+            "Thoughts: \n    FALL SPRING SUMMER SOUND are all related to seasons or concepts of time.\n    STRONG SWIFT FIT HEALTHY are words that describe physical attributes or conditions.\n    DROP SINK DIP TAP are all actions that involve lowering or causing something to fall.\n    KEYS FOUNTAIN NICKS WELL are associated with water or sources of water.\n\nOutput: FALL SPRING SUMMER SOUND, STRONG SWIFT FIT HEALTHY, DROP SINK DIP TAP, KEYS FOUNTAIN NICKS WELL",
+            "Thoughts: \n    FALL SPRING SUMMER TAP are all seasons or actions associated with changes in nature.\n    STRONG SWIFT HEALTHY FIT are adjectives that describe physical attributes or conditions.\n    DROP SINK DIP are words that indicate a downward motion or decrease.\n    KEYS SOUND FOUNTAIN NICKS WELL are related to water or sound in some form.\n\nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT HEALTHY FIT, DROP SINK DIP, KEYS SOUND FOUNTAIN NICKS WELL"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4485,
+            "prompt_tokens": 2524,
+            "cost": 0.030696000000000005
+        }
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "Thoughts: \n    CLEAVER LADLE WHISK GRATER are all kitchen utensils used for cooking.\n    DINOSAUR REPTILE MAMMAL BIRD are all categories of animals.\n    PRINCESS PARTRIDGE PLUMBER TANNER could represent roles or professions in a story or fairy tale.\n    FISH MUSHROOM BUNKER PEELER are items that can be found in a diverse ecosystem or environment.\n\nOutput: CLEAVER LADLE WHISK GRATER, DINOSAUR REPTILE MAMMAL BIRD, PRINCESS PARTRIDGE PLUMBER TANNER, FISH MUSHROOM BUNKER PEELER",
+            "Thoughts: \n    LADLE WHISK GRATER PEELER are all kitchen utensils used for cooking or preparing food.\n    FISH PARTRIDGE BIRD are types of animals that are commonly found in nature.\n    DINOSAUR MAMMAL REPTILE are classifications of animals in the animal kingdom.\n    CLEAVER PRINCESS PLUMBER TANNER BUNKER could represent various professions or roles.\n\nOutput: LADLE WHISK GRATER PEELER, FISH PARTRIDGE BIRD, DINOSAUR MAMMAL REPTILE, CLEAVER PRINCESS PLUMBER TANNER BUNKER",
+            "Thoughts: \n    Fish Bird Partridge and Dinosaur are all types of animals.\n    Cleaver Ladle Whisk and Peeler are kitchen utensils used for food preparation.\n    Princess Plumber Tanner and Mammal relate to roles or categories in various professions or classifications.\n    Grater Mushroom Bunker and Reptile are terms associated with different environments or habitats.\n\nOutput: Fish Bird Partridge Dinosaur, Cleaver Ladle Whisk Peeler, Princess Plumber Tanner Mammal, Grater Mushroom Bunker Reptile",
+            "Thoughts: \n    Fish Bird Partridge and Dinosaur are all types of animals.\n    Princess Plumber Tanner and Mammal are roles or categories related to characters or classifications in storytelling or biology.\n    Cleaver Ladle Grater and Peeler are kitchen tools used for food preparation.\n    Mushroom Reptile Bunker and Whisk can be associated with various elements in nature or cooking contexts.\n\nOutput: Fish Bird Partridge Dinosaur, Princess Plumber Tanner Mammal, Cleaver Ladle Grater Peeler, Mushroom Reptile Bunker Whisk",
+            "Thoughts: \n    Ladle Cleaver Grater Peeler are all kitchen utensils used for preparing food.\n    Dinosaur Reptile Mammal Partridge are categories of animals.\n    Fish Bird Mushroom Princess represent various forms of life in nature or fantasy.\n    Tanner Plumber Bunker Whisk could be associated with professions or tools used in specific trades.\n\nOutput: Ladle Cleaver Grater Peeler, Dinosaur Reptile Mammal Partridge, Fish Bird Mushroom Princess, Tanner Plumber Bunker Whisk",
+            "Thoughts: \n    Dinosaur Reptile Mammal and Partridge all belong to the classification of animals.\n    Cleaver Ladle Grater and Peeler are all kitchen utensils used for preparing food.\n    Fish Bird Mushroom and Princess can be connected to things found in fairy tales or stories.\n    Tanner Plumber Bunker and Whisk can be related to professions or roles in various contexts.\n\nOutput: Dinosaur Reptile Mammal Partridge, Cleaver Ladle Grater Peeler, Fish Bird Mushroom Princess, Tanner Plumber Bunker Whisk",
+            "Thoughts: \n    Fish Bird Partridge and Dinosaur are all types of animals or creatures.\n    Cleaver Ladle Grater and Peeler are kitchen utensils used for food preparation.\n    Princess Plumber Tanner and Whisk can be associated with roles or professions.\n    Mushroom Reptile Mammal and Bunker could represent categories within biological classifications.\n\nOutput: Fish Bird Partridge Dinosaur, Cleaver Ladle Grater Peeler, Princess Plumber Tanner Whisk, Mushroom Reptile Mammal Bunker",
+            "Thoughts: \n    Fish Bird Partridge and Dinosaur are all types of living creatures, with Fish and Bird representing aquatic and avian life respectively.\n    Cleaver Ladle Whisk and Peeler are all kitchen utensils.\n    Princess Plumber Tanner and Grater can be seen as occupations or roles, with Tanner and Plumber being trades.\n    Mushroom Reptile Mammal and Bunker are all terms related to biology or types of organisms, with Bunker referring to a protective habitat.\n\nOutput: Fish Bird Partridge Dinosaur, Cleaver Ladle Whisk Peeler, Princess Plumber Tanner Grater, Mushroom Reptile Mammal Bunker",
+            "Thoughts: \n    Cleaver Ladle Whisk and Peeler are all kitchen utensils used for food preparation.\n    Fish Partridge Bird and Dinosaur are all types of animals, with Fish and Bird being more general categories.\n    Reptile Mammal Plumber and Tanner represent different classifications of animals or professions related to animal products.\n    Bunker Mushroom and Grater could be associated with things found in a kitchen or food-related contexts, with Mushroom being a food item.\n\nOutput: Cleaver Ladle Whisk Peeler, Fish Partridge Bird Dinosaur, Reptile Mammal Plumber Tanner, Bunker Mushroom Grater",
+            "Thoughts: \n    Fish Bird Partridge and Dinosaur are all types of animals.\n    Cleaver Ladle Grater and Peeler are kitchen utensils.\n    Princess Mushroom Tanner and Plumber could represent various professions or roles in a story or fairy tale.\n    Mammal Reptile Bunker and WHisk are related to classifications of animals or items that serve a specific purpose.\n\nOutput: Fish Bird Partridge Dinosaur, Cleaver Ladle Grater Peeler, Princess Mushroom Tanner Plumber, Mammal Reptile Bunker Whisk"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 5657,
+            "prompt_tokens": 3169,
+            "cost": 0.0386955
+        }
+    }
+]

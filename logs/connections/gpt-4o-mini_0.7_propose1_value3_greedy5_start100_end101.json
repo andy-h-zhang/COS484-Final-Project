@@ -1,0 +1,296 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "EXTRA BALL BACKUP SPARE: terms related to games or sports.\n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\n",
+                    "WON TOO ATE: words that can be homophones or relate to actions.\n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\n",
+                    "MUG PEN LANE TEE: items you might find in a creative workspace or office.\n"
+                ],
+                "values": [
+                    0.7,
+                    0.0,
+                    0.7,
+                    0.4,
+                    0.4,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "EXTRA BALL BACKUP SPARE: terms related to games or sports.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\n",
+                    "WON TOO ATE: words that can be homophones or relate to actions.\n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "EXTRA BALL BACKUP SPARE: terms related to games or sports.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\n",
+                    "WON TOO ATE: words that can be homophones or relate to actions.\n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\n"
+                ],
+                "new_ys": [
+                    "EXTRA BALL BACKUP SPARE: terms related to games or sports.\nExtra Backup Spare Ball: terms related to games or sports.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nPossible groups:  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nTote For Lane Alley: terms denoting purpose or function.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \n",
+                    "WON TOO ATE: words that can be homophones or relate to actions.\nWON TOO ATE: words that can be homophones or relate to actions.  \n",
+                    "WON TOO ATE: words that can be homophones or relate to actions.\nTOO ATE WON: words that can be used in various contexts to convey meaning.  \n",
+                    "WON TOO ATE: words that can be homophones or relate to actions.\nAte Won Too: past tense of eating and the concept of winning.  \n",
+                    "WON TOO ATE: words that can be homophones or relate to actions.\nWON ATE TOO: can be interpreted as winning something after eating.\n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: items typically associated with casual or novelty gifts.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG PIN COPY TEE: items often found in gift shops.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE COPY PIN: items related to personal expression or customization.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: common objects used for drinking or wearing.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: merchandise often found at events or conventions.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: items that can be decorated or personalized.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n"
+                ],
+                "values": [
+                    0.0,
+                    0.7,
+                    0.0,
+                    0,
+                    0.0,
+                    0.45,
+                    0.4,
+                    0.4,
+                    0.0,
+                    0.0,
+                    0.4,
+                    0.5,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.4,
+                    0.0,
+                    0.0,
+                    0.5
+                ],
+                "select_new_ys": [
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \n"
+                ],
+                "new_ys": [
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nInput: Lane Alley Tote For\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nPossible groups:\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley For Tote: terms related to navigation or movement.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nFor Tote Lane Alley: terms related to directions or purposes.\n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nPossible groups:  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nCOPY TOTE EXTRA BACKUP: items associated with documentation or carrying items.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nEXTRA BACKUP COPY TOTE: terms related to preparing for emergencies or additional supplies.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nCOPY BACKUP TOTE EXTRA: related to organization or data management.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nPossible groups:  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: items commonly used for branding or marketing.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE COPY PIN: items that can be customized or printed on.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nCOPY TEE PIN MUG: could relate to merchandise for events or promotions.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nPIN MUG TEE COPY: types of items that can represent a brand or message.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \nAlley Lane Tote For: types of routes or items.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \nAlley Lane Tote Sea: types of routes or items.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \nAlley Lane Yard Boot: types of routes or locations.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \nFor Tote Sea League: might relate to shopping or transport.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \nAlley Lane Yard Queue: urban or city planning concepts.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \nFor League Time People: might relate to organization or teamwork.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nAlley Lane Tote For: types of routes or items.  \nTote Queue Are Essence: could relate to carrying or transportation.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \nFor Lane Alley Tote: words that can denote purpose or direction.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \nPossible groups:  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \nFor Lane Alley Tote: words that can denote purpose or direction.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \nLane Alley Tote For: words related to paths or transportation.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \nTote For Lane Alley: items associated with carrying or moving.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \nAlley Lane Tote For: types of pathways or routes.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nFor Lane Alley Tote: words that can denote purpose or direction.  \nLane For Tote Alley: terms related to travel or movement.\n"
+                ],
+                "values": [
+                    0.0,
+                    0.7,
+                    0.0,
+                    0.7,
+                    0.0,
+                    0.0,
+                    0.5,
+                    0.0,
+                    0.7,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.5,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.45,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.4,
+                    0.0,
+                    0,
+                    0.4,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n"
+                ],
+                "new_ys": [
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\nLane Alley Tote For: terms related to paths or containers.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\nPossible groups:  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\nLane Alley For Tote: terms related to pathways or routes.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\nTote For Lane Alley: terms associated with carrying or transporting items.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\nAlley Lane Tote For: informal terms for pathways or methods of travel.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\nFor Lane Alley Tote: a phrase structure indicating purpose or direction.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nPossible groups:  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nLane For Tote Alley: elements of transport or movement.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nTote Alley Lane For: terms associated with shopping or transportation.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nFor Lane Tote Alley: terms indicating purpose or direction.  \n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nAlley For Lane Tote: could relate to specific locations or actions.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nBACKUP COPY EXTRA TOTE: types of storage or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nPossible groups:  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nBACKUP COPY EXTRA TOTE: types of storage or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nBACKUP COPY EXTRA: related to data management.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nTOTE EXTRA COPY BACKUP: could refer to carrying items or supplies.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nCOPY BACKUP TOTE EXTRA: might relate to office or organizational terms.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nEXTRA BACKUP COPY TOTE: could suggest additional provisions or supplies.\n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \nPossible groups:  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \nBACKUP COPY EXTRA TOTE: items used for storing or transporting.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \nBACKUP EXTRA TOTE COPY: terms related to documentation or storage.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \nCOPY TOTE BACKUP EXTRA: terms reflecting organization or preparation.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \nTOTE BACKUP COPY EXTRA: items one might carry or manage.\n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nTee Mug Pin Cap: types of clothing or accessories.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nCopy Pin Tee Mugs: items associated with printing or branding.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nPin Copy Tee Mug: items often used in marketing or advertising.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nCopy Mug Tee Pin: items that can be personalized or customized.\n"
+                ],
+                "values": [
+                    0.7,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.7,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.7,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.5,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.5,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\nLane Alley Tote For: terms related to paths or containers.\n",
+                    "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nBACKUP COPY EXTRA TOTE: types of storage or containers.  \n",
+                    "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \n",
+                    "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n"
+                ]
+            }
+        ],
+        "idx": 100,
+        "ys": [
+            "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n\nLane Alley Tote For: terms related to paths or containers.\n",
+            "LANE ALLEY TOTE FOR: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \nLane Alley Tote For: terms related to paths or containers.\nLane Alley Tote For: terms related to paths or containers.  \n",
+            "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP COPY EXTRA TOTE: types of storage or containers.  \nBACKUP COPY EXTRA TOTE: types of storage or containers.  \n",
+            "BACKUP TOTE EXTRA COPY: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.\nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \nBACKUP EXTRA COPY TOTE: terms related to redundancy or extra items.  \n",
+            "MUG TEE PIN COPY: items typically associated with casual or novelty gifts.\nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \nMUG TEE PIN COPY: popular choices for promotional giveaways.  \n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 56373,
+            "prompt_tokens": 28692,
+            "cost": 0.381276
+        }
+    }
+]

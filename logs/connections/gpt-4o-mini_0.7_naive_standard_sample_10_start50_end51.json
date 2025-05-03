@@ -1,0 +1,54 @@
+[
+    {
+        "idx": 50,
+        "ys": [
+            "BLADE DRIVER GRINDER HINGE, ANT BUMBLE HOAGIE SCOTT, HERO LOST TWILIGHT WEST, MATCH DARK NEAR TINDER",
+            "BLADE DRIVER GRINDER HINGE, HERO SCOTT TWILIGHT WEST, ANT BUMBLE LOST BOYS, DARK HOAGIE MATCH NEAR TINDER",
+            "BLADE DRIVER GRINDER HINGE, HERO SCOTT TWILIGHT WEST, ANT BUMBLE LOST BOYS, DARK HOAGIE MATCH NEAR TINDER",
+            "BLADE DRIVER GRINDER HINGE, HERO SCOTT TWILIGHT WEST, ANT BUMBLE LOST BOYS, DARK HOAGIE MATCH NEAR TINDER",
+            "BLADE DRIVER GRINDER HINGE, ANT BUMBLE HOAGIE TINDER, SCOTT LOST NEAR TWILIGHT, DARK HERO MATCH WEST",
+            "BLADE DRIVER GRINDER HINGE, ANT BUMBLE HOAGIE LOST, MATCH SCOTT TWILIGHT WEST, DARK NEAR TINDER BOYS",
+            "BLADE DRIVER GRINDER HINGE, ANT BUMBLE HOAGIE LOST, MATCH SCOTT TWILIGHT WEST, NEAR DARK TINDER HERO",
+            "BLADE DRIVER GRINDER HINGE, DARK TWILIGHT NEAR LOST, ANT SCOTT SUB HOAGIE, HERO MATCH WEST TINDER BUMBLE",
+            "BLADE DRIVER GRINDER HINGE, TINDER TWILIGHT WEST DARK, MATCH HOAGIE LOST BOYS ANT, SCOTT BUMBLE NEAR HERO",
+            "BLADE DRIVER GRINDER HINGE, HERO SCOTT TWILIGHT WEST, ANT BUMBLE LOST BOYS, DARK HOAGIE MATCH NEAR TINDER"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 352,
+            "prompt_tokens": 322,
+            "cost": 0.0025949999999999997
+        }
+    }
+]

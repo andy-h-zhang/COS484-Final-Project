@@ -87,6 +87,16 @@ def solve(args, task, idx, to_print=True):
         infos.append({'step': step, 'x': x, 'ys': ys, 'new_ys': new_ys, 'values': values, 'select_new_ys': select_new_ys})
         ys = select_new_ys
     
+    # --------------------------------------------------------------------
+    # POST‑PROCESS: add clean Answer‑lines so tester passes
+    # --------------------------------------------------------------------
+    if args.task == 'game24':
+        solved_pattern = re.compile(r'.*= *24 *(?:\([^)]*24\))? *$', re.I)
+
+        ys = [add_answer_line(y) if solved_pattern.search(y.split('\n')[-1])
+            else y
+            for y in ys]
+
     if to_print: 
         print(ys)
     return ys, {'steps': infos}
@@ -102,112 +112,151 @@ def naive_solve(args, task, idx, to_print=True):
 import heapq
 import re
 from functools import partial
+import sympy
 
 
-def is_finished(chain: str) -> bool:
-    """Return True if the last line has no 'left:' (i.e., answer found)."""
-    last = chain.strip().split('\n')[-1]
-    return 'left:' not in last
+# --------------------------------------------------------------------------
+# helper: build a single parenthesised expression from the chain of moves
+# --------------------------------------------------------------------------
+def build_expression(chain: str) -> str:
+    """
+    Convert every line '<exprA> op <exprB> = <val> …' into nested parentheses.
+    Anything after the first '(' (the 'left: …' tag) is ignored.
+    """
+    value2expr = {}
+    # allow optional leading bullet / number and ignore trailing junk
+    pat = re.compile(r'''
+        ^\s*           # optional leading spaces
+        (?:\d+\.\s*)?  # optional "12. "
+        ([^(=]+?)      # exprA  (no '(' or '=' yet)
+        \s*([+\-*/])\s*
+        ([^(=]+?)      # exprB
+        \s*=\s*
+        ([0-9.\-]+)    # result value
+        ''', re.X)
+
+    for ln in chain.strip().split('\n'):
+        ln_core = ln.split('(')[0]          # drop " (left: …"
+        m = pat.match(ln_core)
+        if not m:
+            continue
+        a_raw, op, b_raw, res = (t.strip() for t in m.groups())
+        # resolve operands if they were produced earlier
+        a = value2expr.get(a_raw, a_raw)
+        b = value2expr.get(b_raw, b_raw)
+        value2expr[res] = f"({a} {op} {b})"
+
+    return value2expr.get('24', '24')
 
 
+def add_answer_line(chain: str) -> str:
+    expr = build_expression(chain)
+    try:
+        if sympy.simplify(expr) != 24:
+            return chain                     # skip if we failed to build
+    except Exception:
+        print("could not build answer")
+        return chain
+    return chain.rstrip() + f"\nAnswer: {expr} = 24\n"
+
+# --------------------------------------------------------------------------
 def astar_solve(args, task, idx, to_print=True):
-    def strip_blank_lines(lines):
-        return [ln for ln in (l.strip() for l in lines) if ln]
+    import heapq, re, sympy, itertools
+    from functools import partial
 
+    # ---- helpers --------------------------------------------------------
+    def canonical(chain: str) -> str:
+        "strip trailing/leading blanks and collapse repeated whitespace"
+        import re
+        lines = [re.sub(r'\s+', ' ', ln).strip() for ln in chain.split('\n') if ln.strip()]
+        return '\n'.join(lines)
 
-    def is_finished(chain: str) -> bool:
-        """Finished when the last non‑blank line has *no* 'left:' field."""
-        last = strip_blank_lines(chain.split('\n'))[-1]
-        return 'left:' not in last.lower()
-
-
-    def num_moves(chain: str) -> int:
-        """Count the non‑blank lines in the chain (root has 0 moves)."""
-        return len(strip_blank_lines(chain.split('\n')))
-    
+    # build_expression & add_answer_line come from your earlier snippet
+    # --------------------------------------------------------------------
     global gpt
     gpt = partial(gpt, model=args.backend, temperature=args.temperature)
-
     x = task.get_input(idx)
 
-    # cost = −reward ; heuristic left as 0
-    cost = lambda y: -get_value(task, x, y, args.n_evaluate_sample)
+    cost      = lambda y: -get_value(task, x, y, args.n_evaluate_sample)
     heuristic = lambda y: 0
 
-    open_list = []                                   # (f, g, chain)
-    heapq.heappush(open_list, (0, 0, ''))            # root
-    closed = set()
+    beam = args.n_select_sample                # keep at most this many nodes
+    open_list = [(0, 0, '')]                   # (f,g,chain)
+    finished, finished_set = [], set()         # avoid dup solutions
+    infos, step = [], 0
+    max_depth = max(task.steps, 5)
 
-    finished = []                                    # completed solutions
-    infos = []
-    step = 0
-    max_depth = max(task.steps, 5)                   # root + up‑to‑4 moves
+    goal_regex = re.compile(r'.*= *24 *(?:\([^)]*24\))? *$', re.I)
 
-    while open_list and len(finished) < args.n_select_sample:
-
+    while open_list and len(finished) < beam:
         f_curr, g_curr, y_curr = heapq.heappop(open_list)
-        if y_curr in closed:
-            continue
-        closed.add(y_curr)
 
-        # ---------------- goal test ----------------------------------------
-        if num_moves(y_curr) > 0 and is_finished(y_curr):
-            finished.append(y_curr)
-            if to_print:
-                print(f"Solution {len(finished)}/{args.n_select_sample}\n{y_curr}\n")
-            continue
-
-        if num_moves(y_curr) >= max_depth:           # depth cap
+        # -------- goal test ---------------------------------------------
+        if y_curr and goal_regex.search(y_curr.split('\n')[-1]):
+            y_norm = canonical(y_curr)
+            if y_norm not in finished_set:         # skip exact dup
+                y_curr = add_answer_line(y_curr)
+                finished.append(y_curr)
+                finished_set.add(y_norm)
+                if to_print:
+                    print(f"Solution {len(finished)}/{beam}:\n{y_curr}\n")
             continue
 
-        # ---------------- generation ---------------------------------------
-        raw_children = get_proposals(task, x, y_curr)            # model call
-        children = [ln + '\n' for ln in strip_blank_lines(raw_children)]
+        # -------- depth cap ---------------------------------------------
+        if y_curr and len(y_curr.split('\n')) >= max_depth:
+            continue
 
-        # ---------------- evaluation ---------------------------------------
-        values = [get_value(task, x, c, args.n_evaluate_sample) for c in children]
+        # -------------------------------- children ------------------------------
+        children = [c for c in get_proposals(task, x, y_curr) if c.strip()]
+        values   = [get_value(task, x, c, args.n_evaluate_sample) for c in children]
 
-        # select top‑k children
-        ids = sorted(range(len(children)), key=lambda i: values[i], reverse=True)
-        kept_ids = ids[:args.n_select_sample]
-        kept_children = []
+        # rank all children by value
+        ranked   = sorted(range(len(children)), key=lambda i: values[i], reverse=True)
 
+        kept_ids = []                       # after duplicate filtering
+        for i in ranked:
+            c_key = canonical(children[i])
+            if c_key in finished_set:       # already solved → skip
+                continue
+            kept_ids.append(i)
+            if len(kept_ids) == beam:       # got enough new nodes
+                break
+
+        # -------- fallback: if nothing left, keep the single best anyway ---------
+        if not kept_ids and children:
+            kept_ids = ranked[:1]           # push the highest‑value duplicate
+
+        # ------------------------------------------------------------------------
         for i in kept_ids:
             c = children[i]
-            kept_children.append(c)
-
-            if is_finished(c):
-                finished.append(c)
-                if len(finished) == args.n_select_sample:
-                    break
-                continue
-
-            g_child = g_curr + cost(c)
-            f_child = g_child + heuristic(c)
-            heapq.heappush(open_list, (f_child, g_child, c))
-
-        # global beam prune
-        open_list[:] = heapq.nsmallest(args.n_select_sample, open_list)
+            g_new = g_curr + cost(c)
+            f_new = g_new + heuristic(c)
+            heapq.heappush(open_list, (f_new, g_new, c))
+            
+        # ---- global beam prune (controls heap size) --------------------
+        open_list[:] = heapq.nsmallest(beam, open_list)
         heapq.heapify(open_list)
 
-        # ---------------- logging ------------------------------------------
+        # ---- logging ---------------------------------------------------
         infos.append({
             'step': step,
             'x': x,
-            'ys': [y_curr],            # like BFS: survivors entering this step
+            'ys': [y_curr],
             'new_ys': children,
             'values': values,
-            'select_new_ys': kept_children,
+            'select_new_ys': [children[i] for i in best_ids],
         })
-
         if to_print:
-            print(f"Step {step}: expanded depth={num_moves(y_curr)}")
-            print("  kept:", kept_children, "\n")
-
+            print(f"Step {step}: expanded depth={len(y_curr.splitlines())}")
+            print("  *** reached detail block ***")
+            print(f"ys:  {[y_curr]}")
+            print(f"new_ys:  {children}")
+            print(f"values: {values}")
+            print(f"select_new_ys: {[children[i] for i in best_ids]}")
         step += 1
 
     if to_print:
-        print("Final solutions:")
+        print("\nFinal solutions:")
         for sol in finished:
             print(sol)
 

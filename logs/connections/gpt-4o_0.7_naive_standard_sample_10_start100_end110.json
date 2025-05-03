@@ -1,0 +1,522 @@
+[
+    {
+        "idx": 100,
+        "ys": [
+            "BALL PIN SPARE TEE, ATE COPY EXTRA TOO, BACKUP FOR PEN TOTE, ALLEY LANE MUG WON",
+            "BALL PIN SPARE TEE, BACKUP COPY EXTRA FOR, ATE TOO WON MUG, ALLEY LANE PEN TOTE",
+            "BALL PIN SPARE TEE, ATE FOR TOO WON, BACKUP COPY EXTRA TOTE, ALLEY LANE MUG PEN",
+            "BALL PIN SPARE TEE, COPY EXTRA TOO WON, ALLEY LANE MUG TOTE, ATE BACKUP FOR PEN",
+            "BALL PIN SPARE TEE, ATE FOR TOO WON, BACKUP COPY EXTRA MUG, ALLEY LANE PEN TOTE",
+            "BALL PIN SPARE TEE, BACKUP COPY EXTRA FOR, ATE TOO WON MUG, ALLEY LANE PEN TOTE",
+            "BALL PIN SPARE TEE, ATE COPY TOO WON, BACKUP FOR MUG TOTE, ALLEY EXTRA LANE PEN",
+            "BALL PIN SPARE TEE, BACKUP COPY EXTRA FOR, ATE MUG TOO WON, ALLEY LANE PEN TOTE",
+            "BALL PIN SPARE TEE, ATE FOR TOO WON, BACKUP COPY EXTRA PEN, ALLEY LANE MUG TOTE",
+            "BALL PIN SPARE TEE, BACKUP COPY EXTRA FOR, ATE MUG TOO WON, ALLEY LANE PEN TOTE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 280,
+            "prompt_tokens": 405,
+            "cost": 0.003812500000000001
+        }
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "CHEF BARTENDER HOST SERVER, DOG ANIMAL GONZO PIGGY, CAR BUS SCOOTER TRUCK, DIGIT BEAKER MITT MOTORCYCLE",
+            "DOG ANIMAL BUS CAR, CHEF BARTENDER HOST SERVER, DIGIT MITT BEAKER GONZO, MOTORCYCLE PIGGY SCOOTER TRUCK",
+            "CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER TRUCK, DOG ANIMAL GONZO PIGGY, DIGIT BEAKER MITT MOTORCYCLE",
+            "DOG ANIMAL BUS CAR, CHEF BARTENDER HOST SERVER, DIGIT BEAKER MITT PIGGY, GONZO MOTORCYCLE SCOOTER TRUCK",
+            "DOG ANIMAL CHEF PIGGY, BUS CAR SCOOTER TRUCK, HOST BARTENDER SERVER MITT, BEAKER DIGIT GONZO MOTORCYCLE",
+            "CHEF BARTENDER HOST SERVER, DOG ANIMAL GONZO PIGGY, BUS CAR SCOOTER TRUCK, DIGIT BEAKER MITT MOTORCYCLE",
+            "CHEF BARTENDER HOST SERVER, DOG ANIMAL PIGGY GONZO, BUS CAR SCOOTER TRUCK, BEAKER DIGIT MITT MOTORCYCLE",
+            "DOG ANIMAL CAR TRUCK, CHEF BARTENDER HOST SERVER, BUS MOTORCYCLE SCOOTER MITT, DIGIT BEAKER PIGGY GONZO",
+            "DOG ANIMAL PIGGY GONZO, CHEF BARTENDER SERVER HOST, CAR BUS TRUCK MOTORCYCLE, DIGIT MITT SCOOTER BEAKER",
+            "DOG ANIMAL CHEF PIGGY, CAR BUS SCOOTER TRUCK, MITT BEAKER DIGIT GONZO, BARTENDER HOST MOTORCYCLE SERVER"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 640,
+            "prompt_tokens": 818,
+            "cost": 0.008445000000000001
+        }
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, GLASS MALT SUNDAE OLD, DASH KEY SIGNS STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SUNDAE, GLASS MALT OLD STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS STAR, GLASS MALT OLD SUNDAE",
+            "FLOAT HOVER SHAKE SPLIT, FIRM SOLID CONCRETE TANGIBLE, STAR SIGNS DASH KEY, GLASS MALT OLD SUNDAE",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SUNDAE, GLASS MALT OLD STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, GLASS KEY MALT SUNDAE, DASH OLD SIGNS STAR",
+            "FLOAT HOVER SHAKE SPLIT, FIRM SOLID TANGIBLE CONCRETE, DASH GLASS KEY SIGNS, MALT OLD STAR SUNDAE",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, GLASS KEY MALT SUNDAE, DASH OLD SIGNS STAR",
+            "FLOAT HOVER SHAKE SPLIT, FIRM SOLID TANGIBLE CONCRETE, DASH KEY SIGNS OLD, GLASS MALT SUNDAE STAR",
+            "FLOAT HOVER SHAKE SPLIT, FIRM SOLID TANGIBLE CONCRETE, STAR DASH SIGNS KEY, GLASS MALT OLD SUNDAE"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 980,
+            "prompt_tokens": 1229,
+            "cost": 0.0128725
+        }
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "FALL DROP DIP SINK, FOUNTAIN SPRING WELL TAP, KEYS NICKS SOUND STRONG, FIT HEALTHY SUMMER SWIFT",
+            "DROP FALL SINK SWIFT, FOUNTAIN SPRING SUMMER WELL, KEYS NICKS SOUND TAP, DIP FIT HEALTHY STRONG",
+            "FALL DROP DIP SINK, KEYS SOUND TAP WELL, STRONG SWIFT FIT HEALTHY, SPRING SUMMER FOUNTAIN NICKS",
+            "DROP FALL SINK SWIFT, FIT HEALTHY STRONG WELL, KEYS NICKS SOUND TAP, FOUNTAIN SPRING SUMMER DIP",
+            "FALL DROP SINK DIP, KEYS SPRING TAP WELL, FIT HEALTHY SOUND STRONG, FOUNTAIN NICKS SUMMER SWIFT",
+            "FALL DROP SINK WELL, STRONG SWIFT HEALTHY FIT, KEYS SOUND TAP NICKS, SPRING SUMMER FOUNTAIN DIP",
+            "FALL DROP SINK DIP, STRONG SWIFT FIT HEALTHY, KEYS NICKS SOUND TAP, FOUNTAIN SPRING SUMMER WELL",
+            "DROP FALL SINK SWIFT, KEYS NICKS SOUND TAP, FOUNTAIN SPRING SUMMER WELL, DIP FIT HEALTHY STRONG",
+            "FALL DROP SINK DIP, STRONG SWIFT SOUND TAP, KEYS NICKS SPRING WELL, FOUNTAIN HEALTHY SUMMER FIT",
+            "FALL DROP SINK DIP, SPRING WELL FOUNTAIN TAP, KEYS NICKS SOUND STRONG, SWIFT SUMMER FIT HEALTHY"
+        ],
+        "infos": [
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1287,
+            "prompt_tokens": 1636,
+            "cost": 0.01696
+        }
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "FISH PARTRIDGE BIRD MAMMAL, CLEAVER LADLE WHISK GRATER, DINOSAUR REPTILE BUNKER MUSHROOM, PRINCESS PLUMBER TANNER PEELER",
+            "BIRD DINOSAUR FISH MAMMAL, CLEAVER GRATER LADLE PEELER, MUSHROOM PARTRIDGE PRINCESS REPTILE, PLUMBER TANNER WHISK BUNKER",
+            "FISH PARTRIDGE BIRD MAMMAL, CLEAVER LADLE PEELER WHISK, DINOSAUR MUSHROOM REPTILE TANNER, GRATER BUNKER PLUMBER PRINCESS",
+            "PRINCESS PLUMBER TANNER WHISK, BIRD DINOSAUR FISH REPTILE, CLEAVER GRATER LADLE PEELER, BUNKER MAMMAL MUSHROOM PARTRIDGE",
+            "FISH PARTRIDGE BIRD REPTILE, CLEAVER LADLE WHISK PEELER, PRINCESS DINOSAUR MAMMAL MUSHROOM, BUNKER GRATER PLUMBER TANNER",
+            "CLEAVER LADLE WHISK PEELER, BIRD DINOSAUR PARTRIDGE REPTILE, FISH MAMMAL MUSHROOM PRINCESS, BUNKER GRATER PLUMBER TANNER",
+            "CLEAVER LADLE WHISK PEELER, BIRD DINOSAUR PARTRIDGE REPTILE, FISH MAMMAL MUSHROOM PRINCESS, BUNKER GRATER PLUMBER TANNER",
+            "FISH PARTRIDGE BIRD MAMMAL, CLEAVER LADLE WHISK PEELER, DINOSAUR MUSHROOM REPTILE TANNER, GRATER BUNKER PRINCESS PLUMBER",
+            "FISH MAMMAL PARTRIDGE REPTILE, CLEAVER GRATER LADLE PEELER, BIRD DINOSAUR PRINCESS TANNER, BUNKER MUSHROOM PLUMBER WHISK",
+            "PRINCESS PLUMBER TANNER BUNKER, BIRD DINOSAUR PARTRIDGE REPTILE, CLEAVER GRATER LADLE WHISK, FISH MAMMAL MUSHROOM PEELER"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1747,
+            "prompt_tokens": 2059,
+            "cost": 0.022617500000000002
+        }
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "TRAIN TUBE VEIL RING, BLACK BOOK CAKE SPARROW, COAT COVER CRUST FROST, BOUQUET GRAM IN MA",
+            "BLACK BOOK COVER VEIL, CAKE CRUST FROST GRAM, BOUQUET RING SPARROW TUBE, COAT IN MA TRAIN",
+            "TRAIN TUBE RING VEIL, BLACK COAT COVER SPARROW, BOOK CAKE CRUST FROST, BOUQUET GRAM IN MA",
+            "BLACK BOOK COVER VEIL, CAKE CRUST FROST GRAM, BOUQUET RING SPARROW TUBE, COAT IN MA TRAIN",
+            "TRAIN TUBE RING VEIL, BLACK BOOK CAKE GRAM, COAT COVER IN SPARROW, BOUQUET CRUST FROST SPARROW",
+            "BLACK CAKE FROST VEIL, BOUQUET COAT SPARROW TRAIN, BOOK COVER GRAM TUBE, IN MA RING CRUST",
+            "TRAIN TUBE RING VEIL, BLACK IN MA SPARROW, BOOK CAKE CRUST FROST, BOUQUET COAT COVER GRAM",
+            "TRAIN TUBE RING VEIL, BLACK BOOK GRAM IN, CAKE COAT CRUST FROST, BOUQUET COVER SPARROW SPARROW",
+            "TRAIN TUBE RING VEIL, BLACK COAT COVER IN, CAKE CRUST FROST SPARROW, BOOK BOUQUET GRAM MA",
+            "SPARROW BLACK CAKE VEIL, BOOK GRAM IN TUBE, COAT COVER FROST TRAIN, BOUQUET CRUST RING MA"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2091,
+            "prompt_tokens": 2470,
+            "cost": 0.027085
+        }
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "GARTER SLIP THONG TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON",
+            "GARTER THONG SLIP TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON",
+            "GARTER SLIP THONG TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON",
+            "GARTER SLIP THONG TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON",
+            "GARTER SLIP THONG TEDDY, BRIEF DIGEST RUNDOWN ABSTRACT, MAMBA PYTHON BOA VIPER, CIRCLE HOUSE MONTY MOON",
+            "GARTER THONG SLIP TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON",
+            "GARTER THONG BRIEF SLIP, MAMBA BOA PYTHON VIPER, ABSTRACT DIGEST RUNDOWN CIRCLE, HOUSE MONTY TEDDY MOON",
+            "GARTER THONG SLIP TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, MAMBA PYTHON VIPER BOA, BRIEF HOUSE MONTY MOON",
+            "GARTER SLIP THONG TEDDY, BRIEF DIGEST RUNDOWN ABSTRACT, MAMBA PYTHON VIPER BOA, CIRCLE HOUSE MONTY MOON",
+            "GARTER SLIP THONG TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON"
+        ],
+        "infos": [
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 4
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 4
+            },
+            {
+                "r": 2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2471,
+            "prompt_tokens": 2885,
+            "cost": 0.0319225
+        }
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "GUM LOLLIPOP LICORICE CHOCOLATE, CONE ACORN NEEDLE POTATO, FOOL CHUMP SUCKER HURRICANE, MARK FACE POLLEN SAP",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, CONE FACE MARK NEEDLE, POTATO ACORN POLLEN SAP, CHUMP FOOL HURRICANE SUCKER",
+            "GUM POLLEN SAP NEEDLE, CONE ACORN POTATO CHOCOLATE, CHUMP FOOL SUCKER HURRICANE, FACE LOLLIPOP LICORICE MARK",
+            "GUM LICORICE LOLLIPOP CHOCOLATE, ACORN CONE POTATO SAP, FACE FOOL MARK SUCKER, CHUMP HURRICANE NEEDLE POLLEN",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, CONE NEEDLE SAP POLLEN, FACE FOOL MARK SUCKER, ACORN CHUMP HURRICANE POTATO",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, ACORN CONE NEEDLE SAP, FACE FOOL MARK SUCKER, CHUMP HURRICANE POLLEN POTATO",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, CONE ACORN NEEDLE POTATO, FACE FOOL MARK SUCKER, CHUMP HURRICANE POLLEN SAP",
+            "GUM LICORICE LOLLIPOP CHOCOLATE, ACORN CONE POTATO SAP, FACE FOOL MARK SUCKER, CHUMP HURRICANE NEEDLE POLLEN",
+            "GUM LICORICE LOLLIPOP CHOCOLATE, CONE FACE MARK NEEDLE, ACORN POLLEN POTATO SAP, CHUMP FOOL HURRICANE SUCKER",
+            "GUM SAP CONE POLLEN, CHOCOLATE LICORICE LOLLIPOP SUCKER, HURRICANE MARK NEEDLE FACE, POTATO ACORN CHUMP FOOL"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2871,
+            "prompt_tokens": 3302,
+            "cost": 0.036965
+        }
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "FLASH BULB SPARKLE GLITTER, DRILL RAIL TRAP BOUNCE, FISH BEER CRUNK GRIME, GLEAM FORAGE HUNT YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL TRAP RAIL CRUNK, FISH BEER HUNT FORAGE, BOUNCE GLEAM GRIME YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL GRIME RAIL TRAP, FISH BEER CRUNK BOUNCE, FORAGE GLEAM HUNT YEAR",
+            "FLASH SPARKLE GLITTER GLEAM, DRILL FISH HUNT FORAGE, BULB BEER CRUNK GRIME, BOUNCE RAIL TRAP YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL FISH HUNT FORAGE, BEER CRUNK GRIME RAIL, BOUNCE GLEAM TRAP YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL RAIL TRAP FORAGE, FISH BEER GRIME CRUNK, BOUNCE GLEAM HUNT YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL RAIL TRACK BOUNCE, FISH BEER HUNT FORAGE, GRIME GLEAM TRAP CRUNK",
+            "FLASH BULB SPARKLE GLITTER, DRILL FORAGE HUNT TRAP, BEER CRUNK GRIME RAIL, BOUNCE FISH GLEAM YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL FISH HUNT TRAP, GRIME CRUNK FORAGE RAIL, BEER BOUNCE GLEAM YEAR",
+            "FLASH SPARKLE GLITTER GLEAM, DRILL TRAP RAIL BOUNCE, FISH BEER FORAGE HUNT, BULB CRUNK GRIME YEAR"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3241,
+            "prompt_tokens": 3716,
+            "cost": 0.0417
+        }
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "METAL ROCK GLASS PLASTIC, HENRY JENNIFER KATE VITAL, KEY PAPER TEMPO TIRED, ASSIGNMENT CENTRAL CRITICAL DEFEAT",
+            "METAL ROCK GLASS PLASTIC, ASSIGNMENT CENTRAL KEY PAPER, DEFEAT TIRED VITAL CRITICAL, HENRY JENNIFER KATE TEMPO",
+            "METAL ROCK GLASS PLASTIC, HENRY JENNIFER KATE TIRED, CENTRAL CRITICAL TEMPO VITAL, ASSIGNMENT DEFEAT KEY PAPER",
+            "METAL ROCK GLASS PLASTIC, ASSIGNMENT CENTRAL DEFEAT VITAL, HENRY JENNIFER KATE TIRED, KEY PAPER TEMPO CRITICAL",
+            "METAL ROCK GLASS PLASTIC, KEY PAPER ASSIGNMENT CENTRAL, HENRY JENNIFER KATE TIRED, TEMPO VITAL DEFEAT CRITICAL",
+            "METAL ROCK GLASS PLASTIC, CENTRAL CRITICAL TEMPO VITAL, HENRY JENNIFER KATE KEY, ASSIGNMENT DEFEAT PAPER TIRED",
+            "METAL ROCK GLASS PLASTIC, ASSIGNMENT CENTRAL PAPER TEMPO, HENRY JENNIFER KATE KEY, CRITICAL DEFEAT TIRED VITAL",
+            "METAL ROCK GLASS PLASTIC, KEY PAPER ASSIGNMENT CENTRAL, HENRY JENNIFER KATE TIRED, TEMPO VITAL CRITICAL DEFEAT",
+            "METAL ROCK GLASS PLASTIC, HENRY JENNIFER KATE TIRED, CENTRAL CRITICAL TEMPO VITAL, ASSIGNMENT DEFEAT KEY PAPER",
+            "METAL ROCK GLASS PLASTIC, ASSIGNMENT CENTRAL CRITICAL VITAL, HENRY JENNIFER KATE TIRED, DEFEAT KEY PAPER TEMPO"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3611,
+            "prompt_tokens": 4130,
+            "cost": 0.046435000000000004
+        }
+    }
+]

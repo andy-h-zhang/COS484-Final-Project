@@ -1,5 +1,5 @@
 # 5-shot
-standard_prompt = '''Use numbers and basic arithmetic operations (+ - * /) to obtain 24.
+standard_prompt = '''Use numbers and basic arithmetic operations (+ - * /) to obtain 24. End with only the answer.
 Input: 4 4 6 8
 Answer: (4 + 8) * (6 - 4) = 24
 Input: 2 9 10 12
@@ -14,7 +14,7 @@ Input: {input}
 '''
 
 # 5-shot
-cot_prompt = '''Use numbers and basic arithmetic operations (+ - * /) to obtain 24. Each step, you are only allowed to choose two of the remaining numbers to obtain a new number.
+cot_prompt = '''Use numbers and basic arithmetic operations (+ - * /) to obtain 24. Each step, you are only allowed to choose two of the remaining numbers to obtain a new number. End with only the answer.
 Input: 4 4 6 8
 Steps:
 4 + 8 = 12 (left: 4 6 12)
@@ -49,7 +49,8 @@ Input: {input}
 '''
 
 # 1-shot
-propose_prompt = '''Input: 2 8 8 14
+propose_prompt = '''Emulate the **exact** formatting as below with the different input with no added enumeration or formatting. 
+Input: 2 8 8 14
 Possible next steps:
 2 + 8 = 10 (left: 8 10 14)
 8 / 2 = 4 (left: 4 8 14)

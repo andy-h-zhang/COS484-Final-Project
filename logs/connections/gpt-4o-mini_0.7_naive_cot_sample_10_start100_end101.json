@@ -1,0 +1,54 @@
+[
+    {
+        "idx": 100,
+        "ys": [
+            "Thoughts: \n    BALL PEN TEE MUG are all items you can find in a bowling alley or related to bowling.\n    COPY BACKUP FOR TOTE are terms related to storing or carrying items.\n    LANE ALLEY SPARE EXTRA are all terms associated with bowling terminology.\n    ATE WON PIN TOO are words that can relate to scoring or winning in a game.\n\nOutput: BALL PEN TEE MUG, COPY BACKUP FOR TOTE, LANE ALLEY SPARE EXTRA, ATE WON PIN TOO",
+            "Thoughts: \n    EXTRA BALL TOTE SPARE are all terms related to bowling.\n    MUG PEN COPY BACKUP are items associated with writing or office supplies.\n    FOR LANE ATE PIN TOO are expressions related to food or consumption.\n    WON BACKUP LANE MUG could represent terms used in sports or competitive contexts.\n\nOutput: EXTRA BALL TOTE SPARE, MUG PEN COPY BACKUP, FOR LANE ATE TOO, WON BACKUP LANE MUG",
+            "Thoughts: \n    BALL TEE PIN and ALLEY are all terms used in bowling.\n    EXTRA BACKUP SPARE and FOR are all words that suggest something additional or replacement.\n    COPY ATE MUG and TOTE are items or actions associated with everyday life or personal belongings.\n    WON TOO LANE and PEN represent concepts related to winning or scoring in games or competitions.\n\nOutput: BALL TEE PIN ALLEY, EXTRA BACKUP SPARE FOR, COPY ATE MUG TOTE, WON TOO LANE PEN",
+            "Thoughts: \n    BALL TEE PIN and MUG are all items associated with bowling.\n    EXTRA BACKUP SPARE and FOR are terms related to additional support or alternatives.\n    COPY ATE TOO and TOTE are words that can suggest carrying or holding something.\n    LANE ALLEY WON and PEN can refer to locations or places, with LANE and ALLEY being types of roads or paths, and WON being a term associated with competitions.\n\nOutput: BALL TEE PIN MUG, EXTRA BACKUP SPARE FOR, COPY ATE TOO TOTE, LANE ALLEY WON PEN",
+            "Thoughts: \n    BALL TEE PIN and MUG are all items associated with bowling.\n    EXTRA SPARE BACKUP and COPY are terms related to redundancy or duplication.\n    WON TOO ATE and FOR are words that can denote a state of being or action.\n    ALLEY LANE TOTE and PEN are related to items or places used in sports or recreation.\n\nOutput: BALL TEE PIN MUG, EXTRA SPARE BACKUP COPY, WON TOO ATE FOR, ALLEY LANE TOTE PEN",
+            "Thoughts: \n    BALL TEE PIN and MUG are all items associated with bowling.\n    COPY BACKUP TOTE and FOR are related to storage or carrying items.\n    WON ATE TOO and SPARE are terms that relate to winning or having extra.\n    EXTRA ALLEY LANE and FOR are terms associated with the layout or terms in bowling.\n\nOutput: BALL TEE PIN MUG, COPY BACKUP TOTE FOR, WON ATE TOO SPARE, EXTRA ALLEY LANE FOR",
+            "Thoughts: \n    EXTRA BALL TOTE SPARE could relate to things associated with bowling.\n    MUG PEN COPY ATE are all words that can refer to items involved in writing or notation.\n    BACKUP FOR LANE TOO could refer to terms used in sports or games, especially in a team context.\n    PIN LANE WON TEE may refer to terms associated with golf or bowling as well.\n\nOutput: EXTRA BALL TOTE SPARE, MUG PEN COPY ATE, BACKUP FOR LANE TOO, PIN LANE WON TEE",
+            "Thoughts: \n    EXTRA BALL TEE SPARE are terms related to bowling.\n    WON COPY ATE BACKUP are actions or states of achieving something.\n    PIN PEN TOTE ALLEY are items associated with various games or activities.\n    FOR LANE MUG TOO are common words that can describe locations or objects.\n\nOutput: EXTRA BALL TEE SPARE, WON COPY ATE BACKUP, PIN PEN TOTE ALLEY, FOR LANE MUG TOO",
+            "Thoughts: \n    EXTRA BALL TOTE SPARE could relate to bowling terminology as they refer to extra items or actions in the game.\n    MUG PIN ATE TEE are associated with golf; a mug can refer to the cup, pin represents the hole, ate is a homophone for eight which can refer to a score, and tee is used to start the game.\n    BACKUP COPY FOR LANE can relate to computer terms; backup and copy are actions performed with files, and \"for lane\" could refer to a specific location in a system.\n    WON TOO PEN ALLEY relate to winning or scoring; won is a synonym for victory, too is an expression of excess, pen can relate to writing scores or notes, and alley is a term used in bowling.\n\nOutput: EXTRA BALL TOTE SPARE, MUG PIN ATE TEE, BACKUP COPY FOR LANE, WON TOO PEN ALLEY",
+            "Thoughts: \n    EXTRA BALL SPARE TOTE and BACKUP are terms used in bowling to refer to additional opportunities or items.\n    MUG PEN TEE and PIN are all items associated with personal branding or gifts.\n    ATE COPY FOR and LANE can relate to phrases or actions in a sentence.\n    WON TOO ALLEY and GAME are words associated with competition or scoring in various contexts.\n\nOutput: EXTRA BALL SPARE BACKUP, MUG PEN TEE PIN, ATE COPY FOR LANE, WON TOO ALLEY GAME"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1146,
+            "prompt_tokens": 627,
+            "cost": 0.007816499999999999
+        }
+    }
+]

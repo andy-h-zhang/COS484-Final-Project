@@ -52,7 +52,7 @@ def parse_args():
     args.add_argument('--backend', type=str, choices=['gpt-4', 'gpt-4-0314', 'gpt-3.5-turbo', 'gpt-4o', 'gpt-4o-mini', 'gpt-4.1', 'gpt-4.1-mini'], default='gpt-4o-mini')
     args.add_argument('--temperature', type=float, default=0.7)
 
-    args.add_argument('--task', type=str, required=True, choices=['game24', 'text', 'crosswords'])
+    args.add_argument('--task', type=str, required=True, choices=['game24', 'text', 'crosswords', 'connections'])
     args.add_argument('--task_start_index', type=int, default=900)
     args.add_argument('--task_end_index', type=int, default=1000)
 

@@ -1,0 +1,574 @@
+[
+    {
+        "idx": 49,
+        "ys": [
+            "Acrylic Dim Oil Watercolor, Falafel Katsu Samosa Schnitzel, Inch Mile Quart Yard, Foot Nick Tempera.",
+            "Acrylic Dim Katsu Watercolor, Falafel Samosa Schnitzel Tempura, Foot Inch Mile Yard, Oil Quart Pen Tempera",
+            "DIM INCH MILE YARD, FOOT KATSU SAMOSA SCHNITZEL, ACRYLIC TEMPERA WATERCOLOR PEN, FALAFEL QUART OIL NICK",
+            "DIM INCH MILE QUART, FOOT KATSU OIL PEN, FALAFEL SAMOSA SCHNITZEL TEMPERA, ACRYLIC WATERCOLOR YARD NICK",
+            "Acrylic Dim Ink Pen, Samosa Schnitzel Falafel Katsu, Foot Mile Tempera Watercolor, Yard Quart Oil Inch",
+            "DIM INCH MILE QUART, FOOT KATSU OIL TEMPERA, FALAFEL SAMOSA SCHNITZEL YARD, ACRYLIC PEN WATERCOLOR NICK",
+            "Foot Inch Mile Yard, Dim Katsu Samosa Schnitzel, Acrylic Tempera Watercolor, Quart Falafel Oil.",
+            "Acrylic Dim Katsu Watercolor, Falafel Samosa Schnitzel Tempera, Foot Inch Mile Yard, Oil Quart Pen Sampler",
+            "Acrylic Dim Ink Pen, Samosa Schnitzel Falafel Katsu, Foot Mile Tempera Watercolor, Yard Quart Inch Oil",
+            "Acrylic Dim Katsu Watercolor, Falafel Samosa Schnitzel Tempura, Foot Inch Mile Yard, Oil Quart Pen Tempera"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 334,
+            "prompt_tokens": 329,
+            "cost": 0.0024975
+        }
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "BLADE DRIVER GRINDER HINGE, SCOTT TWILIGHT WEST LOST, ANT NEAR DARK HOAGIE, MATCH TINDER BUMBLE HERO",
+            "BLADE DRIVER GRINDER HINGE, SCOTT TWILIGHT WEST NEAR, ANT LOST BOYS HOAGIE, MATCH DARK TINDER BUMBLE",
+            "BLADE DRIVER HINGE GRINDER, DARK TWILIGHT NEAR LOST, HERO SCOTT ANT BUMBLE, MATCH TINDER WEST HOAGIE",
+            "BLADE DRIVER GRINDER HINGE, ANT BUMBLE HOAGIE TINDER, DARK LOST NEAR TWILIGHT, MATCH SCOTT WEST HERO",
+            "BLADE DRIVER GRINDER HINGE, DARK NEAR TWILIGHT LOST, ANT HERO SCOTT SUB, HOAGIE MATCH WEST BUMBLE TINDER",
+            "BLADE DRIVER GRINDER HINGE, ANT BUMBLE HOAGIE TINDER, DARK LOST NEAR TWILIGHT, HERO MATCH SCOTT WEST",
+            "BLADE DRIVER GRINDER HINGE, HERO SCOTT TWILIGHT WEST, ANT BUMBLE LOST BOYS, MATCH DARK NEAR TINDER HOAGIE",
+            "BLADE DRIVER GRINDER HINGE, ANT BUMBLE HERO SCOTT, TWILIGHT WEST LOST NEAR, MATCH DARK TINDER HOAGIE",
+            "BLADE DRIVER GRINDER HINGE, ANT BUMBLE HOAGIE SCOTT, DARK NEAR TWILIGHT LOST, MATCH TINDER WEST HERO",
+            "BLADE DRIVER GRINDER HINGE, MATCH SCOTT TWILIGHT WEST, ANT BUMBLE LOST BOYS, DARK HOAGIE NEAR TINDER"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 679,
+            "prompt_tokens": 651,
+            "cost": 0.0050505
+        }
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "Carp Vole Mouse Gerbil, Gripe Moan Monitor Keyboard, Horn Harp Triangle Speaker, Hamster Grouse RAT Organ",
+            "Carp Grouse Hamster Vole, Gripe Horn Moan Mouse, Monitor Keyboard Speaker Triangle, Harp Rat Organ.",
+            "Carp Grouse Hamster Vole, Horn Keyboards Monitor Speaker, Harp Moan Mouse Triangle, Rat Gripe Dysentery Organ",
+            "Carp Gerbil Hamster Vole, Gripe Horn Moan Speaker, Triangle HARP Monitor Keyboard, Grouse Mouse RAT Organ",
+            "CARP HARP ORGAN VOLE, GROUSE HAMSTER MOUSE RAT, HORN KEYBOARD MONITOR SPEAKER, TRIANGLE GRIPE MOAN DYSENTERY",
+            "CARP GRIPE HORN MOAN, HAMSTER MOUSE ORGAN VOLE, KEYBOARD MONITOR SPEAKER TRIANGLE, GROUSE HARP RAT ",
+            "Carp Gerbil Hamster Vole, Gripe Horn Monitor Speaker, Harp Keyboard Moan Organ, Triangle RAT GROUSE MOUSE",
+            "CARP GROUSE HAMSTER MOAN, HARP HORN ORGAN SPEAKER, KEYBOARD MONITOR RAT MOUSE, TRIANGLE VOLE GRIPE DYSENTERY",
+            "Carp Grouse Hamster Vole, Gripe Horn Moan Mouse, Monitor Organ Speaker Keyboard, Triangle Harp Rat ",
+            "Carp Gerbil Hamster Vole, Gripe Horn Monitor Speaker, Harp Keyboard Moan Organ, Triangle RAT GROUSE MOUSE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 992,
+            "prompt_tokens": 972,
+            "cost": 0.00741
+        }
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "BAKED BIO CHEM COLONY, CLASS DOMAIN GOV ORDER, FAMILY HERD HIGH PRIDE, STATS SWARM BLAZED LIT",
+            "BAKED BIO CHEM CLASS, GOV HERD HIGH ORDER, DOMAIN FAMILY PRIDE SWARM, BLAZED LIT STATS.",
+            "BAKED BIO CHEM COLONY, CLASS FAMILY GOV ORDER, HERD HIGH PRIDE SWARM, BLAZED DOMAIN LIT STATS",
+            "BAKED BIO CLASS CHEM, DOMAIN FAMILY GOV ORDER, HERD HIGH PRIDE SWARM, BLAZED LIT STATS COLONY",
+            "BAKED BIO CHEM FAMILY, CLASS GOV ORDER PRIDE, DOMAIN HERD STATS SWARM, BLAZED HIGH LIT COLONY",
+            "BAKED BIO CHEM CLASS, GOV ORDER PRIDE STATS, DOMAIN FAMILY HERD SWARM, BLAZED HIGH LIT COLONY",
+            "BAKED BIO CHEM CLASS, GOV ORDER PRIDE STATS, DOMAIN FAMILY HERD SWARM, BLAZED HIGH LIT GOV",
+            "BAKED BIO CHEM CLASS, GOV ORDER PRIDE STATS, DOMAIN FAMILY HERD SWARM, BLAZED HIGH LIT BLOCK",
+            "BLAZED CHEM FAMILY GOV, HIGH LIT ORDER PRIDE, BIO COLONY DOMAIN HERD, CLASS STATS SWARM BAKED",
+            "BAKED BIO CHEM CLASS, GOV ORDER PRIDE STATS, DOMAIN FAMILY HERD SWARM, BLAZED HIGH LIT BLAZED"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1311,
+            "prompt_tokens": 1289,
+            "cost": 0.0097995
+        }
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "GARFIELD GROVER HARRY SYLVESTER, ALTAR RELIQUARY SHRINE TEMPLE, CALVIN CHESTER HIGH ROCKY, SILK TOM ABBEY FELIX",
+            "HIGH TOM SILK CALVIN, HARRY GROVER GARFIELD CHESTER, ROCKY SYLVESTER ABBEY SHRINE, ALTAR TEMPLE RELIQUARY FELIX",
+            "Abbey Altar Reliquary Shrine, Calvin Chester Felix Grover, Harry Rocky Sylvester Temple, High TOM GARFIELD SILK",
+            "Abbey Altar Reliquary Shrine, Calvin Chester Felix Grover, Harry Rocky Sylvester Temple, High Tom Garfield Silk",
+            "ALTAR ABBEY RELIQUARY SHRINE, CALVIN CHESTER GROVER SILK, HARRY ROCKY SYLVESTER TEMPLE, DAM GARFIELD HIGH TOM",
+            "ABBey ALTAR RELIQUARY SHRINE, GARFIELD GROVER HARRY SILVESTER, CHESTER CALVIN HIGH TOM, ROCKY TEMPLE FILM SILK",
+            "Abbey Altar Reliquary Shrine, Calvin Chester Grover Sylvester, Felix Harry Rocky Temple, High Hound TOM.",
+            "Abbey Altar Reliquary Shrine, Calvin Chester Felix Grover, Harry Rocky Sylvester Temple, High TOM GARFIELD Silk",
+            "Abbey Altar Reliquary Shrine, Calvin Chester Felix Grover, Harry Rocky Sylvester Temple, High Tom Garfield Silk",
+            "Abbey Altar Reliquary Shrine, Calvin Chester Felix Grover, Harry Rocky Sylvester Temple, High Tom Garfield."
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1622,
+            "prompt_tokens": 1612,
+            "cost": 0.012150000000000001
+        }
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "DOLL SELFIE VIOLA YO-YO, HOCKEY PUCK GIGGLE MEMORY, BLOCKS EGGNOG LEGGINGS BAGGAGE, DUNCAN JULIET FISH TOP",
+            "DOLL GIGGLE MEMORY SELFIE, BLOCKS EGGNOG PUCK HOCKEY, JULIET LEGGINGS VIOLA YO-YO, DUNCAN FISH TOP BAGGAGE",
+            "Bagage Block Selfie Yo-Yo, Duncan Doll Eggnog Viola, Fish Giggle Hocky Memory, Leggings Puck Top.",
+            "DOLL GIGGLE MEMORY SELFIE, PUCK HOCKEY TOP YO-YO, BLOCKS EGGNOG LEGGIN JULIET, FISH DUNCAN BAGGAGE HUNT",
+            "DOLL GIGGLE JULIET SELFIE, PUCK HOCKEY BLOCKS DUNCAN, EGGNOG MEMORY VIOLA YO-YO, BAGGAGE LEGINGS FISH TOP",
+            "DOLL JULIET LEGGIN PUCK, GIGGLE MEMORY SELFIE BLOCKS, EGGNOG FISH HOCKEY VIOLA, TOP YO-YO DUNCAN BAGGAGE",
+            "Baggage Doll Eggnog Selfie, Giggle Hockey Puck Top, Viola Duncan Leggings Yo-Yo, Blocks Fish Memory.",
+            "DOLL JULIET PUCK VIOLA, BLOCKS EGGNOG GIGGLE MEMORY, HOCKEY LEGGINs SELFIE YO-YO, DUNCAN FISH TOP BAGGAGE",
+            "Baggage Blocks Doll Leggings, Duncan Eggnog Giggle Memory, Hockey Puck Selfie Top Yo-Yo, Fish Hunt Juliette Wave",
+            "Bagging Blocks Baggage Leggings, Eggnog Memory Puck Yo-Yo, Giggle Hockey Selfie Viola, Duncan Doll Fish Top"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1997,
+            "prompt_tokens": 1940,
+            "cost": 0.014892
+        }
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "ASTEROIDS BREAKOUT FROGGER PONG, CHAINZ HUSTLE SALSA SWIPE, PINCH SAVAGE SPREAD SWING, TAP TANGO CENT ",
+            "ASTEROIDS BREAKOUT FROGGER PONG, CHAINZ HUSTLE SALSA SWIPE, PINCH SAVAGE SPREAD SWING, TAP TANGO CENT ",
+            "ASTEROIDS BREAKOUT FROGGER PONG, CHAINZ HUSTLE SALSA SWIPE, SAVAGE SPREAD TAP SWING, CENT PINCH TANGO ",
+            "ASTEROIDS BREAKOUT FROGGER PONG, CHAINZ HUSTLE SALSA SWIPE, PINCH SAVAGE SPREAD SWING, TAP TANGO CENT ",
+            "ASTEROIDS BREAKOUT FROGGER PONG, CHAINZ SALSA SAVAGE SWIPE, HUSTLE PINCH SWING TAP, TANGO CENT SPREAD ",
+            "Breakout Pong Tap Asteroids, Chainz Hustle Savage Swing, Frogger Salsa Spin Pinch, Cent Spread TANGO SWIPE",
+            "Breakout Frogger Pac Pong, Swing Tap Swipe Tango, Pinch Salsa Savage Spread, Asteroids Chainz Hustle Cent",
+            "BREAKOUT HUSTLE PAC PONG, ASTEROIDS CHAINZ FROGGER SALSA, TAP SWIPE SWING TANGO, PINCH SAVAGE SPREAD CENT",
+            "BREAKOUT CENT HUSTLE SWING, ASTEROIDS FROGGER PONG TAP, PINCH SALSA SAVAGE SPREAD, CHAINZ TANGO SWIPE.",
+            "ASTEROIDS BREAKOUT FROGGER PONG, CHAINZ HUSTLE SALSA SWIPE, SAVAGE TAP SWING TANGO, CENT PINCH SPREAD "
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2355,
+            "prompt_tokens": 2263,
+            "cost": 0.0175245
+        }
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "FICTION HORROR MUSICAL TALE, KISS LIE ROMANCE STRIPES, DOT FIB GOOBER PLAID, WHOPPER WESTERN HOUNDSTOOTH PAISLEY",
+            "DOT PAISLEY PLAID STRIPES, FICTION HORROR MUSICAL TALE, KISS LIE WESTERN WHOPPER, FIB GOOBER HOUNDSTOOTH.",
+            "FICTION HORROR MUSICAL TALE, KISS LIE ROMANCE STRIPES, DOT FIB GOOBER PLAID, WHOPPER WESTERN HOUNDSTOOTH PAISLEY",
+            "DOT PAISLEY PLAID STRIPES, FICTION HORROR MUSICAL TALE, KISS LIE WHOPPER GOOBER, WESTERN FIB HOUNDSTOOTH.",
+            "DOT FIB PAISLEY STRIPES, KISS LIE MUSICAL WHOPPER, FICTION HORROR TALE WESTERN, GOOBER HOUNDSTOOTH PLAID.",
+            "DOT PAISLEY PLAID STRIPES, FICTION HORROR MUSICAL TALE, KISS LIE WHOPPER GOOBER, WESTERN HOUNDSTOOTH FIB.",
+            "FICTION HORROR MUSICAL TALE, KISS LIE PAISLEY STRIPES, DOT FIB GOOBER PLAID, WESTERN WHOPPER HOUNDSTOOTH.",
+            "DOT FIB PAISLEY STRIPES, KISS LIE MUSICAL WHOPPER, FICTION HORROR TALE WESTERN, GOOBER HOUNDSTOOTH PLAID.",
+            "FICTION HORROR MUSICAL TALE, KISS ROMANCE STRIPES WHOPPER, DOT FIB GOOBER PLAID, HOUNDSTOOTH PAISLEY WESTERN DOT",
+            "DOT PAISLEY PLAID STRIPES, FICTION HORROR MUSICAL TALE, KISS LIE WESTERN WHOPPER, FIB GOOBER HOUNDSTOOTH."
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2767,
+            "prompt_tokens": 2590,
+            "cost": 0.020487
+        }
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "BLADE FLASH STORM BLACK, CATFISH EEL PERCH SHARK, JACKASS MITE SCORPION SPIDER, CHAR STATE TICK CRIBS",
+            "BLADE BLACK FLASH STORM, CATFISH EEL PERCH SHARK, TICK MITE SCORPION SPIDER, JACKASS STATE CHAR CRIBS",
+            "Blade Flash Storm Scorpion, Catfish Eel Perch Shark, Tick Mite Spider Widow, Char Jackass State Cribs",
+            "BLADE BLACK FLASH STORM, CATFISH EEL PERCH SHARK, JACKASS MITE SCORPION SPIDER, CHAR STATE TICK CRIBS",
+            "BLADE FLASH STORM BLACK, CATFISH EEL PERCH SHARK, TICK MITE SCORPION SPIDER, CHAR JACKASS STATE CRIBS",
+            "BLADE FLASH STORM BLACK, CATFISH EEL PERCH SHARK, TICK MITE SCORPION SPIDER, JACKASS CHAR STATE CRIBS",
+            "BLADE BLACK FLASH STORM, CATFISH EEL PERCH SHARK, TICK MITE SCORPION SPIDER, CHAR JACKASS WIDOW CRIBS",
+            "Blade Flash Storm State, Catfish Eel Perch Scorpion, Jackass Mite Shark Spider, Tick Black Widow Cribs.",
+            "BLADE BLACK CHAR FLASH, CATFISH EEL PERCH SHARK, SCORPION SPIDER TICK MITE, JACKASS STATE STORM CRIBS",
+            "BLADE BLACK FLASH STORM, CATFISH EEL PERCH SHARK, JACKASS MITE SCORPION SPIDER, CHAR CRIBS STATE TICK"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3120,
+            "prompt_tokens": 2915,
+            "cost": 0.023092500000000002
+        }
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "Asteroid Comet Globe Moon, Handful Journal Lyme Pair, Planet Post Several Sun, Few Plumb Some.",
+            "GLOBE MOON PLANET SUN, COMET ASTEROID PLUMB POST, FEW HANDSFUL LYME SEVERAL, SOME JOURNAL PAIR.",
+            "GLOBE MOON PLANET SUN, COMET ASTEROID FEW LYME, HANDSOME HANDFUL PAIR SEVERAL, POST JOURNAL SOME PLUMB",
+            "GLOBE MOON PLANET SUN, COMET ASTEROID FEW LYME, HANDUL PAIR POST SEVERAL, JOURNAL MELLON SOME PLUMB",
+            "Asteroid Comet Globe Planet, Handful Few Lyme Pair, Journal Moon Post Sun, Several Some Plumb.",
+            "ASTEROID COMET MOON PLANET, GLOBE HANDFUL POST SEVERAL, FEW LYME SOME PAIR, JOURNAL PLUMB SUN PLAY",
+            "Comet Globe Moon Planet, Asteroid Few Handful Several, Post Pair Plumb Sun, Journal Lyme Some.",
+            "GLOBE MOON PLANET SUN, ASTEROID COMET FEW LYME, HANDFUL MELLON PAIR SEVERAL, JOURNAL POST PLUMB SOME",
+            "Asteroid Comet Globe Planet, Handful Journal Lyme Pair, Moon Few Post Several, Sun Some Plumb.",
+            "Asteroid Comet Globe Planet, Handful Journal Lyme Moon, Few Pair Post Several, Sun Some Plumb."
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3425,
+            "prompt_tokens": 3238,
+            "cost": 0.025407
+        }
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "BANGLE CHARM PENDANT RING, BROOCH DELIGHT FIELD PURGE, COURT PLEASE SAW SCREAM, ANKLET RINK TICKLE TICKLE",
+            "BANGLE CHARM PENDANT RING, BROOCH DELIGHT FIELD SAW, COURT PLEASE PURGE RINK, SCREAM TICKLE DIAMOND ANKLET",
+            "BANGLE BROOCH CHARM PENDANT, COURT DELIGHT FIELD RINK, DIAMOND RING SAW SCREAM, PLEASE PURGE TICKLE ANKLET",
+            "BANGLE CHARM PENDANT RING, BROOCH COURT DELIGHT FIELD, PLEASE PURGE SCREAM TICKLE, DIAMOND RINK SAW AXEL",
+            "BANGLE CHARM PENDANT RING, COURT DELIGHT FIELD PURGE, BROOCH PLEASE SAW SCREAM, ANKLET RINK TICKLE DIAMOND",
+            "BANGLE CHARM PENDANT RING, BROOCH DELIGHT FIELD SAW, COURT PLEASE PURGE TICKLE, RINK SCREAM DIAMOND ANKLET",
+            "BANGLE CHARM PENDANT RING, BROOCH DELIGHT FIELD SAW, COURT PLEASE PURGE TICKLE, RINK SCREAM DIAMOND ANKLET",
+            "BANGLE BROOCH CHARM PENDANT, DELIGHT FIELD RINK SAW, COURT PLEASE PURGE SCREAM, TICKLE RING ANKLET TICKLE",
+            "BANGLE CHARM PENDANT RING, BROOCH COURT DELIGHT FIELD, PURGE SAW SCREAM TICKLE, DIAMOND ANKLET RINK PLEASE",
+            "BANGLE CHARM PENDANT RING, BROOCH DELIGHT FIELD SAW, COURT PLEASE PURGE SCREAM, ANKLET RINK TICKLE DIAMOND"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3814,
+            "prompt_tokens": 3562,
+            "cost": 0.028227000000000002
+        }
+    }
+]
