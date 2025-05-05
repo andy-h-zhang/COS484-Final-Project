@@ -1,8 +1,8 @@
 python run.py \
-    --backend gpt-4o-mini \
+    --backend gpt-4 \
     --task connections \
-    --task_start_index 100 \
-    --task_end_index 101 \
+    --task_start_index 101 \
+    --task_end_index 105 \
     --method_generate propose \
     --method_evaluate value \
     --method_select greedy \

@@ -159,105 +159,107 @@ def add_answer_line(chain: str) -> str:
         return chain
     return chain.rstrip() + f"\nAnswer: {expr} = 24\n"
 
-# --------------------------------------------------------------------------
-def astar_solve(args, task, idx, to_print=True):
-    import heapq, re, sympy, itertools
+def astar_one_solution(args, task, idx, to_print=True,
+                       max_expansions: int = 12):
+    """
+    A* that tries to find ONE valid 24‑chain within `max_expansions` pops.
+    Returns ([chain], info_dict).  If no solution, returns the best partial
+    chain instead of [] so the driver never divides by zero.
+    """
+    import heapq, re, sympy, time
     from functools import partial
 
-    # ---- helpers --------------------------------------------------------
-    def canonical(chain: str) -> str:
-        "strip trailing/leading blanks and collapse repeated whitespace"
-        import re
-        lines = [re.sub(r'\s+', ' ', ln).strip() for ln in chain.split('\n') if ln.strip()]
-        return '\n'.join(lines)
+    beam       = args.n_select_sample          # children kept per pop
+    depth_cap  = max(5, task.steps)            # root + 4 moves
+    goal_re    = re.compile(r'=\s*24\s*(?:\([^)]*24\))?\s*$', re.I)
 
-    # build_expression & add_answer_line come from your earlier snippet
-    # --------------------------------------------------------------------
+    # ------------- helpers ------------------------------------------------
+    def canonical(s: str, keep_trailing_nl: bool = True) -> str:
+        import re
+        lines = [re.sub(r'\s+', ' ', ln).strip()
+                for ln in s.split('\n') if ln.strip()]
+        joined = '\n'.join(lines)
+        return joined + ('\n' if keep_trailing_nl else '')
+
     global gpt
     gpt = partial(gpt, model=args.backend, temperature=args.temperature)
-    x = task.get_input(idx)
+    x   = task.get_input(idx)
 
     cost      = lambda y: -get_value(task, x, y, args.n_evaluate_sample)
     heuristic = lambda y: 0
 
-    beam = args.n_select_sample                # keep at most this many nodes
-    open_list = [(0, 0, '')]                   # (f,g,chain)
-    finished, finished_set = [], set()         # avoid dup solutions
-    infos, step = [], 0
-    max_depth = max(task.steps, 5)
+    open_list  = [(0, 0, '')]           # (f, g, chain)
+    best_chain = ('', float('inf'))     # (chain, f) for fallback
+    infos      = []
+    pops       = 0
 
-    goal_regex = re.compile(r'.*= *24 *(?:\([^)]*24\))? *$', re.I)
+    while open_list and pops < max_expansions:
+        f_curr, g_curr, chain = heapq.heappop(open_list)
+        print(f"pop {pops}/{max_expansions}   f={f_curr:.2f}")
+        print("  chain:", repr(chain))
+        print("depth =", len(chain.splitlines()))
 
-    while open_list and len(finished) < beam:
-        f_curr, g_curr, y_curr = heapq.heappop(open_list)
+        if f_curr < best_chain[1]:
+            best_chain = (chain, f_curr)
 
-        # -------- goal test ---------------------------------------------
-        if y_curr and goal_regex.search(y_curr.split('\n')[-1]):
-            y_norm = canonical(y_curr)
-            if y_norm not in finished_set:         # skip exact dup
-                y_curr = add_answer_line(y_curr)
-                finished.append(y_curr)
-                finished_set.add(y_norm)
-                if to_print:
-                    print(f"Solution {len(finished)}/{beam}:\n{y_curr}\n")
+        # -------------------- goal test ----------------------------------
+        last_line = chain.rstrip().split('\n')[-1] if chain else ''
+        if chain and goal_re.search(last_line):
+            solved = add_answer_line(chain)
+            print(f"Final solution: {solved}")
+            return [solved], {'steps': infos}
+
+        # -------------------- depth cap ----------------------------------
+        if chain and len(chain.split('\n')) >= depth_cap:
+            print(f"being popped and skipped: {chain}")
             continue
+        
+        # only if using api
+        pops += 1
 
-        # -------- depth cap ---------------------------------------------
-        if y_curr and len(y_curr.split('\n')) >= max_depth:
-            continue
-
-        # -------------------------------- children ------------------------------
-        children = [c for c in get_proposals(task, x, y_curr) if c.strip()]
+        # -------------------- generation ---------------------------------
+        children = [canonical(c, True) for c in get_proposals(task, x, chain) if c.strip()]
         values   = [get_value(task, x, c, args.n_evaluate_sample) for c in children]
 
-        # rank all children by value
-        ranked   = sorted(range(len(children)), key=lambda i: values[i], reverse=True)
+        visited = set()          # canonicalised strings we have already queued
 
-        kept_ids = []                       # after duplicate filtering
+        beam = args.n_select_sample
+
+        ranked = sorted(range(len(children)),
+                        key=lambda i: values[i],
+                        reverse=True)           #  ← no slice yet
+
+        pushed = 0
         for i in ranked:
-            c_key = canonical(children[i])
-            if c_key in finished_set:       # already solved → skip
-                continue
-            kept_ids.append(i)
-            if len(kept_ids) == beam:       # got enough new nodes
+            if pushed == beam:
                 break
 
-        # -------- fallback: if nothing left, keep the single best anyway ---------
-        if not kept_ids and children:
-            kept_ids = ranked[:1]           # push the highest‑value duplicate
+            c      = children[i]
+            c_key  = canonical(c, False)
+            if c_key in visited:
+                continue                       # duplicate → skip
 
-        # ------------------------------------------------------------------------
-        for i in kept_ids:
-            c = children[i]
-            g_new = g_curr + cost(c)
-            f_new = g_new + heuristic(c)
-            heapq.heappush(open_list, (f_new, g_new, c))
-            
-        # ---- global beam prune (controls heap size) --------------------
-        open_list[:] = heapq.nsmallest(beam, open_list)
-        heapq.heapify(open_list)
+            visited.add(c_key)
+            g_n = g_curr + cost(c)
+            f_n = g_n + heuristic(c)
+            heapq.heappush(open_list, (f_n, g_n, c))
+            pushed += 1
 
-        # ---- logging ---------------------------------------------------
+        # -------- log this expansion (BFS‑style structure) ---------------
         infos.append({
-            'step': step,
-            'x': x,
-            'ys': [y_curr],
+            'step': pops,
+            'x':   x,
+            'ys':  [chain],
             'new_ys': children,
             'values': values,
-            'select_new_ys': [children[i] for i in best_ids],
+            'select_new_ys': [children[i] for i in ranked],
         })
         if to_print:
-            print(f"Step {step}: expanded depth={len(y_curr.splitlines())}")
-            print("  *** reached detail block ***")
-            print(f"ys:  {[y_curr]}")
-            print(f"new_ys:  {children}")
-            print(f"values: {values}")
-            print(f"select_new_ys: {[children[i] for i in best_ids]}")
-        step += 1
+            print(" current heap:", open_list)
 
+    # ---------------- fallback: no solution within budget ----------------
+    fallback = add_answer_line(best_chain[0])
     if to_print:
-        print("\nFinal solutions:")
-        for sol in finished:
-            print(sol)
-
-    return finished, {'steps': infos}
+        print("\nmax_expansions reached – returning best partial chain:")
+        print(fallback or "<empty>")
+    return [fallback] if fallback else [''], {'steps': infos}

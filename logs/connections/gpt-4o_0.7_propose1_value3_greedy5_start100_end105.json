@@ -1,0 +1,1130 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \n",
+                    "MUG PEN COPY TOTE office supplies (left: EXTRA BALL WON PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n",
+                    "ALLEY LANE BACKUP EXTRA traffic or road terms (left: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)  \n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n"
+                ],
+                "values": [
+                    0.6,
+                    0.6,
+                    0.6999999999999998,
+                    0.35,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \n",
+                    "MUG PEN COPY TOTE office supplies (left: EXTRA BALL WON PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)  \n",
+                    "ALLEY LANE BACKUP EXTRA traffic or road terms (left: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)  \n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \n",
+                    "MUG PEN COPY TOTE office supplies (left: EXTRA BALL WON PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)  \n",
+                    "ALLEY LANE BACKUP EXTRA traffic or road terms (left: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)  \n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n"
+                ],
+                "new_ys": [
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nEXTRA SPARE BACKUP COPY synonyms for additional or duplicate (left: BALL MUG PIN TEE ALLEY PEN TOTE LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nBALL PIN TEE LANE related to bowling (left: EXTRA MUG COPY ALLEY PEN BACKUP SPARE TOTE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nALLEY LANE TEE BALL related to sports/games (left: EXTRA MUG PIN COPY PEN BACKUP SPARE TOTE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nAll unused words: (EXTRA BALL MUG PIN TEE ALLEY PEN BACKUP SPARE TOTE LANE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nEXTRA TOO COPY FOR prefixes (left: WON MUG ATE ALLEY PEN BACKUP TOTE LANE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \n\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nATE WON TOO FOR homophones of numbers (left: EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \n\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nTOTE MUG PEN BACKUP items that can hold or contain (left: EXTRA WON COPY TOO ATE ALLEY FOR LANE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \n\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nLANE ALLEY BACKUP FOR relate to roads or driving (left: EXTRA WON MUG COPY TOO ATE PEN TOTE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \n\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \n(ALLEY)\n",
+                    "MUG PEN COPY TOTE office supplies (left: EXTRA BALL WON PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)  \nEXTRA SPARE BACKUP FOR synonyms for additional or reserve (left: BALL WON PIN TOO TEE ATE ALLEY LANE)\n",
+                    "MUG PEN COPY TOTE office supplies (left: EXTRA BALL WON PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)  \nBALL PIN TEE LANE terms in bowling (left: EXTRA WON TOO ATE ALLEY BACKUP SPARE FOR)\n",
+                    "MUG PEN COPY TOTE office supplies (left: EXTRA BALL WON PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)  \nTOO TWO ATE WON homophones or similar sounding words (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE FOR LANE)\n",
+                    "MUG PEN COPY TOTE office supplies (left: EXTRA BALL WON PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)  \nALLEY LANE TEE PIN terms in golf (left: EXTRA BALL WON TOO ATE BACKUP SPARE FOR)\n",
+                    "ALLEY LANE BACKUP EXTRA traffic or road terms (left: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)  \nBALL PIN TEE SPARE related to sports or bowling (left: WON MUG COPY TOO ATE PEN TOTE FOR)\n",
+                    "ALLEY LANE BACKUP EXTRA traffic or road terms (left: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)  \n\n",
+                    "ALLEY LANE BACKUP EXTRA traffic or road terms (left: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)  \nMUG TOTE PEN COPY items found on a desk or used for writing (left: BALL WON PIN TOO TEE ATE SPARE FOR)\n",
+                    "ALLEY LANE BACKUP EXTRA traffic or road terms (left: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)  \n\n",
+                    "ALLEY LANE BACKUP EXTRA traffic or road terms (left: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)  \nWON TOO ATE FOR homophones or similar sounding words (left: BALL MUG PIN COPY TEE PEN SPARE TOTE)\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\nThoughts:\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items (left: BALL WON MUG PIN TOO TEE ATE PEN FOR TOTE LANE ALLEY)\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling (left: BALL WON MUG TOO ATE PEN FOR TOTE)\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts, WON TOO ATE FOR are short words frequently used in simple sentences\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\nOutput: EXTRA BACKUP SPARE COPY, ALLEY LANE TEE PIN, BALL MUG PEN TOTE, WON TOO ATE FOR\n"
+                ],
+                "values": [
+                    0.0,
+                    0.4,
+                    0.7,
+                    0.4,
+                    0.6999999999999998,
+                    0.0,
+                    0.5666666666666667,
+                    0.6,
+                    0.6999999999999998,
+                    0,
+                    0.5,
+                    0,
+                    0.3,
+                    0,
+                    0.0,
+                    0.6,
+                    0.4,
+                    0.5666666666666667,
+                    0.5,
+                    0.4,
+                    0.35,
+                    0.4,
+                    0,
+                    0.6499999999999999,
+                    0.0,
+                    0.7,
+                    0.4,
+                    0.8333333333333334,
+                    0.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items (left: BALL WON MUG PIN TOO TEE ATE PEN FOR TOTE LANE ALLEY)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nATE WON TOO FOR homophones of numbers (left: EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items (left: BALL WON MUG PIN TOO TEE ATE PEN FOR TOTE LANE ALLEY)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nATE WON TOO FOR homophones of numbers (left: EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\n"
+                ],
+                "new_ys": [
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\nWON TOO ATE FOR sound-alike numbers (left: )\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nEXTRA SPARE BACKUP LANE words related to additional or reserve (left: BALL PIN TEE ALLEY)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nBALL PIN TEE ALLEY terms related to bowling (left: EXTRA BACKUP SPARE LANE)\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items (left: BALL WON MUG PIN TOO TEE ATE PEN FOR TOTE LANE ALLEY)\nBALL PIN TEE LANE terms used in bowling (left: WON MUG TOO ATE PEN FOR TOTE ALLEY)\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items (left: BALL WON MUG PIN TOO TEE ATE PEN FOR TOTE LANE ALLEY)\nMUG PEN TOTE ALLEY items that can be found in a workspace or office (left: BALL WON TOO TEE ATE FOR LANE)\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items (left: BALL WON MUG PIN TOO TEE ATE PEN FOR TOTE LANE ALLEY)\nATE TOO FOR WON homophones or near-homophones of numbers (left: BALL MUG PIN TEE PEN TOTE LANE ALLEY)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nMUG TEE TOTE PIN items often used or carried (left: EXTRA BALL COPY ALLEY PEN BACKUP SPARE LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nALLEY LANE BALL SPARE terms related to bowling (left: EXTRA MUG PIN COPY TEE PEN BACKUP TOTE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nEXTRA SPARE BACKUP COPY terms related to being additional or supplementary (left: BALL MUG PIN TEE ALLEY PEN LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nBALL MUG TEE PIN items commonly used in sports or games (left: EXTRA COPY ALLEY PEN BACKUP SPARE LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n(Extra words: BALL COPY ALLEY PEN LANE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nATE WON TOO FOR homophones of numbers (left: EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\nEXTRA BACKUP COPY PEN relate to office or document handling (left: MUG ALLEY TOTE LANE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nATE WON TOO FOR homophones of numbers (left: EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\nMUG TOTE PEN COPY relate to items you might find on a desk (left: EXTRA ALLEY BACKUP LANE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nATE WON TOO FOR homophones of numbers (left: EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\nALLEY LANE EXTRA BACKUP relate to street or road terminology (left: MUG COPY PEN TOTE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nATE WON TOO FOR homophones of numbers (left: EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\nMUG TOTE COPY BACKUP relate to portable items or containers (left: EXTRA ALLEY PEN LANE)\n",
+                    "BALL PIN TEE SPARE related to bowling (left: EXTRA WON MUG COPY TOO ATE ALLEY PEN BACKUP TOTE FOR LANE)  \nATE WON TOO FOR homophones of numbers (left: EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\n(EXTRA MUG COPY ALLEY PEN BACKUP TOTE LANE)\n"
+                ],
+                "values": [
+                    0.7666666666666666,
+                    0.6999999999999998,
+                    0.6499999999999999,
+                    0.4666666666666666,
+                    0.5666666666666668,
+                    0.45,
+                    0.6499999999999999,
+                    0.6,
+                    0.6666666666666666,
+                    0.43333333333333335,
+                    0.6,
+                    0.6999999999999998,
+                    0.0,
+                    0.3,
+                    0.3,
+                    0.4,
+                    0.25,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\nWON TOO ATE FOR sound-alike numbers (left: )\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nEXTRA SPARE BACKUP LANE words related to additional or reserve (left: BALL PIN TEE ALLEY)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nBALL PIN TEE ALLEY terms related to bowling (left: EXTRA BACKUP SPARE LANE)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\nWON TOO ATE FOR sound-alike numbers (left: )\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nEXTRA SPARE BACKUP LANE words related to additional or reserve (left: BALL PIN TEE ALLEY)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nBALL PIN TEE ALLEY terms related to bowling (left: EXTRA BACKUP SPARE LANE)\n"
+                ],
+                "new_ys": [
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\nWON TOO ATE FOR sound-alike numbers (left: )\nEXTRA BACKUP SPARE COPY, ALLEY LANE TEE PIN, BALL MUG PEN TOTE, WON TOO ATE FOR\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nEXTRA SPARE BACKUP LANE words related to additional or reserve (left: BALL PIN TEE ALLEY)\nBALL PIN TEE ALLEY relate to bowling (left: )\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\nEXTRA BACKUP SPARE COPY synonyms for additional (left: BALL MUG PIN TEE ALLEY PEN TOTE LANE)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\nBALL MUG TEE TOTE types of containers or items you can hold (left: EXTRA PIN COPY ALLEY PEN BACKUP SPARE LANE)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\nPIN ALLEY LANE TEE related to bowling (left: EXTRA BALL MUG COPY PEN BACKUP SPARE TOTE)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\nBALL PIN PEN TEE related to sports or games (left: EXTRA MUG COPY ALLEY BACKUP SPARE TOTE LANE)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\nMUG PEN TEE TOTE items you might find in an office (left: EXTRA BALL PIN COPY ALLEY BACKUP SPARE LANE)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \nBALL PIN TEE SPARE related to bowling (left: MUG ALLEY LANE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \nALLEY LANE SPARE MUG associated with roads or paths (left: BALL PIN TEE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \nBALL MUG PIN LANE could relate to sports or recreational activities (left: TEE ALLEY SPARE)  \n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \n\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \n(All words have been used up, none left in parentheses)\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nBALL PIN TEE ALLEY terms related to bowling (left: EXTRA BACKUP SPARE LANE)\nEXTRA BACKUP SPARE LANE relate to reserves or additional (left: )\n"
+                ],
+                "values": [
+                    0.0,
+                    0.7666666666666666,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.6666666666666666,
+                    0,
+                    0.7666666666666666
+                ],
+                "select_new_ys": [
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nEXTRA SPARE BACKUP LANE words related to additional or reserve (left: BALL PIN TEE ALLEY)\nBALL PIN TEE ALLEY relate to bowling (left: )\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nBALL PIN TEE ALLEY terms related to bowling (left: EXTRA BACKUP SPARE LANE)\nEXTRA BACKUP SPARE LANE relate to reserves or additional (left: )\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \n\n",
+                    "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\nWON TOO ATE FOR sound-alike numbers (left: )\nEXTRA BACKUP SPARE COPY, ALLEY LANE TEE PIN, BALL MUG PEN TOTE, WON TOO ATE FOR\n",
+                    "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\nEXTRA BACKUP SPARE COPY synonyms for additional (left: BALL MUG PIN TEE ALLEY PEN TOTE LANE)\n"
+                ]
+            }
+        ],
+        "idx": 100,
+        "ys": [
+            "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nEXTRA SPARE BACKUP LANE words related to additional or reserve (left: BALL PIN TEE ALLEY)\nBALL PIN TEE ALLEY relate to bowling (left: )\n",
+            "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \nMUG TOTE PEN COPY items found on a desk (left: EXTRA BALL PIN TEE ALLEY BACKUP SPARE LANE)  \nBALL PIN TEE ALLEY terms related to bowling (left: EXTRA BACKUP SPARE LANE)\nEXTRA BACKUP SPARE LANE relate to reserves or additional (left: )\n",
+            "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\nCOPY PEN BACKUP EXTRA terms related to duplication or redundancy (left: BALL MUG PIN TEE ALLEY SPARE LANE)  \n\n",
+            "(LEFT: BALL WON MUG PIN COPY TOO TEE ATE PEN SPARE TOTE FOR)\n    EXTRA BACKUP SPARE COPY are terms related to having additional or duplicate items, ALLEY LANE TEE PIN are terms related to bowling, BALL MUG PEN TOTE are items that can be made of rubber or contain rubber parts (left: WON TOO ATE FOR)\nWON TOO ATE FOR sound-alike numbers (left: )\nEXTRA BACKUP SPARE COPY, ALLEY LANE TEE PIN, BALL MUG PEN TOTE, WON TOO ATE FOR\n",
+            "ATE WON TOO FOR homophones of numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)  \n\n\nEXTRA BACKUP SPARE COPY synonyms for additional (left: BALL MUG PIN TEE ALLEY PEN TOTE LANE)\n"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 41745,
+            "prompt_tokens": 24370,
+            "cost": 0.478375
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "CHEF DOG ANIMAL CAR MITT BUS HOST SCOOTER TRUCK DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.5,
+                    0.6,
+                    0.6666666666666666
+                ],
+                "select_new_ys": [
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "CHEF DOG ANIMAL CAR MITT BUS HOST SCOOTER TRUCK DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER",
+                "ys": [
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n"
+                ],
+                "new_ys": [
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nCHEF BARTENDER HOST SERVER jobs in the hospitality industry (left: DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY GONZO)\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nCAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL PIGGY BARTENDER GONZO HOST SERVER)\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nCHEF BARTENDER SERVER MITT professions (left: CAR BUS SCOOTER TRUCK DIGIT BEAKER MOTORCYCLE)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nCAR BUS SCOOTER TRUCK vehicles (left: CHEF MITT DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nMOTORCYCLE SCOOTER CAR TRUCK types of transportation (left: CHEF MITT BUS DIGIT BEAKER BARTENDER SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nCHEF BARTENDER SERVER HOST professions in the hospitality industry (left: DOG ANIMAL MITT DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDOG ANIMAL PIGGY GONZO types of animals or animal references (left: CHEF MITT HOST DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nDOG ANIMAL PIGGY GONZO types of animals or animal-related terms (left: CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER MOTORCYCLE)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nCAR BUS SCOOTER MOTORCYCLE types of vehicles (left: DOG ANIMAL MITT TRUCK DIGIT BEAKER PIGGY GONZO)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nCAR TRUCK MOTORCYCLE BUS vehicles with wheels (left: DOG ANIMAL MITT SCOOTER DIGIT BEAKER PIGGY GONZO)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nGONZO DIGIT BEAKER MITT words with double letters (left: DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY MOTORCYCLE)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nPIGGY GONZO SCOOTER MITT terms related to Muppets or whimsical characters (left: DOG ANIMAL CAR BUS TRUCK DIGIT BEAKER MOTORCYCLE)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n(There are multiple possible groupings, depending on which connections you emphasize.)\n"
+                ],
+                "values": [
+                    0.6,
+                    0.5,
+                    0.9,
+                    0.7333333333333334,
+                    0.5,
+                    0.55,
+                    0.9,
+                    0.5,
+                    0.5,
+                    0.7000000000000001,
+                    0.6499999999999999,
+                    0.3333333333333333,
+                    0.0,
+                    0.9,
+                    0.6499999999999999,
+                    0.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nGONZO DIGIT BEAKER MITT words with double letters (left: DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY MOTORCYCLE)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nCHEF BARTENDER SERVER MITT professions (left: CAR BUS SCOOTER TRUCK DIGIT BEAKER MOTORCYCLE)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "CHEF DOG ANIMAL CAR MITT BUS HOST SCOOTER TRUCK DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER",
+                "ys": [
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nGONZO DIGIT BEAKER MITT words with double letters (left: DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY MOTORCYCLE)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nCHEF BARTENDER SERVER MITT professions (left: CAR BUS SCOOTER TRUCK DIGIT BEAKER MOTORCYCLE)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\n"
+                ],
+                "new_ys": [
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nCHEF BARTENDER HOST SERVER occupations in the service industry (left: CAR BUS SCOOTER TRUCK)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nCAR BUS SCOOTER TRUCK types of vehicles (left: CHEF BARTENDER HOST SERVER)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nUnused words: (none)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nCHEF BARTENDER relate to professions in the food and beverage industry (left: CAR BUS SCOOTER TRUCK MOTORCYCLE)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nCAR BUS TRUCK MOTORCYCLE types of vehicles (left: CHEF SCOOTER BARTENDER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nCAR SCOOTER MOTORCYCLE TRUCK modes of transportation (left: CHEF BUS BARTENDER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nBUS CAR TRUCK SCOOTER types of automobiles (left: CHEF BARTENDER MOTORCYCLE)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\n(CHEF SCOOTER BARTENDER)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nGONZO DIGIT BEAKER MITT words with double letters (left: DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY MOTORCYCLE)\nDOG ANIMAL PIGGY MOTORCYCLE types of toys or stuffed animals (left: CAR BUS SCOOTER TRUCK)\n",
+                    "CHEF BARTENDER HOST SERVER types of service industry jobs (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\nGONZO DIGIT BEAKER MITT words with double letters (left: DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY MOTORCYCLE)\nCAR BUS SCOOTER TRUCK types of vehicles (left: DOG ANIMAL PIGGY MOTORCYCLE)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nCHEF BARTENDER SERVER MITT professions (left: CAR BUS SCOOTER TRUCK DIGIT BEAKER MOTORCYCLE)\nCAR BUS SCOOTER TRUCK types of vehicles (left: DIGIT BEAKER MOTORCYCLE)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nCHEF BARTENDER SERVER MITT professions (left: CAR BUS SCOOTER TRUCK DIGIT BEAKER MOTORCYCLE)\nCAR MOTORCYCLE SCOOTER TRUCK modes of transportation (left: BUS DIGIT BEAKER)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\nCHEF BARTENDER SERVER HOST types of service industry workers (left: DOG ANIMAL PIGGY GONZO)\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\nDOG ANIMAL PIGGY GONZO relate to animals or animal-related terms (left: CHEF HOST BARTENDER SERVER)\n"
+                ],
+                "values": [
+                    0.9,
+                    0.9,
+                    0.9,
+                    0.0,
+                    0.9333333333333332,
+                    0.4,
+                    0.45,
+                    0.3,
+                    0.0,
+                    0.9,
+                    0.4666666666666666,
+                    0.15000000000000002,
+                    0.16666666666666666,
+                    0.4666666666666666,
+                    0.9666666666666667
+                ],
+                "select_new_ys": [
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\nDOG ANIMAL PIGGY GONZO relate to animals or animal-related terms (left: CHEF HOST BARTENDER SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nCHEF BARTENDER relate to professions in the food and beverage industry (left: CAR BUS SCOOTER TRUCK MOTORCYCLE)\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nCHEF BARTENDER HOST SERVER occupations in the service industry (left: CAR BUS SCOOTER TRUCK)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nCAR BUS SCOOTER TRUCK types of vehicles (left: CHEF BARTENDER HOST SERVER)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "CHEF DOG ANIMAL CAR MITT BUS HOST SCOOTER TRUCK DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER",
+                "ys": [
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\nDOG ANIMAL PIGGY GONZO relate to animals or animal-related terms (left: CHEF HOST BARTENDER SERVER)\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nCHEF BARTENDER relate to professions in the food and beverage industry (left: CAR BUS SCOOTER TRUCK MOTORCYCLE)\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nCHEF BARTENDER HOST SERVER occupations in the service industry (left: CAR BUS SCOOTER TRUCK)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nCAR BUS SCOOTER TRUCK types of vehicles (left: CHEF BARTENDER HOST SERVER)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\n"
+                ],
+                "new_ys": [
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\nDOG ANIMAL PIGGY GONZO relate to animals or animal-related terms (left: CHEF HOST BARTENDER SERVER)\nCHEF BARTENDER SERVER HOST occupations in the hospitality industry (left: )\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nCHEF BARTENDER relate to professions in the food and beverage industry (left: CAR BUS SCOOTER TRUCK MOTORCYCLE)\nCAR BUS SCOOTER TRUCK MOTORCYCLE types of vehicles (left: )\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nCHEF BARTENDER HOST SERVER occupations in the service industry (left: CAR BUS SCOOTER TRUCK)  \nCAR BUS SCOOTER TRUCK types of vehicles (left: )\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\nCAR BUS SCOOTER TRUCK types of vehicles (left: CHEF BARTENDER HOST SERVER)  \nCHEF BARTENDER HOST SERVER professions related to food and hospitality (left: )\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\nCHEF BARTENDER HOST SERVER occupations in the service industry (left: CAR BUS SCOOTER TRUCK)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\nCAR BUS SCOOTER TRUCK types of vehicles (left: CHEF BARTENDER HOST SERVER)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\n\n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\n(All words have been used; none are left in parentheses.)\n"
+                ],
+                "values": [
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0.9,
+                    0.9,
+                    0.9,
+                    0
+                ],
+                "select_new_ys": [
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\nCHEF BARTENDER HOST SERVER occupations in the service industry (left: CAR BUS SCOOTER TRUCK)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\nCAR BUS SCOOTER TRUCK types of vehicles (left: CHEF BARTENDER HOST SERVER)  \n",
+                    "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\n\n",
+                    "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\nDOG ANIMAL PIGGY GONZO relate to animals or animal-related terms (left: CHEF HOST BARTENDER SERVER)\nCHEF BARTENDER SERVER HOST occupations in the hospitality industry (left: )\n",
+                    "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nCHEF BARTENDER relate to professions in the food and beverage industry (left: CAR BUS SCOOTER TRUCK MOTORCYCLE)\nCAR BUS SCOOTER TRUCK MOTORCYCLE types of vehicles (left: )\n"
+                ]
+            }
+        ],
+        "idx": 101,
+        "ys": [
+            "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\nCHEF BARTENDER HOST SERVER occupations in the service industry (left: CAR BUS SCOOTER TRUCK)  \n",
+            "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\nCAR BUS SCOOTER TRUCK types of vehicles (left: CHEF BARTENDER HOST SERVER)  \n",
+            "MITT DIGIT BEAKER MOTORCYCLE objects or tools (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK PIGGY BARTENDER GONZO HOST SERVER)\nDOG ANIMAL PIGGY GONZO names of Muppet characters (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER HOST SERVER)\n\n\n",
+            "CAR BUS SCOOTER TRUCK types of vehicles (left: CHEF DOG ANIMAL MITT HOST DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)\nDIGIT BEAKER MITT MOTORCYCLE items or terms related to mechanics or science (left: CHEF DOG ANIMAL HOST PIGGY BARTENDER GONZO SERVER)\nDOG ANIMAL PIGGY GONZO relate to animals or animal-related terms (left: CHEF HOST BARTENDER SERVER)\nCHEF BARTENDER SERVER HOST occupations in the hospitality industry (left: )\n",
+            "DOG ANIMAL PIGGY GONZO types of animals or names related to animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER)\nDIGIT MITT BEAKER SERVER objects (left: CHEF CAR BUS SCOOTER TRUCK BARTENDER MOTORCYCLE)\nCHEF BARTENDER relate to professions in the food and beverage industry (left: CAR BUS SCOOTER TRUCK MOTORCYCLE)\nCAR BUS SCOOTER TRUCK MOTORCYCLE types of vehicles (left: )\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 66366,
+            "prompt_tokens": 41496,
+            "cost": 0.7674000000000001
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "FLOAT STAR FIRM HOVER SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH SHAKE OLD MALT SIGNS TANGIBLE",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n",
+                    "STAR SUNDAE MALT CONCRETE types of desserts or treats (left: FLOAT HOVER SPLIT GLASS KEY SOLID DASH SHAKE OLD SIGNS TANGIBLE)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\n",
+                    "(STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n"
+                ],
+                "values": [
+                    0.4000000000000001,
+                    0.0,
+                    0.0,
+                    0.5666666666666668,
+                    0.5,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n",
+                    "STAR SUNDAE MALT CONCRETE types of desserts or treats (left: FLOAT HOVER SPLIT GLASS KEY SOLID DASH SHAKE OLD SIGNS TANGIBLE)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "FLOAT STAR FIRM HOVER SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH SHAKE OLD MALT SIGNS TANGIBLE",
+                "ys": [
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n",
+                    "STAR SUNDAE MALT CONCRETE types of desserts or treats (left: FLOAT HOVER SPLIT GLASS KEY SOLID DASH SHAKE OLD SIGNS TANGIBLE)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\n"
+                ],
+                "new_ys": [
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nFLOAT HOVER DASH SHAKE types of movements or actions (left: STAR FIRM CONCRETE SUNDAE SOLID OLD MALT TANGIBLE)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nFIRM CONCRETE SOLID TANGIBLE words related to strength or substance (left: FLOAT STAR HOVER SUNDAE DASH SHAKE OLD MALT)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSUNDAE MALT SHAKE FLOAT types of sweet treats or beverages (left: STAR FIRM HOVER CONCRETE SOLID DASH OLD TANGIBLE)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nFLOAT HOVER DASH SHAKE types of movement (left: STAR SPLIT SUNDAE GLASS KEY MALT SIGNS TANGIBLE)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT SHAKE SUNDAE MALT related to desserts or drinks (left: FLOAT STAR HOVER GLASS KEY DASH SIGNS TANGIBLE)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSTAR SIGNS GLASS KEY related to astrology or fortune-telling (left: FLOAT HOVER SPLIT SUNDAE DASH SHAKE MALT TANGIBLE)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nFLOAT GLASS KEY STAR associated with bar or cocktail terms (left: HOVER SPLIT SUNDAE DASH SHAKE MALT SIGNS TANGIBLE)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\nSTAR SUNDAE MALT GLASS relate to ice cream or desserts (left: FIRM SPLIT CONCRETE KEY SOLID OLD SIGNS TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\nFIRM SOLID CONCRETE TANGIBLE describe physical or material properties (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\nKEY SPLIT SIGNS OLD associated with music or musical terms (left: STAR FIRM CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\n",
+                    "STAR SUNDAE MALT CONCRETE types of desserts or treats (left: FLOAT HOVER SPLIT GLASS KEY SOLID DASH SHAKE OLD SIGNS TANGIBLE)\nFLOAT HOVER DASH SHAKE actions or movements (left: SPLIT GLASS KEY SOLID OLD SIGNS TANGIBLE)\n",
+                    "STAR SUNDAE MALT CONCRETE types of desserts or treats (left: FLOAT HOVER SPLIT GLASS KEY SOLID DASH SHAKE OLD SIGNS TANGIBLE)\nGLASS SOLID TANGIBLE KEY related to physical objects (left: FLOAT HOVER SPLIT DASH SHAKE OLD SIGNS)\n",
+                    "STAR SUNDAE MALT CONCRETE types of desserts or treats (left: FLOAT HOVER SPLIT GLASS KEY SOLID DASH SHAKE OLD SIGNS TANGIBLE)\nOLD SIGNS KEY SOLID relate to enduring or lasting things (left: FLOAT HOVER SPLIT GLASS DASH SHAKE TANGIBLE)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nSPLIT DASH OLD KEY types of keys (left: FLOAT STAR HOVER SUNDAE GLASS SHAKE MALT SIGNS)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nSTAR OLD SIGNS GLASS types of symbols or markers (left: FLOAT HOVER SPLIT SUNDAE KEY DASH SHAKE MALT)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nSUNDAE MALT SHAKE FLOAT types of desserts or drinks (left: STAR HOVER SPLIT GLASS KEY DASH OLD SIGNS)\n"
+                ],
+                "values": [
+                    0.4,
+                    0.4,
+                    0.35,
+                    0.5666666666666667,
+                    0.45,
+                    0.45,
+                    0.5,
+                    0.5333333333333333,
+                    0.6,
+                    0.4666666666666666,
+                    0.55,
+                    0.5,
+                    0.55,
+                    0.4,
+                    0.5,
+                    0.0,
+                    0.55,
+                    0.5,
+                    0.5,
+                    0.25
+                ],
+                "select_new_ys": [
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\nFIRM SOLID CONCRETE TANGIBLE describe physical or material properties (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "FLOAT STAR FIRM HOVER SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH SHAKE OLD MALT SIGNS TANGIBLE",
+                "ys": [
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\nFIRM SOLID CONCRETE TANGIBLE describe physical or material properties (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\n"
+                ],
+                "new_ys": [
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nFLOAT HOVER SHAKE MALT actions or things that can be mixed or blended (left: STAR SUNDAE KEY SIGNS)  \n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSUNDAE MALT FLOAT SHAKE types of desserts or drinks (left: STAR HOVER KEY SIGNS)  \n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nFLOAT HOVER STAR KEY words associated with being elevated or in the air (left: SUNDAE SHAKE MALT SIGNS)  \n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\n\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nUnused words: (SUNDAE SHAKE MALT SIGNS)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nFLOAT HOVER DASH SHAKE types of movement or actions (left: CONCRETE SUNDAE MALT TANGIBLE)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nSUNDAE MALT types of dessert (left: FLOAT HOVER CONCRETE DASH SHAKE TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\nFIRM SOLID CONCRETE TANGIBLE describe physical or material properties (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nSTAR SUNDAE MALT GLASS things associated with beverages (left: SPLIT KEY OLD SIGNS)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\nFIRM SOLID CONCRETE TANGIBLE describe physical or material properties (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nKEY OLD SPLIT SIGNS words associated with music or sound (left: STAR SUNDAE MALT GLASS)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nSPLIT SUNDAE GLASS MALT relate to food or drinks (left: FIRM CONCRETE SOLID TANGIBLE)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nSTAR SPLIT GLASS SIGNS related to objects or activities (left: SUNDAE KEY OLD MALT)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nSUNDAE MALT GLASS KEY related to food and drink (left: STAR SPLIT OLD SIGNS)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nOLD KEY STAR SIGNS related to symbols or elements of storytelling (left: SPLIT SUNDAE MALT GLASS)\n"
+                ],
+                "values": [
+                    0.2333333333333333,
+                    0.3,
+                    0.6333333333333333,
+                    0.5666666666666665,
+                    0.6,
+                    0.0,
+                    0.4,
+                    0.7,
+                    0.6,
+                    0.25,
+                    0.3666666666666667,
+                    0.8,
+                    0.9,
+                    0.3,
+                    0.25,
+                    0.8
+                ],
+                "select_new_ys": [
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nSPLIT SUNDAE GLASS MALT relate to food or drinks (left: FIRM CONCRETE SOLID TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nOLD KEY STAR SIGNS related to symbols or elements of storytelling (left: SPLIT SUNDAE MALT GLASS)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "FLOAT STAR FIRM HOVER SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH SHAKE OLD MALT SIGNS TANGIBLE",
+                "ys": [
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nSPLIT SUNDAE GLASS MALT relate to food or drinks (left: FIRM CONCRETE SOLID TANGIBLE)\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nOLD KEY STAR SIGNS related to symbols or elements of storytelling (left: SPLIT SUNDAE MALT GLASS)\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \n"
+                ],
+                "new_ys": [
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nSPLIT SUNDAE GLASS MALT relate to food or drinks (left: FIRM CONCRETE SOLID TANGIBLE)\nFIRM CONCRETE SOLID TANGIBLE adjectives describing physical states or conditions (left: )\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\nSPLIT SUNDAE MALT types of dessert (left: GLASS)  \n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\nSPLIT GLASS MALT can be paired with \"milk\" (left: SUNDAE)  \n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\n\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\n(Left: GLASS)\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nOLD KEY STAR SIGNS related to symbols or elements of storytelling (left: SPLIT SUNDAE MALT GLASS)\nSPLIT SUNDAE MALT GLASS types of dessert (left: )\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\nFLOAT HOVER DASH SHAKE types of movements (left: SUNDAE MALT)  \n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\nSUNDAE MALT FLOAT SHAKE types of drinks or desserts (left: HOVER DASH)  \n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\nFLOAT HOVER SHAKE MALT can be associated with aerodynamics or fluid dynamics (left: SUNDAE DASH)  \n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\n\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\n(remaining: SUNDAE DASH)\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \nFLOAT HOVER SHAKE MALT types of motion or beverages (left: SUNDAE)  \n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \nSUNDAE FLOAT SHAKE MALT types of desserts or beverages (left: HOVER)  \n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \n\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \nUnused words: (HOVER, SUNDAE)\n"
+                ],
+                "values": [
+                    0.7666666666666666,
+                    0,
+                    0,
+                    0.8,
+                    0,
+                    0.7666666666666666,
+                    0,
+                    0,
+                    0,
+                    0.7,
+                    0,
+                    0,
+                    0,
+                    0.6333333333333333,
+                    0
+                ],
+                "select_new_ys": [
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\n\n",
+                    "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nSPLIT SUNDAE GLASS MALT relate to food or drinks (left: FIRM CONCRETE SOLID TANGIBLE)\nFIRM CONCRETE SOLID TANGIBLE adjectives describing physical states or conditions (left: )\n",
+                    "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nOLD KEY STAR SIGNS related to symbols or elements of storytelling (left: SPLIT SUNDAE MALT GLASS)\nSPLIT SUNDAE MALT GLASS types of dessert (left: )\n",
+                    "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\n\n",
+                    "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \n\n"
+                ]
+            }
+        ],
+        "idx": 102,
+        "ys": [
+            "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nFIRM SOLID CONCRETE TANGIBLE things that are physically or conceptually solid (left: SPLIT SUNDAE GLASS MALT)\n\n",
+            "FLOAT HOVER DASH SHAKE actions or movements (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n(KEY OLD STAR SIGNS astrology-related terms (left: FIRM SPLIT CONCRETE SUNDAE GLASS SOLID MALT TANGIBLE))\nSPLIT SUNDAE GLASS MALT relate to food or drinks (left: FIRM CONCRETE SOLID TANGIBLE)\nFIRM CONCRETE SOLID TANGIBLE adjectives describing physical states or conditions (left: )\n",
+            "FIRM CONCRETE SOLID TANGIBLE synonyms for strong or substantial (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE OLD MALT SIGNS)\nFLOAT HOVER DASH SHAKE types of movements (left: STAR SPLIT SUNDAE GLASS KEY OLD MALT SIGNS)\nOLD KEY STAR SIGNS related to symbols or elements of storytelling (left: SPLIT SUNDAE MALT GLASS)\nSPLIT SUNDAE MALT GLASS types of dessert (left: )\n",
+            "KEY SIGNS SPLIT GLASS relate to navigation or indicators (left: FLOAT STAR FIRM HOVER CONCRETE SUNDAE SOLID DASH SHAKE OLD MALT TANGIBLE)\nSTAR OLD FIRM SOLID words that can describe a person's reputation or status (left: FLOAT HOVER CONCRETE SUNDAE DASH SHAKE MALT TANGIBLE)\nCONCRETE TANGIBLE relate to physical or solid objects (left: FLOAT HOVER SUNDAE DASH SHAKE MALT)\n\n",
+            "OLD FIRM SOLID CONCRETE words associated with age or durability (left: FLOAT STAR HOVER SPLIT SUNDAE GLASS KEY DASH SHAKE MALT SIGNS TANGIBLE)\nSPLIT DASH GLASS TANGIBLE related to physical properties or actions (left: FLOAT STAR HOVER SUNDAE KEY SHAKE MALT SIGNS)\nSTAR KEY SIGNS symbols or icons (left: FLOAT HOVER SUNDAE SHAKE MALT)  \n\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 106159,
+            "prompt_tokens": 63909,
+            "cost": 1.2213625000000001
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "FALL STRONG SWIFT DROP KEYS SPRING SOUND SINK FIT DIP SUMMER TAP FOUNTAIN NICKS HEALTHY WELL",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\n"
+                ],
+                "values": [
+                    0.5,
+                    0.5666666666666667,
+                    0.4666666666666666,
+                    0.5,
+                    0.5
+                ],
+                "select_new_ys": [
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n",
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "FALL STRONG SWIFT DROP KEYS SPRING SOUND SINK FIT DIP SUMMER TAP FOUNTAIN NICKS HEALTHY WELL",
+                "ys": [
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n",
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\n"
+                ],
+                "new_ys": [
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nSPRING SUMMER WELL FOUNTAIN sources or origins of water (left: FALL DROP SINK DIP KEYS TAP NICKS HEALTHY)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nKEYS NICKS TAP WELL terms related to music or sound (left: FALL DROP SINK DIP SPRING SUMMER FOUNTAIN HEALTHY)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nSPRING SUMMER FALL HEALTHY terms related to seasons or wellness (left: DROP SINK DIP KEYS TAP FOUNTAIN NICKS WELL)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n(KEYS NICKS WELL DROP SINK DIP TAP FOUNTAIN)\n",
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nSTRONG SWIFT FIT HEALTHY indicate physical attributes (left: KEYS SPRING SOUND SUMMER TAP FOUNTAIN NICKS WELL)  \n",
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nSPRING SUMMER SOUND TAP relate to seasons or activities (left: STRONG SWIFT KEYS FIT FOUNTAIN NICKS HEALTHY WELL)  \n",
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFOUNTAIN SPRING TAP WELL relate to water sources (left: STRONG SWIFT KEYS SOUND SUMMER NICKS HEALTHY)  \n",
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nSOUND KEYS NICKS TAP relate to music or audio equipment (left: STRONG SWIFT SPRING SUMMER FOUNTAIN HEALTHY WELL)  \n",
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n\n",
+                    "FALL DROP SINK DIP actions related to descending or lowering (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n(left: STRONG SWIFT HEALTHY SUMMER)\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nFALL DROP SINK DIP words related to descending (left: SWIFT KEYS SPRING SOUND SUMMER TAP FOUNTAIN NICKS)\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nSPRING SUMMER FALL SWIFT types of seasons (left: DROP SINK KEYS SOUND DIP TAP FOUNTAIN NICKS)\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nSWIFT KEYS SOUND NICKS words related to speed or quickness (left: FALL DROP SINK SPRING DIP SUMMER TAP FOUNTAIN)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nFALL DROP SINK DIP actions related to going down (left: STRONG SWIFT SPRING FIT SUMMER FOUNTAIN HEALTHY WELL)  \n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSTRONG SWIFT FIT HEALTHY attributes related to physical condition (left: FALL DROP SINK SPRING SUMMER FOUNTAIN WELL)  \n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\n\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\n(STRONG DROP SINK FIT SUMMER HEALTHY)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nSTRONG SWIFT SOUND KEYS types of winds (left: DROP SINK FIT TAP NICKS HEALTHY WELL)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nDROP SINK TAP SOUND water-related terms (left: STRONG SWIFT KEYS FIT NICKS HEALTHY WELL)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nFIT HEALTHY WELL SOUND related to health or fitness (left: STRONG SWIFT DROP SINK KEYS TAP NICKS)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nFIT STRONG HEALTHY WELL adjectives describing physical condition (left: SWIFT DROP SINK KEYS TAP NICKS SOUND)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\n"
+                ],
+                "values": [
+                    0.6,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.0,
+                    0.39999999999999997,
+                    0.5,
+                    0.25,
+                    0.45,
+                    0.5,
+                    0.25,
+                    0.4,
+                    0.5,
+                    0.6,
+                    0.5,
+                    0.55,
+                    0.5666666666666667,
+                    0.55,
+                    0.65,
+                    0.5,
+                    0.0,
+                    0.45,
+                    0.4,
+                    0.3,
+                    0.35,
+                    0.6
+                ],
+                "select_new_ys": [
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "FALL STRONG SWIFT DROP KEYS SPRING SOUND SINK FIT DIP SUMMER TAP FOUNTAIN NICKS HEALTHY WELL",
+                "ys": [
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \n"
+                ],
+                "new_ys": [
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nSTRONG HEALTHY FIT WELL related to fitness or health (left: DROP SINK FOUNTAIN)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nDROP SINK FOUNTAIN related to water or liquid (left: STRONG FIT HEALTHY WELL)\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \nKEYS TAP FOUNTAIN SPRING sources of water (left: SUMMER NICKS HEALTHY WELL)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \nSPRING SUMMER WELL HEALTHY positive or revitalizing concepts (left: KEYS TAP FOUNTAIN NICKS)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \nNICKS KEYS TAP WELL words related to minor scratches or adjustments (left: SPRING SUMMER FOUNTAIN HEALTHY)  \n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n(remaining: SUMMER NICKS HEALTHY WELL)\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\nFALL DROP SINK DIP actions related to descending or going down (left: SWIFT SPRING SUMMER NICKS)  \n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\nSPRING SUMMER FALL SWIFT seasons or related to nature (left: DROP SINK DIP NICKS)  \n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\nSWIFT DROP SINK NICKS names or terms associated with water (left: FALL SPRING DIP SUMMER)  \n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\nSPRING SWIFT DROP NICKS words related to speed or suddenness (left: FALL SINK DIP SUMMER)  \n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\n\n",
+                    "WELL FIT HEALTHY STRONG words related to physical fitness or health (left: FALL SWIFT DROP SINK KEYS SPRING SOUND DIP SUMMER TAP FOUNTAIN NICKS)\nKEYS SOUND TAP FOUNTAIN words related to music (left: FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)\n**(FALL SWIFT DROP SINK SPRING DIP SUMMER NICKS)**\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\nSTRONG SWIFT FIT HEALTHY relate to physical attributes (left: DROP SINK WELL)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\nDROP SINK WELL water-related terms (left: STRONG SWIFT FIT HEALTHY)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \nFALL DROP SWIFT SUMMER words related to seasons or weather (left: STRONG FIT HEALTHY)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \nSTRONG FIT HEALTHY words related to physical condition (left: FALL SWIFT DROP SUMMER)\n"
+                ],
+                "values": [
+                    0.6333333333333333,
+                    0.9,
+                    0.3666666666666667,
+                    0.26666666666666666,
+                    0.3333333333333333,
+                    0.6,
+                    0.0,
+                    0.26666666666666666,
+                    0.43333333333333335,
+                    0.3,
+                    0.39999999999999997,
+                    0.6,
+                    0.0,
+                    0.5666666666666668,
+                    0.9,
+                    0.9,
+                    0.3
+                ],
+                "select_new_ys": [
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nDROP SINK FOUNTAIN related to water or liquid (left: STRONG FIT HEALTHY WELL)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\nDROP SINK WELL water-related terms (left: STRONG SWIFT FIT HEALTHY)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \nFALL DROP SWIFT SUMMER words related to seasons or weather (left: STRONG FIT HEALTHY)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nSTRONG HEALTHY FIT WELL related to fitness or health (left: DROP SINK FOUNTAIN)\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "FALL STRONG SWIFT DROP KEYS SPRING SOUND SINK FIT DIP SUMMER TAP FOUNTAIN NICKS HEALTHY WELL",
+                "ys": [
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nDROP SINK FOUNTAIN related to water or liquid (left: STRONG FIT HEALTHY WELL)\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\nDROP SINK WELL water-related terms (left: STRONG SWIFT FIT HEALTHY)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \nFALL DROP SWIFT SUMMER words related to seasons or weather (left: STRONG FIT HEALTHY)\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nSTRONG HEALTHY FIT WELL related to fitness or health (left: DROP SINK FOUNTAIN)\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\n"
+                ],
+                "new_ys": [
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nDROP SINK FOUNTAIN related to water or liquid (left: STRONG FIT HEALTHY WELL)\nSTRONG FIT HEALTHY WELL related to physical condition or fitness (left: )\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\nDROP SINK WELL water-related terms (left: STRONG SWIFT FIT HEALTHY)\nSTRONG SWIFT FIT HEALTHY words related to physical attributes or fitness (left: )\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \nFALL DROP SWIFT SUMMER words related to seasons or weather (left: STRONG FIT HEALTHY)\nSTRONG FIT HEALTHY relate to physical wellness or fitness (left: )\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nSTRONG HEALTHY FIT WELL related to fitness or health (left: DROP SINK FOUNTAIN)\nDROP SINK FOUNTAIN related to water (left: )\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\nKEYS TAP NICKS FOUNTAIN types of water features or sources (left: SPRING SUMMER HEALTHY WELL)\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\nSPRING SUMMER WELL HEALTHY related to wellness or vitality (left: KEYS TAP NICKS FOUNTAIN)\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\nSPRING SUMMER WELL FOUNTAIN sources or types of water (left: KEYS TAP NICKS HEALTHY)\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\nSPRING SUMMER HEALTHY WELL related to seasons or conditions (left: KEYS TAP NICKS FOUNTAIN)\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\n(KEYS TAP NICKS HEALTHY WELL)\n"
+                ],
+                "values": [
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nDROP SINK FOUNTAIN related to water or liquid (left: STRONG FIT HEALTHY WELL)\nSTRONG FIT HEALTHY WELL related to physical condition or fitness (left: )\n",
+                    "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\nDROP SINK WELL water-related terms (left: STRONG SWIFT FIT HEALTHY)\nSTRONG SWIFT FIT HEALTHY words related to physical attributes or fitness (left: )\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \nFALL DROP SWIFT SUMMER words related to seasons or weather (left: STRONG FIT HEALTHY)\nSTRONG FIT HEALTHY relate to physical wellness or fitness (left: )\n",
+                    "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nSTRONG HEALTHY FIT WELL related to fitness or health (left: DROP SINK FOUNTAIN)\nDROP SINK FOUNTAIN related to water (left: )\n",
+                    "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\nKEYS TAP NICKS FOUNTAIN types of water features or sources (left: SPRING SUMMER HEALTHY WELL)\n"
+                ]
+            }
+        ],
+        "idx": 103,
+        "ys": [
+            "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nDROP SINK FOUNTAIN related to water or liquid (left: STRONG FIT HEALTHY WELL)\nSTRONG FIT HEALTHY WELL related to physical condition or fitness (left: )\n",
+            "SPRING SUMMER FALL FOUNTAIN words associated with water or seasons (left: STRONG SWIFT DROP SINK KEYS SOUND FIT TAP NICKS HEALTHY WELL)\nNICKS KEYS TAP SOUND terms related to music or sound (left: STRONG SWIFT DROP SINK FIT HEALTHY WELL)\nDROP SINK WELL water-related terms (left: STRONG SWIFT FIT HEALTHY)\nSTRONG SWIFT FIT HEALTHY words related to physical attributes or fitness (left: )\n",
+            "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING FOUNTAIN WELL SINK sources of water (left: FALL STRONG SWIFT DROP FIT SUMMER HEALTHY)  \nFALL DROP SWIFT SUMMER words related to seasons or weather (left: STRONG FIT HEALTHY)\nSTRONG FIT HEALTHY relate to physical wellness or fitness (left: )\n",
+            "KEYS TAP NICKS SOUND words related to music or audio (left: FALL STRONG SWIFT DROP SINK SPRING FIT DIP SUMMER FOUNTAIN HEALTHY WELL)\nSPRING SUMMER FALL SWIFT seasons or weather-related terms (left: STRONG DROP SINK FIT FOUNTAIN HEALTHY WELL)  \nSTRONG HEALTHY FIT WELL related to fitness or health (left: DROP SINK FOUNTAIN)\nDROP SINK FOUNTAIN related to water (left: )\n",
+            "STRONG SWIFT SOUND FIT adjectives describing characteristics or qualities (left: FALL DROP SINK DIP KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\nFALL DROP SINK DIP actions or movements related to going down (left: KEYS SPRING SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)  \n\nKEYS TAP NICKS FOUNTAIN types of water features or sources (left: SPRING SUMMER HEALTHY WELL)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 143437,
+            "prompt_tokens": 85888,
+            "cost": 1.6490900000000002
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "CLEAVER FISH PRINCESS LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER MAMMAL",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\n"
+                ],
+                "values": [
+                    0.6,
+                    0.7,
+                    0.7,
+                    0.5
+                ],
+                "select_new_ys": [
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "CLEAVER FISH PRINCESS LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER MAMMAL",
+                "ys": [
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\n"
+                ],
+                "new_ys": [
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS PARTRIDGE MUSHROOM PLUMBER TANNER GRATER BUNKER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nFISH PARTRIDGE BIRD REPTILE types of animals (left: CLEAVER LADLE DINOSAUR MUSHROOM WHISK GRATER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: FISH DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nPEELER GRATER LADLE WHISK cooking tools (left: CLEAVER FISH DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nMUSHROOM FISH PARTRIDGE BIRD edible items (left: CLEAVER LADLE DINOSAUR REPTILE WHISK GRATER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n(CLEAVER DINOSAUR MUSHROOM)\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\nFISH PARTRIDGE BIRD MAMMAL types of animals (left: PRINCESS DINOSAUR MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER)\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\n\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\nDINOSAUR REPTILE MAMMAL BIRD classes of vertebrates (left: FISH PRINCESS PARTRIDGE MUSHROOM PLUMBER TANNER GRATER BUNKER)\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\n\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\nPLUMBER TANNER GRATER BUNKER occupations/tools (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE)\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\n\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\nPRINCESS FISH PARTRIDGE BIRD terms used in games (left: DINOSAUR MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER)\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\n\n",
+                    "CLEAVER LADLE WHISK PEELER kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER MAMMAL)\nPRINCESS BIRD FISH MUSHROOM elements in fairy tales or fantasy (left: DINOSAUR PARTRIDGE REPTILE PLUMBER TANNER GRATER BUNKER)\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: PRINCESS DINOSAUR BIRD REPTILE PLUMBER TANNER BUNKER)\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nDINOSAUR BIRD REPTILE PRINCESS prehistoric or ancient creatures/terms (left: CLEAVER LADLE PLUMBER WHISK TANNER BUNKER PEELER)\n"
+                ],
+                "values": [
+                    0.4000000000000001,
+                    0.6333333333333333,
+                    0.8000000000000002,
+                    0.5,
+                    0.7,
+                    0.5,
+                    0,
+                    0.7,
+                    0,
+                    0.55,
+                    0,
+                    0.6,
+                    0,
+                    0.0,
+                    0.5,
+                    0.6,
+                    0.4000000000000001,
+                    0,
+                    0.43333333333333335,
+                    0,
+                    0.25,
+                    0,
+                    0.3666666666666667,
+                    0.35,
+                    0.9,
+                    0.55
+                ],
+                "select_new_ys": [
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "CLEAVER FISH PRINCESS LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER MAMMAL",
+                "ys": [
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n"
+                ],
+                "new_ys": [
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: DINOSAUR BIRD REPTILE)  \n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nDINOSAUR BIRD REPTILE types of animals, specifically relating to evolutionary history (left: CLEAVER LADLE WHISK PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: FISH PARTRIDGE MUSHROOM PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\nFISH PARTRIDGE MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\nFISH PARTRIDGE BIRD DINOSAUR animals (left: CLEAVER LADLE MUSHROOM REPTILE WHISK GRATER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: FISH DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\nDINOSAUR REPTILE BIRD MUSHROOM types of organisms or life forms (left: CLEAVER FISH LADLE PARTRIDGE WHISK GRATER PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\n\nPEELER GRATER WHISK LADLE cooking tools (left: CLEAVER FISH DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: FISH MUSHROOM PEELER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\nFISH MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: PLUMBER TANNER GRATER BUNKER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER BUNKER GRATER professions or roles (left: CLEAVER LADLE WHISK PEELER)\n"
+                ],
+                "values": [
+                    0.7000000000000001,
+                    0.9,
+                    0.2,
+                    0.9,
+                    0.45,
+                    0.5,
+                    0.7,
+                    0.55,
+                    0.4,
+                    0.9,
+                    0.20000000000000004,
+                    0.9
+                ],
+                "select_new_ys": [
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nDINOSAUR BIRD REPTILE types of animals, specifically relating to evolutionary history (left: CLEAVER LADLE WHISK PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\nFISH PARTRIDGE MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\nFISH MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER BUNKER GRATER professions or roles (left: CLEAVER LADLE WHISK PEELER)\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: DINOSAUR BIRD REPTILE)  \n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "CLEAVER FISH PRINCESS LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER MAMMAL",
+                "ys": [
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nDINOSAUR BIRD REPTILE types of animals, specifically relating to evolutionary history (left: CLEAVER LADLE WHISK PEELER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\nFISH PARTRIDGE MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\nFISH MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER BUNKER GRATER professions or roles (left: CLEAVER LADLE WHISK PEELER)\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: DINOSAUR BIRD REPTILE)  \n"
+                ],
+                "new_ys": [
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nDINOSAUR BIRD REPTILE types of animals, specifically relating to evolutionary history (left: CLEAVER LADLE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: )\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\nFISH PARTRIDGE MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: )\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\nFISH MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: )\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER BUNKER GRATER professions or roles (left: CLEAVER LADLE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: )\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: DINOSAUR BIRD REPTILE)  \nDINOSAUR BIRD REPTILE types of animals (left: )\n"
+                ],
+                "values": [
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0.7666666666666666,
+                    0.7666666666666666
+                ],
+                "select_new_ys": [
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nDINOSAUR BIRD REPTILE types of animals, specifically relating to evolutionary history (left: CLEAVER LADLE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: )\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\nFISH PARTRIDGE MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: )\n",
+                    "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\nFISH MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: )\n",
+                    "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER BUNKER GRATER professions or roles (left: CLEAVER LADLE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: )\n",
+                    "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: DINOSAUR BIRD REPTILE)  \nDINOSAUR BIRD REPTILE types of animals (left: )\n"
+                ]
+            }
+        ],
+        "idx": 104,
+        "ys": [
+            "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nDINOSAUR BIRD REPTILE types of animals, specifically relating to evolutionary history (left: CLEAVER LADLE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: )\n",
+            "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER PRINCESS BUNKER occupations or roles (left: CLEAVER FISH LADLE PARTRIDGE MUSHROOM WHISK GRATER PEELER)\nFISH PARTRIDGE MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: )\n",
+            "PRINCESS PLUMBER TANNER BUNKER types of professions or roles (left: CLEAVER FISH LADLE DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE WHISK GRATER PEELER)\nDINOSAUR PARTRIDGE BIRD REPTILE related to animals (left: CLEAVER FISH LADLE MUSHROOM WHISK GRATER PEELER)\nFISH MUSHROOM PEELER food-related items (left: CLEAVER LADLE WHISK GRATER)\nCLEAVER LADLE WHISK GRATER kitchen utensils (left: )\n",
+            "DINOSAUR REPTILE BIRD MAMMAL types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nFISH PARTRIDGE MUSHROOM PRINCESS types of food/ingredients (left: CLEAVER LADLE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\nPLUMBER TANNER BUNKER GRATER professions or roles (left: CLEAVER LADLE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: )\n",
+            "FISH PARTRIDGE MUSHROOM GRATER relate to food or food preparation (left: CLEAVER PRINCESS LADLE DINOSAUR BIRD REPTILE PLUMBER WHISK TANNER BUNKER PEELER)\nPRINCESS PLUMBER TANNER BUNKER occupations (left: CLEAVER LADLE DINOSAUR BIRD REPTILE WHISK PEELER)\nCLEAVER LADLE WHISK PEELER kitchen utensils (left: DINOSAUR BIRD REPTILE)  \nDINOSAUR BIRD REPTILE types of animals (left: )\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 168940,
+            "prompt_tokens": 101460,
+            "cost": 1.94305
+        }
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "idx": 100,
+        "ys": [
+            "Thoughts: \n    TOTE BACKUP SPARE FOR are related to items for storage or carrying (left: EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN LANE)\n    TOTE BACKUP SPARE FOR are related to items for storage or carrying, EXTRA MUG ATE ALLEY are related to food or beverage (left: BALL WON PIN COPY TOO TEE PEN LANE)\n    TOTE BACKUP SPARE FOR are related to items for storage or carrying, EXTRA MUG ATE ALLEY relate to food or beverage, BALL PIN COPY TEE relate to games or sports (left: WON TOO PEN LANE)\n    TOTE BACKUP SPARE FOR are related to items for storage or carrying, EXTRA MUG ATE ALLEY relate to food or beverage, BALL PIN COPY TEE relate to games or sports, WON TOO relate to victory or winning (left: PEN LANE)\nOutput: TOTE BACKUP SPARE FOR, EXTRA MUG ATE ALLEY, BALL PIN COPY TEE, WON TOO",
+            "BALL TEE PIN MUG are items associated with games (left: EXTRA COPY TOO ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE)  \nBACKUP SPARE FOR TOTE are related to items that provide support or alternatives (left: EXTRA BALL WON MUG PIN COPY TOO ATE ALLEY PEN LANE)  \nEXTRA COPY ATE LANE are terms used in the context of food or servings (left: BALL WON MUG PIN TEE BACKUP SPARE FOR TOTE)  \nWON TOO ALLEY PEN are terms related to winning or competition (left: EXTRA BALL MUG PIN COPY ATE BACKUP SPARE TOTE FOR)  \nOutput: BALL TEE PIN MUG, BACKUP SPARE FOR TOTE, EXTRA COPY ATE LANE, WON TOO ALLEY PEN",
+            "BALL MUG TEE PIN are terms associated with games (left: EXTRA WON COPY TOO ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE)  \nEXTRA BACKUP SPARE TOTE refer to additional items or substitutes (left: BALL WON MUG PIN COPY TOO ATE ALLEY PEN FOR LANE)  \nALLEY LANE refer to parts of a bowling or sports context (left: EXTRA BALL WON MUG PIN COPY TOO ATE BACKUP SPARE FOR)  \nCOPY ATE refers to actions or items related to duplication or consumption (left: EXTRA BALL WON MUG PIN TEE ALLEY PEN BACKUP SPARE FOR)  \n\nOutput: BALL MUG TEE PIN, EXTRA BACKUP SPARE TOTE, ALLEY LANE, COPY ATE",
+            "PEN MUG TEE PIN are all items associated with writing or drawing (left: EXTRA BALL WON COPY TOO ATE ALLEY BACKUP SPARE TOTE FOR LANE).  \nBACKUP SPARE EXTRA TOTE relate to additional items or substitutes (left: BALL WON COPY TOO ATE ALLEY PEN MUG TEE PIN).  \nLANE ALLEY are types of pathways or roads (left: EXTRA BALL WON COPY TOO ATE BACKUP SPARE TOTE FOR PEN MUG TEE PIN).  \nBALL WON COPY TOO relate to games or competitions (left: EXTRA BACKUP SPARE TOTE FOR PEN MUG TEE PIN).  \n\nOutput: PEN MUG TEE PIN, BACKUP SPARE EXTRA TOTE, LANE ALLEY, BALL WON COPY TOO",
+            "PEN MUG PIN TEE are all items associated with writing or drawing (left: EXTRA BALL WON COPY TOO ATE ALLEY BACKUP SPARE TOTE FOR LANE).  \nEXTRA BALL BACKUP SPARE TOTE are terms related to additional items or reserves (left: MUG PIN TEE WON COPY TOO ATE ALLEY FOR LANE).  \nWON EXTRA BALL TOTE are terms that can relate to gaming or sports (left: MUG PIN TEE COPY TOO ATE ALLEY BACKUP SPARE FOR LANE).  \nALLEY LANE are terms related to paths or routes (left: EXTRA BALL WON MUG PIN TEE COPY TOO ATE BACKUP SPARE FOR).  \n\nOutput: PEN MUG PIN TEE, EXTRA BALL BACKUP SPARE TOTE, WON EXTRA BALL TOTE, ALLEY LANE",
+            "BALL TEE PIN MUG are all items associated with a game of pool or billiards (left: EXTRA WON COPY TOO ALLEY PEN BACKUP SPARE TOTE FOR LANE). \n\nEXTRA BACKUP SPARE FOR are all synonyms related to something additional or supplementary (left: BALL WON MUG PIN TEE ATE ALLEY PEN TOTE LANE).\n\nWON ATE TOO LANE are terms associated with winning or achieving in games or sports (left: BALL TEE PIN MUG EXTRA BACKUP SPARE FOR ALLEY PEN TOTE).\n\nALLEY TOTE PEN COPY are items related to writing or stationery (left: BALL TEE PIN MUG EXTRA WON BACKUP SPARE FOR LANE).\n\nOutput: BALL TEE PIN MUG, EXTRA BACKUP SPARE FOR, WON ATE TOO LANE, ALLEY TOTE PEN COPY",
+            "BALL TEE PIN MUG are all items associated with games or sports (left: EXTRA WON COPY TOO ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE). BACKUP SPARE EXTRA TOTE are synonyms related to alternatives or reserves (left: BALL WON COPY TOO ATE ALLEY PEN FOR LANE). LANE ALLEY are types of pathways or routes (left: BALL WON COPY TOO ATE PEN BACKUP SPARE FOR). WON TOO ATE COPY are related to actions or outcomes in games (left: BALL PEN BACKUP SPARE TOTE FOR). \n\nOutput: BALL TEE PIN MUG, BACKUP SPARE EXTRA TOTE, LANE ALLEY, WON TOO ATE COPY",
+            "PEN MUG TEE PIN are items associated with writing or drawing (left: EXTRA BALL WON COPY TOO ATE ALLEY BACKUP SPARE TOTE FOR LANE). \nEXTRA BALL BACKUP SPARE TOTE are terms associated with sports or games (left: WON MUG PIN COPY TOO ATE ALLEY FOR LANE). \nALLEY LANE are types of pathways or roads (left: EXTRA BALL WON COPY TOO ATE BACKUP SPARE FOR). \nCOPY FOR are terms used in publishing or document preparation (left: EXTRA BALL WON MUG PIN TOO ATE ALLEY BACKUP SPARE LANE).\n\nOutput: PEN MUG TEE PIN, EXTRA BALL BACKUP SPARE TOTE, ALLEY LANE, COPY FOR",
+            "BALL MUG TEE PIN are items associated with games or sports (left: EXTRA WON COPY TOO ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE)  \nEXTRA BALL MUG TEE PIN are items associated with games or sports, ALLEY LANE are terms related to bowling (left: WON COPY TOO ATE PEN BACKUP SPARE TOTE FOR)  \nEXTRA BALL MUG TEE PIN are items associated with games or sports, ALLEY LANE are terms related to bowling, COPY BACKUP FOR are terms related to duplication or support (left: WON TOO ATE PEN SPARE TOTE)  \nEXTRA BALL MUG TEE PIN are items associated with games or sports, ALLEY LANE are terms related to bowling, COPY BACKUP FOR are terms related to duplication or support, WON TOO ATE PEN SPARE TOTE are all related to alternatives or substitutions (left: )  \nOutput: BALL MUG TEE PIN, ALLEY LANE, COPY BACKUP FOR, WON TOO ATE PEN SPARE TOTE",
+            "BALL TEE PIN ALLEY are all terms related to bowling (left: EXTRA WON MUG COPY TOO ATE PEN BACKUP SPARE TOTE FOR LANE)  \nBACKUP SPARE TOO FOR are all words that can describe something as secondary or additional (left: EXTRA BALL WON MUG PIN COPY ATE PEN TOTE LANE)  \nMUG COPY ATE PEN are related to items commonly found in a classroom or office (left: EXTRA BALL WON TEE BACKUP SPARE TOTE FOR LANE)  \nWON TOTE LANE EXTRA are terms associated with winning or success in a competition (left: BALL MUG PIN COPY TOO ATE BACKUP SPARE FOR)  \n\nOutput: BALL TEE PIN ALLEY, BACKUP SPARE TOO FOR, MUG COPY ATE PEN, WON TOTE LANE EXTRA"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1748,
+            "prompt_tokens": 885,
+            "cost": 0.011815500000000001
+        }
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "Thoughts: \n    CHEF BARTENDER SERVER HOST are all professions related to food and service (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals (left: CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles (left: MITT DIGIT BEAKER GONZO)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles, MITT BEAKER DIGIT GONZO are all related to measuring or utensils (left: )\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL, CAR TRUCK SCOOTER MOTORCYCLE, MITT BEAKER DIGIT GONZO",
+            "CHEF HOST BARTENDER SERVER are all jobs in the food service industry (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE).  \nDOG PIGGY ANIMAL GONZO are all types of animals (left: CHEF CAR MITT BUS HOST SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER).  \nBUS TRUCK SCOOTER MOTORCYCLE are all types of vehicles (left: CHEF DOG ANIMAL CAR MITT DIGIT BEAKER PIGGY BARTENDER GONZO SERVER).  \nMITT DIGIT BEAKER CAR are all related to objects used in various contexts (left: CHEF DOG ANIMAL BUS HOST SCOOTER TRUCK PIGGY BARTENDER GONZO MOTORCYCLE).  \nOutput: CHEF HOST BARTENDER SERVER, DOG PIGGY ANIMAL GONZO, BUS TRUCK SCOOTER MOTORCYCLE, MITT DIGIT BEAKER CAR",
+            "Thoughts: \n    CHEF BARTENDER SERVER HOST are all professions related to food and service (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals (left: CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles (left: MITT DIGIT BEAKER GONZO)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles, MITT DIGIT BEAKER GONZO could relate to objects or tools used in various contexts (left: )\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL, CAR TRUCK SCOOTER MOTORCYCLE, MITT DIGIT BEAKER GONZO",
+            "Thoughts: \n    CHEF BARTENDER SERVER HOST are all jobs related to food service (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all jobs related to food service, DOG PIGGY ANIMAL are all types of animals (left: CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all jobs related to food service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles (left: MITT DIGIT BEAKER GONZO)\n    CHEF BARTENDER SERVER HOST are all jobs related to food service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles, MITT DIGIT BEAKER GONZO are all related to measurement or tools (left: )\n\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL, CAR TRUCK SCOOTER MOTORCYCLE, MITT DIGIT BEAKER GONZO",
+            "Thoughts: \n    CHEF BARTENDER SERVER HOST are all professions related to food and service (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals (left: CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles (left: MITT DIGIT BEAKER GONZO)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles, MITT DIGIT BEAKER GONZO might relate to things involved in cooking or kitchen items (left: )\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL, CAR TRUCK SCOOTER MOTORCYCLE, MITT DIGIT BEAKER GONZO",
+            "CHEF BARTENDER SERVER HOST are all professions related to food and service (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)  \nDOG PIGGY ANIMAL MITT are all related to pets or animals (left: CAR BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER GONZO MOTORCYCLE SERVER)  \nCAR TRUCK BUS SCOOTER are all types of vehicles (left: DOG ANIMAL MITT DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)  \nBEAKER DIGIT GONZO MOTORCYCLE are all related to science or technology in different contexts (left: DOG ANIMAL CAR MITT BUS HOST CHEF BARTENDER SERVER)  \n\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL MITT, CAR TRUCK BUS SCOOTER, BEAKER DIGIT GONZO MOTORCYCLE",
+            "CHEF HOST BARTENDER SERVER are all types of food service workers (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE).  \nDOG ANIMAL PIGGY GONZO are all animals (left: CHEF CAR MITT BUS HOST SCOOTER TRUCK DIGIT BEAKER BARTENDER MOTORCYCLE SERVER).  \nCAR BUS SCOOTER TRUCK are all types of vehicles (left: CHEF DOG ANIMAL MITT DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER).  \nMITT DIGIT BEAKER MOTORCYCLE are all items associated with specific activities or tasks (left: CHEF DOG ANIMAL CAR BUS HOST SCOOTER TRUCK PIGGY BARTENDER GONZO).  \n\nOutput: CHEF HOST BARTENDER SERVER, DOG ANIMAL PIGGY GONZO, CAR BUS SCOOTER TRUCK, MITT DIGIT BEAKER MOTORCYCLE",
+            "Thoughts: \n    CHEF BARTENDER SERVER HOST are all professions related to food and service (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals (left: CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER GONZO MOTORCYCLE)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles (left: MITT DIGIT BEAKER GONZO)\n    CHEF BARTENDER SERVER HOST are all professions related to food and service, DOG PIGGY ANIMAL are all types of animals, CAR TRUCK SCOOTER MOTORCYCLE are all types of vehicles, MITT DIGIT BEAKER GONZO are all related to games or hobbies (left: )\nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL, CAR TRUCK SCOOTER MOTORCYCLE, MITT DIGIT BEAKER GONZO",
+            "CHEF HOST BARTENDER SERVER are all professions related to food service (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE).  \nDOG PIGGY ANIMAL are all types of animals (left: CHEF CAR MITT BUS HOST SCOOTER TRUCK DIGIT BEAKER BARTENDER GONZO MOTORCYCLE).  \nBUS TRUCK SCOOTER MOTORCYCLE are all types of vehicles (left: CHEF DOG ANIMAL CAR MITT DIGIT BEAKER PIGGY BARTENDER GONZO).  \nMITT DIGIT BEAKER GONZO are all associated with specific items or concepts in different contexts (left: CHEF DOG ANIMAL CAR BUS HOST SCOOTER TRUCK PIGGY BARTENDER MOTORCYCLE).  \nOutput: CHEF HOST BARTENDER SERVER, DOG PIGGY ANIMAL, BUS TRUCK SCOOTER MOTORCYCLE, MITT DIGIT BEAKER GONZO",
+            "CHEF BARTENDER SERVER HOST are all professions related to food and service (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)  \nDOG PIGGY ANIMAL GONZO are all animals or characters associated with animals (left: CHEF CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER BARTENDER SERVER MOTORCYCLE)  \nCAR BUS SCOOTER TRUCK are all types of vehicles (left: CHEF DOG ANIMAL MITT DIGIT BEAKER PIGGY BARTENDER GONZO MOTORCYCLE SERVER)  \nMITT DIGIT BEAKER MOTORCYCLE are all terms related to tools or equipment (left: CHEF DOG ANIMAL CAR BUS SCOOTER TRUCK BARTENDER SERVER)  \nOutput: CHEF BARTENDER SERVER HOST, DOG PIGGY ANIMAL GONZO, CAR BUS SCOOTER TRUCK, MITT DIGIT BEAKER MOTORCYCLE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4071,
+            "prompt_tokens": 1778,
+            "cost": 0.027093
+        }
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "FLOAT HOVER DASH SHAKE are all verbs related to movement (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)  \nSTAR SUNDAE GLASS OLD are all items related to the concept of 'things' (left: FIRM SPLIT CONCRETE KEY SOLID SIGNS TANGIBLE)  \nFLOAT HOVER DASH SHAKE are all verbs related to movement, FIRM SOLID KEY TANGIBLE describe characteristics of objects (left: STAR SPLIT CONCRETE SUNDAE GLASS OLD SIGNS)  \nFLOAT HOVER DASH SHAKE are all verbs related to movement, FIRM SOLID KEY TANGIBLE describe characteristics of objects, SPLIT SUNDAE OLD SIGNS relate to food or desserts (left: STAR CONCRETE GLASS)  \nOutput: FLOAT HOVER DASH SHAKE, FIRM SOLID KEY TANGIBLE, STAR SUNDAE GLASS OLD, SPLIT CONCRETE SIGNS",
+            "FLOAT HOVER DASH SHAKE are all words associated with movement or action (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE).  \nFLOAT HOVER DASH SHAKE are all words associated with movement or action, STAR SUNDAE OLD GLASS relate to things that can be considered \"shiny\" or \"bright\" (left: FIRM SPLIT CONCRETE KEY SOLID MALT SIGNS TANGIBLE).  \nFLOAT HOVER DASH SHAKE are all words associated with movement or action, STAR SUNDAE OLD GLASS relate to things that can be considered \"shiny\" or \"bright\", FIRM SOLID KEY TANGIBLE describe states of matter or physical properties (left: SPLIT CONCRETE MALT SIGNS).  \nFLOAT HOVER DASH SHAKE are all words associated with movement or action, STAR SUNDAE OLD GLASS relate to things that can be considered \"shiny\" or \"bright\", FIRM SOLID KEY TANGIBLE describe states of matter or physical properties, SPLIT CONCRETE MALT SIGNS are terms used in construction or industry (left: ).  \nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE OLD GLASS, FIRM SOLID KEY TANGIBLE, SPLIT CONCRETE MALT SIGNS",
+            "FLOAT HOVER DASH SHAKE are all terms related to movement or action (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE). \nFLOAT HOVER DASH SHAKE are all terms related to movement or action, STAR SUNDAE GLASS KEY are all related to items found in a kitchen (left: FIRM SPLIT CONCRETE SOLID OLD MALT SIGNS TANGIBLE). \nFLOAT HOVER DASH SHAKE are all terms related to movement or action, STAR SUNDAE GLASS KEY are all related to items found in a kitchen, FIRM SOLID CONCRETE TANGIBLE are all related to physical properties (left: SPLIT OLD MALT SIGNS). \nFLOAT HOVER DASH SHAKE are all terms related to movement or action, STAR SUNDAE GLASS KEY are all related to items found in a kitchen, FIRM SOLID CONCRETE TANGIBLE are all related to physical properties, SPLIT OLD MALT SIGNS are all things related to division or categorization (left: ). \n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE GLASS KEY, FIRM SOLID CONCRETE TANGIBLE, SPLIT OLD MALT SIGNS",
+            "FLOAT HOVER DASH SHAKE are all actions related to movement or buoyancy (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE).  \nSTAR SUNDAE OLD SIGNS are items associated with decoration or aesthetics (left: FIRM SPLIT CONCRETE GLASS KEY SOLID MALT TANGIBLE).  \nFIRM SOLID KEY GLASS are all terms related to physical properties or materials (left: SPLIT CONCRETE SUNDAE OLD MALT TANGIBLE).  \nSPLIT CONCRETE MALT TANGIBLE refer to things that can be divided or are concrete in nature (left: SUNDAE OLD).  \n\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE OLD SIGNS, FIRM SOLID KEY GLASS, SPLIT CONCRETE MALT TANGIBLE",
+            "FLOAT HOVER DASH SHAKE are all words related to movement or action (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)  \nFLOAT HOVER DASH SHAKE are all words related to movement or action, STAR SUNDAE SIGNS FIRM are all related to light or brightness (left: SPLIT CONCRETE GLASS KEY SOLID OLD MALT TANGIBLE)  \nFLOAT HOVER DASH SHAKE are all words related to movement or action, STAR SUNDAE SIGNS FIRM are all related to light or brightness, SPLIT CONCRETE SOLID TANGIBLE are all materials (left: GLASS KEY OLD MALT)  \nFLOAT HOVER DASH SHAKE are all words related to movement or action, STAR SUNDAE SIGNS FIRM are all related to light or brightness, SPLIT CONCRETE SOLID TANGIBLE are all materials, GLASS KEY OLD MALT are all associated with food or drink (left: )  \nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE SIGNS FIRM, SPLIT CONCRETE SOLID TANGIBLE, GLASS KEY OLD MALT",
+            "FLOAT HOVER DASH SHAKE are all actions associated with movement (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)  \nFLOAT HOVER DASH SHAKE are all actions associated with movement, STAR SUNDAE OLD TANGIBLE are related to concepts of time or permanence (left: FIRM SPLIT CONCRETE GLASS KEY SOLID MALTS SIGNS)  \nFLOAT HOVER DASH SHAKE are all actions associated with movement, STAR SUNDAE OLD TANGIBLE are related to concepts of time or permanence, FIRM SOLID CONCRETE GLASS are all materials (left: SPLIT KEY MALTS SIGNS)  \nFLOAT HOVER DASH SHAKE are all actions associated with movement, STAR SUNDAE OLD TANGIBLE are related to concepts of time or permanence, FIRM SOLID CONCRETE GLASS are all materials, SPLIT KEY MALTS SIGNS are all terms associated with a business or legal context (left: )  \nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE OLD TANGIBLE, FIRM SOLID CONCRETE GLASS, SPLIT KEY MALTS SIGNS",
+            "FLOAT HOVER DASH SHAKE are all actions related to movement or buoyancy (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE). \nFLOAT HOVER DASH SHAKE are all actions related to movement or buoyancy, SUNDAE GLASS MALTS are all types of desserts (left: STAR FIRM SPLIT CONCRETE KEY SOLID OLD SIGNS TANGIBLE). \nFLOAT HOVER DASH SHAKE are all actions related to movement or buoyancy, SUNDAE GLASS MALTS are all types of desserts, KEY FIRM SOLID TANGIBLE relate to concepts of stability or firmness (left: STAR SPLIT CONCRETE OLD SIGNS). \nFLOAT HOVER DASH SHAKE are all actions related to movement or buoyancy, SUNDAE GLASS MALTS are all types of desserts, KEY FIRM SOLID TANGIBLE relate to concepts of stability or firmness, SPLIT CONCRETE OLD relate to construction materials or techniques (left: STAR SIGNS).\n\nOutput: FLOAT HOVER DASH SHAKE, SUNDAE GLASS MALTS, KEY FIRM SOLID TANGIBLE, SPLIT CONCRETE OLD SIGNS",
+            "Thoughts: \n    FLOAT HOVER DASH SHAKE are all actions related to movement (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER DASH SHAKE are all actions related to movement, STAR SUNDAE OLD GLASS are all things associated with brightness or light (left: FIRM SPLIT CONCRETE KEY SOLID MALT SIGNS TANGIBLE)\n    FLOAT HOVER DASH SHAKE are all actions related to movement, STAR SUNDAE OLD GLASS are all things associated with brightness or light, FIRM SOLID TANGIBLE CONCRETE are all terms related to physicality or being substantial (left: SPLIT KEY MALT SIGNS)\n    FLOAT HOVER DASH SHAKE are all actions related to movement, STAR SUNDAE OLD GLASS are all things associated with brightness or light, FIRM SOLID TANGIBLE CONCRETE are all terms related to physicality or being substantial, SPLIT KEY MALT SIGNS are less clearly connected (left: )\nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE OLD GLASS, FIRM SOLID TANGIBLE CONCRETE, SPLIT KEY MALT SIGNS",
+            "FLOAT HOVER DASH SHAKE are actions associated with movement (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)  \nFLOAT HOVER DASH SHAKE are actions associated with movement, STAR SUNDAE GLASS KEY are all items related to visual representation or elements (left: FIRM SPLIT CONCRETE SOLID OLD MALT SIGNS TANGIBLE)  \nFLOAT HOVER DASH SHAKE are actions associated with movement, STAR SUNDAE GLASS KEY are all items related to visual representation or elements, FIRM SOLID CONCRETE TANGIBLE are all types of materials or substances (left: SPLIT OLD MALT SIGNS)  \nFLOAT HOVER DASH SHAKE are actions associated with movement, STAR SUNDAE GLASS KEY are all items related to visual representation or elements, FIRM SOLID CONCRETE TANGIBLE are all types of materials or substances, SPLIT OLD MALT SIGNS are all related to separation or division (left: )  \nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE GLASS KEY, FIRM SOLID CONCRETE TANGIBLE, SPLIT OLD MALT SIGNS",
+            "FLOAT HOVER DASH SHAKE represent actions related to movement (left: STAR FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID OLD MALT SIGNS TANGIBLE)  \nFLOAT HOVER DASH SHAKE represent actions related to movement, STAR SUNDAE SIGNS TANGIBLE are related to the concept of brightness (left: FIRM SPLIT CONCRETE GLASS KEY SOLID OLD MALT)  \nFLOAT HOVER DASH SHAKE represent actions related to movement, STAR SUNDAE SIGNS TANGIBLE are related to the concept of brightness, FIRM SOLID CONCRETE GLASS refer to materials or states of matter (left: SPLIT OLD KEY MALT)  \nFLOAT HOVER DASH SHAKE represent actions related to movement, STAR SUNDAE SIGNS TANGIBLE are related to the concept of brightness, FIRM SOLID CONCRETE GLASS refer to materials or states of matter, SPLIT OLD KEY MALT are all related to food or drink (left: )  \nOutput: FLOAT HOVER DASH SHAKE, STAR SUNDAE SIGNS TANGIBLE, FIRM SOLID CONCRETE GLASS, SPLIT OLD KEY MALT"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 6498,
+            "prompt_tokens": 2669,
+            "cost": 0.0429915
+        }
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "FALL SPRING SUMMER TAP are all related to seasons (left: STRONG SWIFT DROP KEYS SOUND SINK FIT DIP FOUNTAIN NICKS HEALTHY WELL). FALL SPRING SUMMER TAP are all related to seasons, STRONG SWIFT SINK FIT are all terms associated with physical strength or agility (left: DROP KEYS SOUND DIP FOUNTAIN NICKS HEALTHY WELL). FALL SPRING SUMMER TAP are all related to seasons, STRONG SWIFT SINK FIT are all terms associated with physical strength or agility, DROP SOUND DIP NICKS are actions or things associated with movement (left: KEYS FOUNTAIN HEALTHY WELL). FALL SPRING SUMMER TAP are all related to seasons, STRONG SWIFT SINK FIT are all terms associated with physical strength or agility, DROP SOUND DIP NICKS are actions or things associated with movement, KEYS FOUNTAIN HEALTHY WELL are all words associated with wellness (left: ).\n\nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT SINK FIT, DROP SOUND DIP NICKS, KEYS FOUNTAIN HEALTHY WELL",
+            "FALL SPRING SUMMER TAP are all related to seasons (left: STRONG SWIFT DROP KEYS SOUND SINK FIT DIP FOUNTAIN NICKS HEALTHY WELL)  \nFALL SPRING SUMMER TAP are all related to seasons, STRONG SWIFT SOUND FIT are synonyms of being healthy (left: DROP KEYS SINK DIP FOUNTAIN NICKS WELL)  \nFALL SPRING SUMMER TAP are all related to seasons, STRONG SWIFT SOUND FIT are synonyms of being healthy, DROP SINK DIP NICKS are all actions that involve downward movement (left: KEYS FOUNTAIN WELL)  \nFALL SPRING SUMMER TAP are all related to seasons, STRONG SWIFT SOUND FIT are synonyms of being healthy, DROP SINK DIP NICKS are all actions that involve downward movement, KEYS FOUNTAIN WELL are words associated with water (left: )  \nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT SOUND FIT, DROP SINK DIP NICKS, KEYS FOUNTAIN WELL",
+            "FALL SPRING SUMMER SOUND are all seasons or related to them (left: STRONG SWIFT DROP KEYS SINK FIT DIP TAP FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER SOUND are all seasons or related to them, TAP SINK DROP FIT DIP are all actions related to movement or change in position (left: STRONG SWIFT KEYS FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER SOUND are all seasons or related to them, TAP SINK DROP FIT DIP are all actions related to movement or change in position, STRONG SWIFT KEYS HEALTHY WELL can describe qualities or states of being (left: FOUNTAIN NICKS).  \nFALL SPRING SUMMER SOUND are all seasons or related to them, TAP SINK DROP FIT DIP are all actions related to movement or change in position, STRONG SWIFT KEYS HEALTHY WELL can describe qualities or states of being, FOUNTAIN NICKS are objects or things that can exist in nature (left: ).  \nOutput: FALL SPRING SUMMER SOUND, TAP SINK DROP FIT DIP, STRONG SWIFT KEYS HEALTHY WELL, FOUNTAIN NICKS.",
+            "FALL SPRING SUMMER TAP are all seasons or actions associated with them (left: STRONG SWIFT DROP KEYS SOUND SINK FIT DIP FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER TAP are all seasons or actions associated with them, STRONG SWIFT SINK FIT are synonyms for being in good shape (left: DROP KEYS SOUND DIP FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER TAP are all seasons or actions associated with them, STRONG SWIFT SINK FIT are synonyms for being in good shape, DROP KEYS SOUND DIP are actions associated with movement (left: FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER TAP are all seasons or actions associated with them, STRONG SWIFT SINK FIT are synonyms for being in good shape, DROP KEYS SOUND DIP are actions associated with movement, NICKS HEALTHY WELL relate to health or well-being (left: FOUNTAIN).  \nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT SINK FIT, DROP KEYS SOUND DIP, NICKS HEALTHY WELL",
+            "FALL SPRING SUMMER TAP are all seasons or related to seasonal changes (left: STRONG SWIFT DROP KEYS SOUND SINK FIT DIP FOUNTAIN NICKS HEALTHY WELL). \nFALL SPRING SUMMER TAP are all seasons or related to seasonal changes, STRONG SWIFT SINK FIT are associated with physical abilities or characteristics (left: DROP KEYS SOUND DIP FOUNTAIN NICKS HEALTHY WELL). \nFALL SPRING SUMMER TAP are all seasons or related to seasonal changes, STRONG SWIFT SINK FIT are associated with physical abilities or characteristics, DROP DIP SOUND NICKS are related to actions (left: KEYS FOUNTAIN HEALTHY WELL). \nFALL SPRING SUMMER TAP are all seasons or related to seasonal changes, STRONG SWIFT SINK FIT are associated with physical abilities or characteristics, DROP DIP SOUND NICKS are related to actions, KEYS FOUNTAIN HEALTHY WELL are related to wellness or good health (left: ).\n\nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT SINK FIT, DROP DIP SOUND NICKS, KEYS FOUNTAIN HEALTHY WELL",
+            "FALL SPRING SUMMER SOUND are all seasons or related to them (left: STRONG SWIFT DROP KEYS SINK FIT DIP TAP FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER SOUND are all seasons or related to them, STRONG SWIFT FIT TAP are all adjectives related to physical attributes (left: DROP KEYS SINK DIP FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER SOUND are all seasons or related to them, STRONG SWIFT FIT TAP are all adjectives related to physical attributes, DROP SINK DIP FOUNTAIN are all related to water (left: KEYS NICKS HEALTHY WELL).  \nFALL SPRING SUMMER SOUND are all seasons or related to them, STRONG SWIFT FIT TAP are all adjectives related to physical attributes, DROP SINK DIP FOUNTAIN are all related to water, KEYS NICKS HEALTHY WELL are all related to health or wellness (left: ).  \nOutput: FALL SPRING SUMMER SOUND, STRONG SWIFT FIT TAP, DROP SINK DIP FOUNTAIN, KEYS NICKS HEALTHY WELL",
+            "FALL SPRING SUMMER SOUND are all related to seasons (left: STRONG SWIFT DROP KEYS SINK FIT DIP TAP FOUNTAIN NICKS HEALTHY WELL)  \nFALL SPRING SUMMER SOUND are all related to seasons, STRONG SWIFT FIT are synonyms for quick or powerful (left: DROP KEYS SINK DIP TAP FOUNTAIN NICKS HEALTHY WELL)  \nFALL SPRING SUMMER SOUND are all related to seasons, STRONG SWIFT FIT are synonyms for quick or powerful, DROP SINK TAP DIP are all actions involving movement (left: KEYS FOUNTAIN NICKS HEALTHY WELL)  \nFALL SPRING SUMMER SOUND are all related to seasons, STRONG SWIFT FIT are synonyms for quick or powerful, DROP SINK TAP DIP are all actions involving movement, KEYS NICKS HEALTHY WELL relate to wellness or health (left: FOUNTAIN)  \nOutput: FALL SPRING SUMMER SOUND, STRONG SWIFT FIT, DROP SINK TAP DIP, KEYS NICKS HEALTHY WELL",
+            "FALL SPRING SUMMER TAP are all seasons or related to seasonal changes (left: STRONG SWIFT DROP KEYS SOUND SINK FIT DIP FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER TAP are all seasons or related to seasonal changes, STRONG SWIFT SOUND FIT are descriptors of movement or performance (left: DROP KEYS SINK DIP FOUNTAIN NICKS HEALTHY WELL).  \nFALL SPRING SUMMER TAP are all seasons or related to seasonal changes, STRONG SWIFT SOUND FIT are descriptors of movement or performance, DROP SINK DIP NICKS are related to downward movement (left: KEYS FOUNTAIN HEALTHY WELL).  \nFALL SPRING SUMMER TAP are all seasons or related to seasonal changes, STRONG SWIFT SOUND FIT are descriptors of movement or performance, DROP SINK DIP NICKS are related to downward movement, KEYS FOUNTAIN HEALTHY WELL relate to wellness or health (left: ).  \nOutput: FALL SPRING SUMMER TAP, STRONG SWIFT SOUND FIT, DROP SINK DIP NICKS, KEYS FOUNTAIN HEALTHY WELL",
+            "FALL SPRING SUMMER SOUND are all seasons or related to seasons (left: STRONG SWIFT DROP KEYS SINK FIT DIP TAP FOUNTAIN NICKS HEALTHY WELL)  \nFALL SPRING SUMMER SOUND are all seasons or related to seasons, STRONG SWIFT FIT TAP are all synonyms of quick or fast actions (left: DROP KEYS SINK DIP FOUNTAIN NICKS HEALTHY WELL)  \nFALL SPRING SUMMER SOUND are all seasons or related to seasons, STRONG SWIFT FIT TAP are all synonyms of quick or fast actions, DROP SINK DIP FOUNTAIN are all related to water activities (left: KEYS NICKS HEALTHY WELL)  \nFALL SPRING SUMMER SOUND are all seasons or related to seasons, STRONG SWIFT FIT TAP are all synonyms of quick or fast actions, DROP SINK DIP FOUNTAIN are all related to water activities, KEYS NICKS HEALTHY WELL relate to wellness or health (left: )  \nOutput: FALL SPRING SUMMER SOUND, STRONG SWIFT FIT TAP, DROP SINK DIP FOUNTAIN, KEYS NICKS HEALTHY WELL",
+            "FALL SPRING SUMMER WINTER are seasons (left: STRONG SWIFT DROP KEYS SOUND SINK FIT DIP TAP FOUNTAIN NICKS HEALTHY WELL)  \nSOUND SINK TAP are related to water (left: FALL SPRING SUMMER STRONG SWIFT DROP KEYS FIT DIP FOUNTAIN NICKS HEALTHY WELL)  \nSTRONG SWIFT FIT HEALTHY describe physical attributes or states (left: FALL SPRING SUMMER DROP KEYS SOUND SINK TAP FOUNTAIN NICKS WELL)  \nDROP DIP NICKS are actions related to falling or reducing (left: FALL SPRING SUMMER STRONG SWIFT KEYS SOUND SINK TAP FOUNTAIN HEALTHY WELL)  \n\nOutput: FALL SPRING SUMMER WINTER, SOUND SINK TAP, STRONG SWIFT FIT HEALTHY, DROP DIP NICKS"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 8735,
+            "prompt_tokens": 3556,
+            "cost": 0.057744
+        }
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "Thoughts: \n    FISH PARTRIDGE BIRD MAMMAL are all types of animals (left: CLEAVER PRINCESS LADLE DINOSAUR REPTILE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n    FISH PARTRIDGE BIRD MAMMAL are all types of animals, CLEAVER LADLE WHISK GRATER are kitchen utensils (left: PRINCESS DINOSAUR REPTILE MUSHROOM PLUMBER TANNER BUNKER PEELER)\n    FISH PARTRIDGE BIRD MAMMAL are all types of animals, CLEAVER LADLE WHISK GRATER are kitchen utensils, PRINCESS DINOSAUR REPTILE MAMMAL are related to fantasy or fiction (left: PLUMBER TANNER BUNKER PEELER)\n    FISH PARTRIDGE BIRD MAMMAL are all types of animals, CLEAVER LADLE WHISK GRATER are kitchen utensils, PRINCESS DINOSAUR REPTILE MAMMAL are related to fantasy or fiction, PLUMBER BUNKER PEELER are jobs or tools associated with construction (left: TANNER)\nOutput: FISH PARTRIDGE BIRD MAMMAL, CLEAVER LADLE WHISK GRATER, PRINCESS DINOSAUR REPTILE MAMMAL, PLUMBER BUNKER PEELER",
+            "BIRD DINOSAUR REPTILE MAMMAL are all classifications of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER).  \nCLEAVER LADLE WHISK GRATER are all kitchen utensils (left: FISH PRINCESS PARTRIDGE MUSHROOM PLUMBER TANNER BUNKER PEELER).  \nFISH PARTRIDGE MUSHROOM PLUMBER are all associated with food (left: CLEAVER PRINCESS LADLE DINOSAUR REPTILE WHISK TANNER GRATER BUNKER PEELER).  \nPRINCESS BUNKER TANNER PEELER are all titles or roles (left: CLEAVER FISH LADLE DINOSAUR REPTILE WHISK GRATER).  \n\nOutput: BIRD DINOSAUR REPTILE MAMMAL, CLEAVER LADLE WHISK GRATER, FISH PARTRIDGE MUSHROOM PLUMBER, PRINCESS BUNKER TANNER PEELER",
+            "CLEAVER LADLE WHISK GRATER are kitchen tools (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER BUNKER PEELER MAMMAL)  \nFISH DINOSAUR PARTRIDGE MAMMAL are types of animals (left: PRINCESS BIRD MUSHROOM REPTILE PLUMBER TANNER BUNKER PEELER)  \nPRINCESS BIRD MUSHROOM REPTILE could be seen as fantasy or fairytale elements (left: PLUMBER TANNER BUNKER PEELER)  \nPLUMBER TANNER BUNKER PEELER are occupations or tools associated with specific trades (left: )  \nOutput: CLEAVER LADLE WHISK GRATER, FISH DINOSAUR PARTRIDGE MAMMAL, PRINCESS BIRD MUSHROOM REPTILE, PLUMBER TANNER BUNKER PEELER",
+            "MAMMAL REPTILE DINOSAUR PARTRIDGE are all categories of animals (left: CLEAVER FISH PRINCESS LADLE BIRD MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER). \nCLEAVER LADLE WHISK GRATER are all kitchen utensils (left: FISH PRINCESS BIRD MUSHROOM PLUMBER TANNER BUNKER PEELER). \nFISH BIRD MUSHROOM PEELER are all related to food (left: CLEAVER PRINCESS LADLE DINOSAUR REPTILE PLUMBER WHISK TANNER GRATER BUNKER). \nPRINCESS BUNKER TANNER PLUMBER are roles or professions (left: CLEAVER FISH LADLE DINOSAUR REPTILE WHISK GRATER PEELER). \n\nOutput: MAMMAL REPTILE DINOSAUR PARTRIDGE, CLEAVER LADLE WHISK GRATER, FISH BIRD MUSHROOM PEELER, PRINCESS BUNKER TANNER PLUMBER",
+            "CLEAVER LADLE WHISK GRATER are all cooking utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER BUNKER PEELER MAMMAL)  \nFISH PARTRIDGE BIRD are types of animals (left: PRINCESS DINOSAUR MUSHROOM REPTILE PLUMBER TANNER BUNKER PEELER MAMMAL)  \nDINOSAUR REPTILE MAMMAL are all classifications of animals (left: FISH PRINCESS PARTRIDGE BIRD MUSHROOM PLUMBER TANNER BUNKER PEELER)  \nBUNKER PLUMBER PEELER TANNER are all professions (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE)  \n\nOutput: CLEAVER LADLE WHISK GRATER, FISH PARTRIDGE BIRD, DINOSAUR REPTILE MAMMAL, BUNKER PLUMBER PEELER TANNER",
+            "LADLE WHISK GRATER PEELER are all kitchen tools (left: CLEAVER FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER BUNKER MAMMAL)  \nLADLE WHISK GRATER PEELER are all kitchen tools, PRINCESS PARTRIDGE DINOSAUR MAMMAL are all types of fictional or real creatures (left: CLEAVER FISH BIRD MUSHROOM REPTILE PLUMBER TANNER BUNKER)  \nLADLE WHISK GRATER PEELER are all kitchen tools, PRINCESS PARTRIDGE DINOSAUR MAMMAL are all types of fictional or real creatures, BUNKER REPTILE PLUMBER FISH are all words that can follow \"snake\" (left: CLEAVER BIRD MUSHROOM TANNER)  \nLADLE WHISK GRATER PEELER are all kitchen tools, PRINCESS PARTRIDGE DINOSAUR MAMMAL are all types of fictional or real creatures, BUNKER REPTILE PLUMBER FISH are all words that can follow \"snake\", CLEAVER BIRD MUSHROOM TANNER are all jobs or professions (left: )  \nOutput: LADLE WHISK GRATER PEELER, PRINCESS PARTRIDGE DINOSAUR MAMMAL, BUNKER REPTILE PLUMBER FISH, CLEAVER BIRD MUSHROOM TANNER",
+            "BIRD DINOSAUR MAMMAL REPTILE are all types of animals (left: CLEAVER FISH PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER). \nCLEAVER LADLE WHISK GRATER are all kitchen utensils (left: FISH PRINCESS PARTRIDGE MUSHROOM PLUMBER TANNER BUNKER PEELER). \nFISH PARTRIDGE MUSHROOM PLUMBER are all things associated with food (left: CLEAVER PRINCESS LADLE DINOSAUR REPTILE WHISK TANNER GRATER BUNKER PEELER). \nPRINCESS TANNER BUNKER PEELER are all roles or terms in various crafts or trades (left: CLEAVER FISH LADLE DINOSAUR REPTILE WHISK GRATER). \nOutput: BIRD DINOSAUR MAMMAL REPTILE, CLEAVER LADLE WHISK GRATER, FISH PARTRIDGE MUSHROOM PLUMBER, PRINCESS TANNER BUNKER PEELER",
+            "LADLE WHISK GRATER PEELER are kitchen utensils used for cooking (left: CLEAVER FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER BUNKER MAMMAL)  \nLADLE WHISK GRATER PEELER are kitchen utensils used for cooking, CLEAVER FISH DINOSAUR PARTRIDGE are all types of animals (left: BIRD MUSHROOM REPTILE PLUMBER TANNER BUNKER MAMMAL)  \nLADLE WHISK GRATER PEELER are kitchen utensils used for cooking, CLEAVER FISH DINOSAUR PARTRIDGE are all types of animals, BIRD MUSHROOM REPTILE are related to living organisms (left: PLUMBER TANNER BUNKER MAMMAL)  \nLADLE WHISK GRATER PEELER are kitchen utensils used for cooking, CLEAVER FISH DINOSAUR PARTRIDGE are all types of animals, BIRD MUSHROOM REPTILE are related to living organisms, PLUMBER TANNER BUNKER MAMMAL are professions or classifications of things (left: )  \nOutput: LADLE WHISK GRATER PEELER, CLEAVER FISH DINOSAUR PARTRIDGE, BIRD MUSHROOM REPTILE, PLUMBER TANNER BUNKER MAMMAL",
+            "Thoughts: \n    FISH PARTRIDGE BIRD MAMMAL are all types of animals (left: CLEAVER PRINCESS LADLE DINOSAUR REPTILE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER).\n    FISH PARTRIDGE BIRD MAMMAL are all types of animals, CLEAVER LADLE WHISK GRATER are all kitchen utensils (left: PRINCESS DINOSAUR REPTILE MUSHROOM PLUMBER TANNER BUNKER PEELER).\n    FISH PARTRIDGE BIRD MAMMAL are all types of animals, CLEAVER LADLE WHISK GRATER are all kitchen utensils, PRINCESS DINOSAUR REPTILE MAMMAL are all terms related to classifications of organisms (left: PLUMBER BUNKER PEELER).\n    FISH PARTRIDGE BIRD MAMMAL are all types of animals, CLEAVER LADLE WHISK GRATER are all kitchen utensils, PRINCESS DINOSAUR REPTILE MAMMAL are all terms related to classifications of organisms, PLUMBER BUNKER PEELER are all professions or tools associated with specific trades (left: ).\nOutput: FISH PARTRIDGE BIRD MAMMAL, CLEAVER LADLE WHISK GRATER, PRINCESS DINOSAUR REPTILE MAMMAL, PLUMBER BUNKER PEELER",
+            "Thoughts: \n    PRINCESS DINOSAUR PARTRIDGE REPTILE are all related to characters or creatures in children's stories (left: CLEAVER FISH LADLE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER MAMMAL)\n    PRINCESS DINOSAUR PARTRIDGE REPTILE are all related to characters or creatures in children's stories, CLEAVER LADLE WHISK GRATER are all kitchen utensils (left: FISH MUSHROOM PLUMBER TANNER BUNKER PEELER MAMMAL)\n    PRINCESS DINOSAUR PARTRIDGE REPTILE are all related to characters or creatures in children's stories, CLEAVER LADLE WHISK GRATER are all kitchen utensils, FISH MUSHROOM PLUMBER MAMMAL are all terms related to living organisms (left: TANNER BUNKER PEELER)\n    PRINCESS DINOSAUR PARTRIDGE REPTILE are all related to characters or creatures in children's stories, CLEAVER LADLE WHISK GRATER are all kitchen utensils, FISH MUSHROOM PLUMBER MAMMAL are all terms related to living organisms, TANNER BUNKER PEELER are all tools used for specific tasks (left: )\nOutput: PRINCESS DINOSAUR PARTRIDGE REPTILE, CLEAVER LADLE WHISK GRATER, FISH MUSHROOM PLUMBER MAMMAL, TANNER BUNKER PEELER"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 11327,
+            "prompt_tokens": 4459,
+            "cost": 0.0746505
+        }
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "Thoughts:\n    COAT VEIL COVER IN are all types of clothing or coverings (left: TRAIN GRAM MA BLACK BOOK CAKE RING FROST BOUQUET TUBE CRUST SPARROW)\n    COAT VEIL COVER IN are all types of clothing or coverings, CAKE RING FROST BOUQUET are all associated with celebrations or special occasions (left: TRAIN GRAM MA BLACK BOOK TUBE CRUST SPARROW)\n    COAT VEIL COVER IN are all types of clothing or coverings, CAKE RING FROST BOUQUET are all associated with celebrations or special occasions, TRAIN TUBE SPARROW are modes of transportation (left: GRAM MA BLACK BOOK CRUST)\n    COAT VEIL COVER IN are all types of clothing or coverings, CAKE RING FROST BOUQUET are all associated with celebrations or special occasions, TRAIN TUBE SPARROW are modes of transportation, GRAM MA BLACK BOOK are all related to measurement or written materials (left: CRUST)\nOutput: COAT VEIL COVER IN, CAKE RING FROST BOUQUET, TRAIN TUBE SPARROW, GRAM MA BLACK BOOK",
+            "Thoughts: \n    RING COAT CAKE VEIL are items associated with weddings (left: TRAIN GRAM MA BLACK BOOK FROST BOUQUET TUBE CRUST COVER IN SPARROW)\n    RING COAT CAKE VEIL are items associated with weddings, TRAIN BOOK TUBE GRAM are all related to transportation or carrying (left: MA BLACK FROST BOUQUET CRUST COVER IN SPARROW)\n    RING COAT CAKE VEIL are items associated with weddings, TRAIN BOOK TUBE GRAM are all related to transportation or carrying, FROST CRUST BOUQUET COVER relate to baking or food (left: MA BLACK IN SPARROW)\n    RING COAT CAKE VEIL are items associated with weddings, TRAIN BOOK TUBE GRAM are all related to transportation or carrying, FROST CRUST BOUQUET COVER relate to baking or food, MA BLACK IN SPARROW are all terms related to birds or nature (left: )\nOutput: RING COAT CAKE VEIL, TRAIN BOOK TUBE GRAM, FROST CRUST BOUQUET COVER, MA BLACK IN SPARROW",
+            "Thoughts: \n    CAKE COAT CRUST FROST are food-related items (left: TRAIN GRAM MA BLACK BOOK RING BOUQUET TUBE VEIL COVER IN SPARROW)\n    CAKE COAT CRUST FROST are food-related items, BOOK RING TUBE VEIL are all items that can hold or contain something (left: TRAIN GRAM MA BLACK BOUQUET IN SPARROW)\n    CAKE COAT CRUST FROST are food-related items, BOOK RING TUBE VEIL are all items that can hold or contain something, TRAIN BLACK SPARROW are modes of transportation (left: GRAM MA BOUQUET IN)\n    CAKE COAT CRUST FROST are food-related items, BOOK RING TUBE VEIL are all items that can hold or contain something, TRAIN BLACK SPARROW are modes of transportation, GRAM MA BOUQUET IN are all related to measurement or quantity (left: )\nOutput: CAKE COAT CRUST FROST, BOOK RING TUBE VEIL, TRAIN BLACK SPARROW, GRAM MA BOUQUET IN",
+            "COAT DRESS VEIL FROST are types of coverings (left: TRAIN GRAM MA BLACK BOOK CAKE RING BOUQUET TUBE CRUST COVER IN SPARROW)  \nCAKE BOUQUET BOOK RING are items typically associated with celebrations or gifts (left: TRAIN COAT GRAM MA BLACK FROST TUBE CRUST VEIL COVER IN SPARROW)  \nTRAIN TUBE COVER SPARROW relate to transportation or movement (left: COAT GRAM MA BLACK BOOK CAKE RING FROST BOUQUET CRUST)  \nGRAM MA BLACK CRUST are terms that can refer to different types of measurements or weights (left: COAT DRESS VEIL FROST CAKE RING BOUQUET TUBE COVER IN)  \n\nOutput: COAT DRESS VEIL FROST, CAKE BOUQUET BOOK RING, TRAIN TUBE COVER SPARROW, GRAM MA BLACK CRUST",
+            "COAT VEIL FROST CRUST are all types of coverings (left: TRAIN GRAM MA BLACK BOOK CAKE RING BOUQUET TUBE IN SPARROW)  \nCAKE BOUQUET SPARROW RING are things associated with celebrations (left: TRAIN COAT GRAM MA BLACK BOOK TUBE IN)  \nTRAIN BOOK TUBE MA are all related to education or learning (left: COAT GRAM BLACK CAKE FROST VEIL IN)  \nBLACK GRAM COVER are colors or shades (left: TRAIN COAT CAKE RING FROST BOUQUET TUBE IN)  \n\nOutput: COAT VEIL FROST CRUST, CAKE BOUQUET SPARROW RING, TRAIN BOOK TUBE MA, BLACK GRAM COVER",
+            "COAT FROST VEIL COVER are related to covering something (left: TRAIN GRAM MA BLACK BOOK CAKE RING BOUQUET TUBE CRUST IN SPARROW)  \nCAKE BOUQUET RING SPARROW relate to celebrations (left: TRAIN COAT GRAM MA BLACK BOOK TUBE CRUST FROST VEIL COVER)  \nTRAIN BOOK TUBE GRAAM relate to modes of transportation or items associated with journeys (left: MA BLACK CAKE RING FROST BOUQUET VEIL COVER SPARROW)  \nMA BLACK CRUST SIGN relate to colors or shapes (left: TRAIN COAT GRAM BOOK CAKE RING FROST BOUQUET TUBE)  \n\nOutput: COAT FROST VEIL COVER, CAKE BOUQUET RING SPARROW, TRAIN BOOK TUBE GRAM, MA BLACK CRUST IN",
+            "Thoughts: \n    COAT CRUST FROST VEIL are all types of coverings (left: TRAIN GRAM MA BLACK BOOK CAKE RING BOUQUET TUBE COVER IN SPARROW)\n    COAT CRUST FROST VEIL are all types of coverings, TRAIN TUBE RING are related to transportation (left: GRAM MA BLACK BOOK CAKE BOUQUET COVER IN SPARROW)\n    COAT CRUST FROST VEIL are all types of coverings, TRAIN TUBE RING are related to transportation, CAKE BOUQUET BOOK are associated with celebrations (left: GRAM MA BLACK COVER IN SPARROW)\n    COAT CRUST FROST VEIL are all types of coverings, TRAIN TUBE RING are related to transportation, CAKE BOUQUET BOOK are associated with celebrations, GRAM MA SPARROW are units of measurement or terms in nature (left: )\nOutput: COAT CRUST FROST VEIL, TRAIN TUBE RING, CAKE BOUQUET BOOK, GRAM MA SPARROW",
+            "COAT FROST VEIL CRUST are related to covering something (left: TRAIN GRAM MA BLACK BOOK CAKE RING BOUQUET TUBE COVER IN SPARROW)  \nBOOK TUBE RING CAKE are items that can be associated with things to read or consume (left: TRAIN GRAM MA BLACK COAT FROST VEIL CRUST BOUQUET COVER IN SPARROW)  \nTRAIN SPARROW BLACK MA are types of transportation or animals (left: GRAM COAT FROST VEIL CRUST BOOK CAKE RING BOUQUET TUBE COVER)  \nGRAM BOUQUET COVER IN are items related to measurement or decoration (left: TRAIN COAT FROST VEIL CRUST BOOK CAKE RING TUBE SPARROW)  \n\nOutput: COAT FROST VEIL CRUST, BOOK TUBE RING CAKE, TRAIN SPARROW BLACK MA, GRAM BOUQUET COVER IN",
+            "Thoughts: \n    COAT VEIL FROST CRUST are all types of coverings (left: TRAIN GRAM MA BLACK BOOK CAKE RING BOUQUET TUBE COVER IN SPARROW)\n    COAT VEIL FROST CRUST are all types of coverings, TRAIN RING TUBE BOOK are all associated with transportation or containers (left: GRAM MA BLACK CAKE BOUQUET COVER IN SPARROW)\n    COAT VEIL FROST CRUST are all types of coverings, TRAIN RING TUBE BOOK are all associated with transportation or containers, BLACK SPARROW BOUQUET CAKE are all related to colors or aesthetics (left: GRAM MA)\n    COAT VEIL FROST CRUST are all types of coverings, TRAIN RING TUBE BOOK are all associated with transportation or containers, BLACK SPARROW BOUQUET CAKE are all related to colors or aesthetics, MA GRAM are both units of measurement (left: )\nOutput: COAT VEIL FROST CRUST, TRAIN RING TUBE BOOK, BLACK SPARROW BOUQUET CAKE, MA GRAM",
+            "COAT VEIL FROST CRUST are all types of coverings (left: TRAIN GRAM MA BLACK BOOK CAKE RING BOUQUET TUBE COVER IN SPARROW)  \nCAKE BOUQUET RING SPARROW are often associated with celebrations or gifts (left: TRAIN COAT GRAM MA BLACK BOOK TUBE COVER IN)  \nTRAIN BLACK BOOK TUBE COVER are related to transportation or containers (left: GRAM MA CAKE RING FROST VEIL IN)  \nGRAM MA IN CAKE are units of measurement or components of recipes (left: TRAIN COAT BLACK BOOK TUBE COVER RING BOUQUET FROST)  \n\nOutput: COAT VEIL FROST CRUST, CAKE BOUQUET RING SPARROW, TRAIN BLACK BOOK TUBE COVER, GRAM MA IN CAKE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 13466,
+            "prompt_tokens": 5350,
+            "cost": 0.088821
+        }
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "Thoughts: \n    BRIEF DIGEST RUNDOWN ABSTRACT are types of written summaries or reports (left: GARTER MONTY PYTHON MOON SLIP THONG BOA CIRCLE MAMBA TEDDY HOUSE VIPER)\n    BRIEF DIGEST RUNDOWN ABSTRACT are types of written summaries or reports, GARTER SLIP THONG BOA are types of underwear (left: MONTY PYTHON MOON CIRCLE MAMBA TEDDY HOUSE VIPER)\n    BRIEF DIGEST RUNDOWN ABSTRACT are types of written summaries or reports, GARTER SLIP THONG BOA are types of underwear, TEDDY MAMBA VIPER are types of snakes or snake-related names (left: MONTY PYTHON MOON CIRCLE HOUSE)\n    BRIEF DIGEST RUNDOWN ABSTRACT are types of written summaries or reports, GARTER SLIP THONG BOA are types of underwear, TEDDY MAMBA VIPER are types of snakes or snake-related names, MONTY PYTHON CIRCLE HOUSE could relate to entertainment or subjects of comedy and drama (left: MOON)\nOutput: BRIEF DIGEST RUNDOWN ABSTRACT, GARTER SLIP THONG BOA, TEDDY MAMBA VIPER, MONTY PYTHON CIRCLE HOUSE",
+            "Thoughts: \n    GARTER THONG BRIEF SLIP are types of underwear (left: MONTY PYTHON DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE VIPER)\n    GARTER THONG BRIEF SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT RUNDOWN are all types of humor or comedy (left: MOON CIRCLE BOA MAMBA TEDDY HOUSE VIPER)\n    GARTER THONG BRIEF SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT RUNDOWN are all types of humor or comedy, CIRCLE HOUSE TEDDY MOON are all associated with shapes or structures (left: BOA MAMBA VIPER)\n    GARTER THONG BRIEF SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT RUNDOWN are all types of humor or comedy, CIRCLE HOUSE TEDDY MOON are all associated with shapes or structures, BOA MAMBA VIPER are all types of snakes (left: )\nOutput: GARTER THONG BRIEF SLIP, MONTY PYTHON DIGEST RUNDOWN ABSTRACT, CIRCLE HOUSE TEDDY MOON, BOA MAMBA VIPER",
+            "GARTER BRIEF THONG SLIP are types of underwear (left: MONTY PYTHON DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE VIPER)  \nMONTY PYTHON DIGEST ABSTRACT RUNDOWN are types of media or entertainment (left: GARTER BRIEF THONG SLIP MOON CIRCLE MAMBA TEDDY HOUSE VIPER)  \nCIRCLE MOON MAMBA VIPER are all names associated with shapes or animals (left: GARTER BRIEF THONG SLIP MONTY PYTHON DIGEST ABSTRACT RUNDOWN TEDDY HOUSE)  \nTEDDY HOUSE MONTY PYTHON DIGEST are all related to toys or playful concepts (left: GARTER BRIEF THONG SLIP CIRCLE MOON MAMBA VIPER)  \n\nOutput: GARTER BRIEF THONG SLIP, MONTY PYTHON DIGEST RUNDOWN ABSTRACT, CIRCLE MOON MAMBA VIPER, TEDDY HOUSE",
+            "Thoughts: \n    BRIEF DIGEST ABSTRACT RUNDOWN are types of written works or formats (left: GARTER MONTY PYTHON MOON SLIP THONG BOA CIRCLE MAMBA TEDDY HOUSE VIPER)\n    BRIEF DIGEST ABSTRACT RUNDOWN are types of written works or formats, GARTER THONG BOA SLIP are items of clothing (left: MONTY PYTHON MOON CIRCLE MAMBA TEDDY HOUSE VIPER)\n    BRIEF DIGEST ABSTRACT RUNDOWN are types of written works or formats, GARTER THONG BOA SLIP are items of clothing, TEDDY MAMBA VIPER CIRCLE are names of animals (left: MONTY PYTHON MOON)\n    BRIEF DIGEST ABSTRACT RUNDOWN are types of written works or formats, GARTER THONG BOA SLIP are items of clothing, TEDDY MAMBA VIPER CIRCLE are names of animals, MONTY PYTHON MOON are related to comedy or humor (left: )\n\nOutput: BRIEF DIGEST ABSTRACT RUNDOWN, GARTER THONG BOA SLIP, TEDDY MAMBA VIPER CIRCLE, MONTY PYTHON MOON",
+            "Thoughts: \n    GARTER BRIEF THONG SLIP are types of underwear (left: MONTY PYTHON DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE VIPER)\n    GARTER BRIEF THONG SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT RUNDOWN are all types of comedy (left: MOON CIRCLE BOA MAMBA TEDDY HOUSE VIPER)\n    GARTER BRIEF THONG SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT RUNDOWN are all types of comedy, MOON CIRCLE TEDDY HOUSE are all related to toys or childhood (left: BOA MAMBA VIPER)\n    GARTER BRIEF THONG SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT RUNDOWN are all types of comedy, MOON CIRCLE TEDDY HOUSE are all related to toys or childhood, BOA MAMBA VIPER are all types of snakes (left: )\nOutput: GARTER BRIEF THONG SLIP, MONTY PYTHON DIGEST ABSTRACT RUNDOWN, MOON CIRCLE TEDDY HOUSE, BOA MAMBA VIPER",
+            "Thoughts: \n    GARTER BRIEF THONG SLIP are types of underwear (left: MONTY PYTHON DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE VIPER)\n    GARTER BRIEF THONG SLIP are types of underwear, MONTY PYTHON is a famous comedy group, DIGEST and RUNDOWN can refer to summaries (left: MOON ABSTRACT BOA CIRCLE MAMBA TEDDY HOUSE VIPER)\n    GARTER BRIEF THONG SLIP are types of underwear, MONTY PYTHON is a famous comedy group, DIGEST and RUNDOWN can refer to summaries, BOA and VIPER are types of snakes (left: MOON ABSTRACT CIRCLE MAMBA TEDDY HOUSE)\n    GARTER BRIEF THONG SLIP are types of underwear, MONTY PYTHON is a famous comedy group, DIGEST and RUNDOWN can refer to summaries, BOA and VIPER are types of snakes, TEDDY and HOUSE can refer to types of bears (left: MOON ABSTRACT CIRCLE MAMBA)\n\nOutput: GARTER BRIEF THONG SLIP, MONTY PYTHON DIGEST RUNDOWN ABSTRACT, BOA VIPER MAMBA TEDDY, MOON CIRCLE HOUSE",
+            "GARTER BRIEF THONG SLIP are types of underwear (left: MONTY PYTHON DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE VIPER)  \nMONTY PYTHON DIGEST ABSTRACT RUNDOWN are styles of comedy or entertainment (left: GARTER BRIEF THONG SLIP MOON CIRCLE MAMBA TEDDY HOUSE VIPER)  \nMONTY PYTHON DIGEST ABSTRACT RUNDOWN are styles of comedy or entertainment, CIRCLE MOON TEDDY HOUSE describe shapes or structures (left: GARTER BRIEF THONG SLIP MAMBA VIPER)  \nCIRCLE MOON TEDDY HOUSE are shapes or structures, MAMBA VIPER are types of snakes (left: GARTER BRIEF THONG SLIP MONTY PYTHON DIGEST ABSTRACT RUNDOWN)  \n\nOutput: GARTER BRIEF THONG SLIP, MONTY PYTHON DIGEST RUNDOWN ABSTRACT, CIRCLE MOON TEDDY HOUSE, MAMBA VIPER",
+            "Thoughts: \n    BRIEF DIGEST ABSTRACT RUNDOWN are all types of summaries or outlines (left: GARTER MONTY PYTHON MOON SLIP THONG BOA CIRCLE MAMBA TEDDY HOUSE VIPER)\n    BRIEF DIGEST ABSTRACT RUNDOWN are types of summaries, GARTER THONG BOA SLIP are types of undergarments (left: MONTY PYTHON MOON CIRCLE MAMBA TEDDY HOUSE VIPER)\n    BRIEF DIGEST ABSTRACT RUNDOWN are types of summaries, GARTER THONG BOA SLIP are types of undergarments, MONTY PYTHON TEDDY HOUSE CIRCLE relate to entertainment or media (left: MOON MAMBA VIPER)\n    BRIEF DIGEST ABSTRACT RUNDOWN are types of summaries, GARTER THONG BOA SLIP are types of undergarments, MONTY PYTHON TEDDY HOUSE CIRCLE relate to entertainment or media, MOON MAMBA VIPER are all types of snakes (left: )\nOutput: BRIEF DIGEST ABSTRACT RUNDOWN, GARTER THONG BOA SLIP, MONTY PYTHON TEDDY HOUSE CIRCLE, MOON MAMBA VIPER",
+            "Thoughts: \n    GARTER THONG BRIEF SLIP are types of underwear (left: MONTY PYTHON DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE VIPER)\n    GARTER THONG BRIEF SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT are all forms of comedy or humor (left: MOON BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE VIPER)\n    GARTER THONG BRIEF SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT are all forms of comedy or humor, CIRCLE HOUSE TEDDY MAMBA are all related to shapes or items one might find in a home (left: MOON BOA RUNDOWN VIPER)\n    GARTER THONG BRIEF SLIP are types of underwear, MONTY PYTHON DIGEST ABSTRACT are all forms of comedy or humor, CIRCLE HOUSE TEDDY MAMBA are all related to shapes or items one might find in a home, RUNDOWN BOA VIPER MOON do not fit any particular group (left: )\nOutput: GARTER THONG BRIEF SLIP, MONTY PYTHON DIGEST ABSTRACT, CIRCLE HOUSE TEDDY MAMBA, RUNDOWN BOA MOON VIPER",
+            "Thoughts: \n    GARTER THONG BRIEF SLIP are all types of underwear (left: MONTY PYTHON DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE VIPER)\n    GARTER THONG BRIEF SLIP are all types of underwear, CIRCLE MAMBA VIPER BOA are all types of snakes (left: MONTY PYTHON DIGEST MOON ABSTRACT RUNDOWN TEDDY HOUSE)\n    GARTER THONG BRIEF SLIP are all types of underwear, CIRCLE MAMBA VIPER BOA are all types of snakes, TEDDY HOUSE DIGEST RUNDOWN are things related to a home or living space (left: MONTY PYTHON MOON ABSTRACT)\n    GARTER THONG BRIEF SLIP are all types of underwear, CIRCLE MAMBA VIPER BOA are all types of snakes, TEDDY HOUSE DIGEST RUNDOWN are things related to a home or living space, MONTY PYTHON MOON ABSTRACT are all associated with comedy or entertainment (left: )\nOutput: GARTER THONG BRIEF SLIP, CIRCLE MAMBA VIPER BOA, TEDDY HOUSE DIGEST RUNDOWN, MONTY PYTHON MOON ABSTRACT"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 16010,
+            "prompt_tokens": 6245,
+            "cost": 0.10542750000000001
+        }
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "GUM SUCKER LOLLIPOP CHOCOLATE are all types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP ACORN NEEDLE HURRICANE). \nGUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN NEEDLE are all related to plants or food (left: CONE FOOL MARK FACE CHUMP HURRICANE). \nGUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN NEEDLE are all related to plants or food, HURRICANE CHUMP FOOL MARK are all terms related to foolishness or trickery (left: CONE FACE). \nGUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN NEEDLE are all related to plants or food, HURRICANE CHUMP FOOL MARK are all terms related to foolishness or trickery, CONE FACE are shapes or forms (left: ). \nOutput: GUM SUCKER LOLLIPOP CHOCOLATE, POTATO ACORN POLLEN NEEDLE, HURRICANE CHUMP FOOL MARK, CONE FACE",
+            "Thoughts: \n    GUM LOLLIPOP CHOCOLATE LICORICE are types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN HURRICANE SAP)\n    GUM LOLLIPOP CHOCOLATE LICORICE are types of candy, POTATO ACORN POLLEN SAP are all types of organic materials (left: CONE FOOL MARK FACE CHUMP SUCKER NEEDLE HURRICANE)\n    GUM LOLLIPOP CHOCOLATE LICORICE are types of candy, POTATO ACORN POLLEN SAP are all types of organic materials, CONE NEEDLE are types of trees (left: FOOL MARK FACE CHUMP SUCKER HURRICANE)\n    GUM LOLLIPOP CHOCOLATE LICORICE are types of candy, POTATO ACORN POLLEN SAP are all types of organic materials, CONE NEEDLE are types of trees, FOOL CHUMP SUCKER MARK FACE are all terms related to trickery or foolishness (left: HURRICANE)\nOutput: GUM LOLLIPOP CHOCOLATE LICORICE, POTATO ACORN POLLEN SAP, CONE NEEDLE, FOOL CHUMP SUCKER MARK FACE",
+            "Thoughts: \n    GUM LOLLIPOP CHOCOLATE LICORICE are all types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN SAP HURRICANE)\n    GUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, POTATO ACORN POLLEN MARK are all types of natural materials (left: CONE FOOL FACE CHUMP SUCKER NEEDLE SAP HURRICANE)\n    GUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, POTATO ACORN POLLEN MARK are all types of natural materials, NEEDLE SUCKER CHUMP FOOL are all terms related to deception or trickery (left: CONE FACE HURRICANE)\n    GUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, POTATO ACORN POLLEN MARK are all types of natural materials, NEEDLE SUCKER CHUMP FOOL are all terms related to deception or trickery, HURRICANE is a natural disaster (left: CONE FACE)\n\nOutput: GUM LOLLIPOP CHOCOLATE LICORICE, POTATO ACORN POLLEN MARK, NEEDLE SUCKER CHUMP FOOL, CONE FACE HURRICANE",
+            "GUM LOLLIPOP CHOCOLATE LICORICE are all types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN HURRICANE SAP)  \nGUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, CONE POTATO ACORN POLLEN are all related to food (left: FOOL MARK FACE CHUMP SUCKER NEEDLE HURRICANE SAP)  \nGUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, CONE POTATO ACORN POLLEN are all related to food, FOOL FACE CHUMP SUCKER are all terms related to foolishness (left: MARK NEEDLE HURRICANE SAP)  \nGUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, CONE POTATO ACORN POLLEN are all related to food, FOOL FACE CHUMP SUCKER are all terms related to foolishness, MARK NEEDLE HURRICANE SAP are all things that can be associated with nature or tools (left: )  \nOutput: GUM LOLLIPOP CHOCOLATE LICORICE, CONE POTATO ACORN POLLEN, FOOL FACE CHUMP SUCKER, MARK NEEDLE HURRICANE SAP",
+            "GUM LOLLIPOP CHOCOLATE LICORICE are types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN HURRICANE SAP)  \nGUM LOLLIPOP CHOCOLATE LICORICE are types of candy, POTATO ACORN POLLEN SAP are all types of natural materials or food (left: CONE FOOL MARK FACE CHUMP SUCKER NEEDLE HURRICANE)  \nGUM LOLLIPOP CHOCOLATE LICORICE are types of candy, POTATO ACORN POLLEN SAP are all types of natural materials or food, CONE NEEDLE HURRICANE are types of weather phenomena (left: FOOL MARK FACE CHUMP SUCKER)  \nGUM LOLLIPOP CHOCOLATE LICORICE are types of candy, POTATO ACORN POLLEN SAP are all types of natural materials or food, CONE NEEDLE HURRICANE are types of weather phenomena, FOOL MARK FACE CHUMP are terms referring to foolishness or tricks (left: SUCKER)  \nOutput: GUM LOLLIPOP CHOCOLATE LICORICE, POTATO ACORN POLLEN SAP, CONE NEEDLE HURRICANE, FOOL MARK FACE CHUMP",
+            "GUM CONE LOLLIPOP CHOCOLATE are all types of candy (left: FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN LICORICE SAP HURRICANE)  \nGUM CONE LOLLIPOP CHOCOLATE are all types of candy, FOOL CHUMP SUCKER MARK are all terms related to being tricked or deceived (left: POTATO POLLEN FACE NEEDLE ACORN LICORICE SAP HURRICANE)  \nGUM CONE LOLLIPOP CHOCOLATE are all types of candy, FOOL CHUMP SUCKER MARK are all terms related to being tricked or deceived, POTATO POLLEN ACORN SAP are all related to plants or plant products (left: FACE NEEDLE LICORICE HURRICANE)  \nGUM CONE LOLLIPOP CHOCOLATE are all types of candy, FOOL CHUMP SUCKER MARK are all terms related to being tricked or deceived, POTATO POLLEN ACORN SAP are all related to plants or plant products, FACE NEEDLE LICORICE HURRICANE are all things that can be associated with danger or injury (left: )  \nOutput: GUM CONE LOLLIPOP CHOCOLATE, FOOL CHUMP SUCKER MARK, POTATO POLLEN ACORN SAP, FACE NEEDLE LICORICE HURRICANE",
+            "GUM SUCKER LOLLIPOP CHOCOLATE are all types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP ACORN NEEDLE HURRICANE).  \nGUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN NEEDLE are all things found in nature (left: CONE FOOL MARK FACE CHUMP HURRICANE).  \nGUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN NEEDLE are all things found in nature, HURRICANE FOOL MARK FACE refer to different forms of events or states (left: CONE CHUMP).  \nGUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN NEEDLE are all things found in nature, HURRICANE FOOL MARK FACE refer to different forms of events or states, CONE CHUMP are expressions or words associated with being foolish (left: ).  \nOutput: GUM SUCKER LOLLIPOP CHOCOLATE, POTATO ACORN POLLEN NEEDLE, HURRICANE FOOL MARK FACE, CONE CHUMP",
+            "GUM CONE LOLLIPOP CHOCOLATE are all types of candy (left: FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN LICORICE SAP HURRICANE)  \nFOOL CHUMP SUCKER FACE are terms related to being foolish or tricked (left: POTATO POLLEN MARK NEEDLE ACORN LICORICE SAP HURRICANE)  \nPOLLEN ACORN SAP LICORICE are all natural substances or materials (left: FOOL POTATO MARK NEEDLE HURRICANE)  \nPOTATO HURRICANE MARK NEEDLE are terms related to measurement or something that can be measured (left: FOOL POLLEN ACORN GUM CHUMP SUCKER CHOCOLATE LOLLIPOP)  \nOutput: GUM CONE LOLLIPOP CHOCOLATE, FOOL CHUMP SUCKER FACE, POLLEN ACORN SAP LICORICE, POTATO HURRICANE MARK NEEDLE",
+            "GUM LOLLIPOP CHOCOLATE LICORICE are all types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN SAP HURRICANE)  \nGUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, POTATO ACORN POLLEN SAP are all natural items (left: CONE FOOL MARK FACE CHUMP SUCKER NEEDLE HURRICANE)  \nGUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, POTATO ACORN POLLEN SAP are all natural items, CONE NEEDLE are both shapes (left: FOOL MARK FACE CHUMP SUCKER HURRICANE)  \nGUM LOLLIPOP CHOCOLATE LICORICE are all types of candy, POTATO ACORN POLLEN SAP are all natural items, CONE NEEDLE are both shapes, FOOL CHUMP SUCKER MARK FACE are all terms associated with pranks or tricks (left: HURRICANE)  \nOutput: GUM LOLLIPOP CHOCOLATE LICORICE, POTATO ACORN POLLEN SAP, CONE NEEDLE, FOOL CHUMP SUCKER MARK FACE",
+            "GUM SUCKER LOLLIPOP CHOCOLATE are all types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP NEEDLE ACORN LICORICE HURRICANE). GUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN LICORICE are all related to food items (left: CONE FOOL MARK FACE CHUMP NEEDLE HURRICANE). GUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN LICORICE are all related to food items, CONE MARK FACE CHUMP are all associated with shapes or forms (left: FOOL NEEDLE HURRICANE). GUM SUCKER LOLLIPOP CHOCOLATE are all types of candy, POTATO ACORN POLLEN LICORICE are all related to food items, CONE MARK FACE CHUMP are all associated with shapes or forms, NEEDLE FOOL HURRICANE are related to natural disasters or tools (left: ).\n\nOutput: GUM SUCKER LOLLIPOP CHOCOLATE, POTATO ACORN POLLEN LICORICE, CONE MARK FACE CHUMP, NEEDLE FOOL HURRICANE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 18610,
+            "prompt_tokens": 7142,
+            "cost": 0.122373
+        }
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "Thoughts: \n    FLASH BULB SPARKLE GLEAM GLITTER are all related to light or brightness (left: DRILL FISH BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH BULB SPARKLE GLEAM GLITTER are all related to light or brightness, DRILL TRAP HUNT FORAGE are all related to hunting or capturing (left: FISH BEER GRIME YEAR CRUNK RAIL BOUNCE)\n    FLASH BULB SPARKLE GLEAM GLITTER are all related to light or brightness, DRILL TRAP HUNT FORAGE are all related to hunting or capturing, FISH BEER GRIME YEAR are all related to food or drink (left: CRUNK RAIL BOUNCE)\n    FLASH BULB SPARKLE GLEAM GLITTER are all related to light or brightness, DRILL TRAP HUNT FORAGE are all related to hunting or capturing, FISH BEER GRIME YEAR are all related to food or drink, CRUNK RAIL BOUNCE are all related to movement or action (left: )\nOutput: FLASH BULB SPARKLE GLEAM, DRILL TRAP HUNT FORAGE, FISH BEER GRIME YEAR, CRUNK RAIL BOUNCE",
+            "Thoughts: \n    FLASH SPARKLE GLEAM GLITTER are all related to brightness or shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLEAM GLITTER are all related to brightness or shine, DRILL TRAP HUNT FORAGE are all related to hunting or trapping (left: FISH BULB BEER GRIME YEAR CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLEAM GLITTER are all related to brightness or shine, DRILL TRAP HUNT FORAGE are all related to hunting or trapping, BEER BULB GRIME CRUNK are all items associated with parties or celebrations (left: FISH YEAR RAIL BOUNCE)\n    FLASH SPARKLE GLEAM GLITTER are all related to brightness or shine, DRILL TRAP HUNT FORAGE are all related to hunting or trapping, BEER BULB GRIME CRUNK are all items associated with parties or celebrations, YEAR RAIL BOUNCE are all words associated with movement or passage of time (left: FISH)\n\nOutput: FLASH SPARKLE GLEAM GLITTER, DRILL TRAP HUNT FORAGE, BEER BULB GRIME CRUNK, YEAR RAIL BOUNCE",
+            "Thoughts: \n    FLASH BULB SPARKLE GLEAM GLITTER are all words related to light or brightness (left: DRILL FISH BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE).\n    FLASH BULB SPARKLE GLEAM GLITTER are all words related to light or brightness, HUNT FORAGE TRAP FISH are all related to catching or finding food (left: DRILL BEER GRIME YEAR CRUNK RAIL BOUNCE).\n    FLASH BULB SPARKLE GLEAM GLITTER are all words related to light or brightness, HUNT FORAGE TRAP FISH are all related to catching or finding food, DRILL RAIL CRUNK are words related to mechanical tools or actions (left: BEER GRIME YEAR BOUNCE).\n    FLASH BULB SPARKLE GLEAM GLITTER are all words related to light or brightness, HUNT FORAGE TRAP FISH are all related to catching or finding food, DRILL RAIL CRUNK are words related to mechanical tools or actions, BEER GRIME YEAR BOUNCE could be grouped as miscellaneous words or actions (left: ).\n\nOutput: FLASH BULB SPARKLE GLEAM, HUNT FORAGE TRAP FISH, DRILL RAIL CRUNK, BEER GRIME YEAR BOUNCE",
+            "Thoughts: \n    FLASH SPARKLE GLITTER GLEAM are all related to light or brightness (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or brightness, DRILL TRAP HUNT FORAGE are all related to hunting or trapping (left: FISH BULB BEER GRIME YEAR CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or brightness, DRILL TRAP HUNT FORAGE are all related to hunting or trapping, BEER GRIME YEAR CRUNK BOUNCE could relate to drinks or fun activities (left: FISH BULB RAIL)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or brightness, DRILL TRAP HUNT FORAGE are all related to hunting or trapping, BEER GRIME YEAR CRUNK BOUNCE are words relating to parties or celebrations (left: FISH BULB RAIL)\n\nOutput: FLASH SPARKLE GLITTER GLEAM, DRILL TRAP HUNT FORAGE, BEER GRIME YEAR CRUNK, FISH BULB RAIL BOUNCE",
+            "Thoughts: \n    FLASH SPARKLE GLEAM GLITTER are all related to light or brightness (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLEAM GLITTER are all related to light or brightness, TRAP HUNT FORAGE FISH are related to hunting or fishing (left: DRILL BULB BEER GRIME YEAR CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLEAM GLITTER are all related to light or brightness, TRAP HUNT FORAGE FISH are related to hunting or fishing, DRILL RAIL YEAR CRUNK are all tools or instruments (left: BULB BEER GRIME BOUNCE)\n    FLASH SPARKLE GLEAM GLITTER are all related to light or brightness, TRAP HUNT FORAGE FISH are related to hunting or fishing, DRILL RAIL YEAR CRUNK are all tools or instruments, BULB BEER GRIME BOUNCE could be related to things that can be contained (left: )\nOutput: FLASH SPARKLE GLEAM GLITTER, TRAP HUNT FORAGE FISH, DRILL RAIL CRUNK YEAR, BULB BEER GRIME BOUNCE",
+            "Thoughts: \n    FLASH SPARKLE GLITTER GLEAM are all related to light or shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or shine, DRILL TRAP HUNT FORAGE relate to searching or capturing (left: FISH BULB BEER GRIME YEAR CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or shine, DRILL TRAP HUNT FORAGE relate to searching or capturing, YEAR BEER CRUNK relate to time or celebration (left: FISH BULB GRIME RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or shine, DRILL TRAP HUNT FORAGE relate to searching or capturing, YEAR BEER CRUNK relate to time or celebration, FISH BULB GRIME RAIL BOUNCE are activities or objects associated with movement (left: )\nOutput: FLASH SPARKLE GLITTER GLEAM, DRILL TRAP HUNT FORAGE, YEAR BEER CRUNK, FISH BULB GRIME RAIL BOUNCE",
+            "Thoughts: \n    FLASH SPARKLE GLITTER GLEAM are all related to light or shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or shine, DRILL TRAP HUNT FORAGE are all verbs related to catching or gathering (left: FISH BULB BEER GRIME YEAR CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or shine, DRILL TRAP HUNT FORAGE are all verbs related to catching or gathering, BULB BEER GRIME CRUNK are items that can be associated with a party or celebration (left: FISH YEAR RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or shine, DRILL TRAP HUNT FORAGE are all verbs related to catching or gathering, BULB BEER GRIME CRUNK are items that can be associated with a party or celebration, FISH YEAR RAIL BOUNCE relate to different types of movement (left: )\nOutput: FLASH SPARKLE GLITTER GLEAM, DRILL TRAP HUNT FORAGE, BULB BEER GRIME CRUNK, FISH YEAR RAIL BOUNCE",
+            "Thoughts: \n    FLASH SPARKLE GLITTER GLEAM are all related to light or brightness (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or brightness, DRILL TRAP HUNT FORAGE relate to searching or capturing something (left: FISH BULB BEER GRIME YEAR CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or brightness, DRILL TRAP HUNT FORAGE relate to searching or capturing something, BULB BEER GRIME CRUNK are all items that can be related to the concept of 'things that can be consumed' (left: FISH YEAR RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM are all related to light or brightness, DRILL TRAP HUNT FORAGE relate to searching or capturing something, BULB BEER GRIME CRUNK are all items that can be related to the concept of 'things that can be consumed', FISH YEAR RAIL BOUNCE could relate to actions or states (left: )\n\nOutput: FLASH SPARKLE GLITTER GLEAM, DRILL TRAP HUNT FORAGE, BULB BEER GRIME CRUNK, FISH YEAR RAIL BOUNCE",
+            "Thoughts: \n    FLASH GLEAM GLITTER SPARKLE are all words related to light or brightness (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are all words related to light or brightness, DRILL TRAP FORAGE HUNT relate to searching or catching (left: FISH BULB BEER GRIME YEAR CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are all words related to light or brightness, DRILL TRAP FORAGE HUNT relate to searching or catching, BEER GRIME RAIL BOUNCE are things associated with parties (left: FISH BULB YEAR CRUNK)\n    FLASH GLEAM GLITTER SPARKLE are all words related to light or brightness, DRILL TRAP FORAGE HUNT relate to searching or catching, BEER GRIME RAIL BOUNCE are things associated with parties, FISH BULB YEAR CRUNK are items that can be caught or found (left: )\nOutput: FLASH GLEAM GLITTER SPARKLE, DRILL TRAP FORAGE HUNT, BEER GRIME RAIL BOUNCE, FISH BULB YEAR CRUNK",
+            "Thoughts:\n    SPARKLE GLITTER GLEAM FLASH are all related to light or shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE).\n    SPARKLE GLITTER GLEAM FLASH are all related to light or shine, DRILL TRAP HUNT FORAGE are all actions associated with hunting or capturing (left: FISH BULB BEER GRIME YEAR CRUNK RAIL BOUNCE).\n    SPARKLE GLITTER GLEAM FLASH are all related to light or shine, DRILL TRAP HUNT FORAGE are all actions associated with hunting or capturing, BULB BEER GRIME RAIL involve items or terms associated with substances or elements (left: FISH YEAR CRUNK BOUNCE).\n    SPARKLE GLITTER GLEAM FLASH are all related to light or shine, DRILL TRAP HUNT FORAGE are all actions associated with hunting or capturing, BULB BEER GRIME RAIL involve items or terms associated with substances or elements, FISH YEAR CRUNK BOUNCE relate to movement or fun activities (left: ).\nOutput: SPARKLE GLITTER GLEAM FLASH, DRILL TRAP HUNT FORAGE, BULB BEER GRIME RAIL, FISH YEAR CRUNK BOUNCE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 21333,
+            "prompt_tokens": 8036,
+            "cost": 0.140052
+        }
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "Thoughts: \n    METAL GLASS PLASTIC PAPER are all types of materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY CENTRAL ASSIGNMENT VITAL are related to important tasks or focuses (left: ROCK TEMPO HENRY TIRED JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY CENTRAL ASSIGNMENT VITAL are related to important tasks or focuses, ROCK TEMPO HENRY TIRED are all related to measurements or states (left: JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY CENTRAL ASSIGNMENT VITAL are related to important tasks or focuses, ROCK TEMPO HENRY TIRED are all related to measurements or states, JENNIFER KATE DEFEAT CRITICAL are all proper names or adjectives (left: )\nOutput: METAL GLASS PLASTIC PAPER, KEY CENTRAL ASSIGNMENT VITAL, ROCK TEMPO HENRY TIRED, JENNIFER KATE DEFEAT CRITICAL",
+            "Thoughts: \n    METAL GLASS PLASTIC PAPER are all types of materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY HENRY JENNIFER KATE are all first names (left: ROCK TEMPO TIRED CENTRAL ASSIGNMENT VITAL DEFEAT CRITICAL)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY HENRY JENNIFER KATE are all first names, ROCK TEMPO VITAL CRITICAL relate to rhythm or importance (left: TIRED CENTRAL ASSIGNMENT DEFEAT)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY HENRY JENNIFER KATE are all first names, ROCK TEMPO VITAL CRITICAL relate to rhythm or importance, TIRED CENTRAL ASSIGNMENT DEFEAT are all terms that can describe tasks or challenges (left: )\nOutput: METAL GLASS PLASTIC PAPER, KEY HENRY JENNIFER KATE, ROCK TEMPO VITAL CRITICAL, TIRED CENTRAL ASSIGNMENT DEFEAT",
+            "Thoughts: \n    METAL GLASS PLASTIC PAPER are all types of materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT CRITICAL KATE)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY CENTRAL ASSIGNMENT VITAL relate to important concepts in projects or tasks (left: ROCK TEMPO HENRY TIRED JENNIFER DEFEAT CRITICAL KATE)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY CENTRAL ASSIGNMENT VITAL relate to important concepts in projects or tasks, ROCK DEFEAT TIRED HENRY relate to states of being or conditions (left: TEMPO JENNIFER CRITICAL KATE)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY CENTRAL ASSIGNMENT VITAL relate to important concepts in projects or tasks, ROCK DEFEAT TIRED HENRY relate to states of being or conditions, TEMPO CRITICAL JENNIFER KATE can be associated with names or descriptors in a personal context (left: )\nOutput: METAL GLASS PLASTIC PAPER, KEY CENTRAL ASSIGNMENT VITAL, ROCK DEFEAT TIRED HENRY, TEMPO CRITICAL JENNIFER KATE",
+            "Thoughts: \n    METAL GLASS PLASTIC PAPER are all types of materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY TEMPO CENTRAL VITAL are related to the concept of importance or significance (left: ROCK HENRY TIRED ASSIGNMENT JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY TEMPO CENTRAL VITAL are related to importance, ROCK HENRY TIRED are names (left: ASSIGNMENT JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all types of materials, KEY TEMPO CENTRAL VITAL are related to importance, ROCK HENRY TIRED are names, ASSIGNMENT DEFEAT JENNIFER KATE are associated with tasks or challenges (left: CRITICAL)\nOutput: METAL GLASS PLASTIC PAPER, KEY TEMPO CENTRAL VITAL, ROCK HENRY TIRED, ASSIGNMENT DEFEAT JENNIFER KATE",
+            "Thoughts: \n    METAL GLASS PLASTIC PAPER are all materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all materials, KEY ROCK TEMPO HENRY are all associated with measures or units (left: TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all materials, KEY ROCK TEMPO HENRY are all associated with measures or units, TIRED VITAL CRITICAL are all adjectives related to importance or urgency (left: CENTRAL ASSIGNMENT JENNIFER DEFEAT KATE)\n    METAL GLASS PLASTIC PAPER are all materials, KEY ROCK TEMPO HENRY are all associated with measures or units, TIRED VITAL CRITICAL are all adjectives related to importance or urgency, CENTRAL ASSIGNMENT JENNIFER DEFEAT KATE are all names or terms associated with tasks or challenges (left: )\nOutput: METAL GLASS PLASTIC PAPER, KEY ROCK TEMPO HENRY, TIRED VITAL CRITICAL, CENTRAL ASSIGNMENT JENNIFER DEFEAT KATE",
+            "Thoughts: \n    METAL GLASS PLASTIC ROCK are all materials (left: KEY TEMPO HENRY TIRED PAPER CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC ROCK are all materials, KEY CENTRAL ASSIGNMENT VITAL are related to importance or significance (left: TEMPO HENRY TIRED PAPER JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC ROCK are all materials, KEY CENTRAL ASSIGNMENT VITAL are related to importance or significance, TEMPO TIRED DEFEAT are related to states of being or conditions (left: HENRY PAPER JENNIFER KATE CRITICAL)\n    METAL GLASS PLASTIC ROCK are all materials, KEY CENTRAL ASSIGNMENT VITAL are related to importance or significance, TEMPO TIRED DEFEAT are related to states of being or conditions, HENRY JENNIFER KATE are all names (left: PAPER CRITICAL)\n\nOutput: METAL GLASS PLASTIC ROCK, KEY CENTRAL ASSIGNMENT VITAL, TEMPO TIRED DEFEAT, HENRY JENNIFER KATE",
+            "Thoughts: \n    METAL GLASS PLASTIC PAPER are all materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all materials, KEY HENRY JENNIFER KATE are common names (left: ROCK TEMPO TIRED CENTRAL ASSIGNMENT VITAL DEFEAT CRITICAL)\n    METAL GLASS PLASTIC PAPER are all materials, KEY HENRY JENNIFER KATE are common names, ROCK TEMPO VITAL CRITICAL are terms related to importance (left: TIRED CENTRAL ASSIGNMENT DEFEAT)\n    METAL GLASS PLASTIC PAPER are all materials, KEY HENRY JENNIFER KATE are common names, ROCK TEMPO VITAL CRITICAL are terms related to importance, TIRED CENTRAL ASSIGNMENT DEFEAT are all associated with tasks or efforts (left: )\nOutput: METAL GLASS PLASTIC PAPER, KEY HENRY JENNIFER KATE, ROCK TEMPO VITAL CRITICAL, TIRED CENTRAL ASSIGNMENT DEFEAT",
+            "Thoughts: \n    METAL GLASS PLASTIC PAPER are all materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC PAPER are all materials, TEMPO VITAL CRITICAL KEY relate to importance or measurement (left: ROCK HENRY TIRED CENTRAL ASSIGNMENT JENNIFER DEFEAT KATE)\n    METAL GLASS PLASTIC PAPER are all materials, TEMPO VITAL CRITICAL KEY relate to importance or measurement, HENRY JENNIFER KATE are all first names (left: ROCK TIRED CENTRAL ASSIGNMENT DEFEAT)\n    METAL GLASS PLASTIC PAPER are all materials, TEMPO VITAL CRITICAL KEY relate to importance or measurement, HENRY JENNIFER KATE are all first names, ROCK DEFEAT TIRED CENTRAL ASSIGNMENT are all terms associated with challenges or obstacles (left: )\n\nOutput: METAL GLASS PLASTIC PAPER, TEMPO VITAL CRITICAL KEY, HENRY JENNIFER KATE, ROCK TIRED CENTRAL ASSIGNMENT DEFEAT",
+            "Thoughts: \n    METAL GLASS PLASTIC ROCK are all materials (left: KEY TEMPO HENRY TIRED PAPER CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC ROCK are all materials, KEY CENTRAL ASSIGNMENT VITAL are related to importance or significance (left: TEMPO HENRY TIRED PAPER JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC ROCK are all materials, KEY CENTRAL ASSIGNMENT VITAL are related to importance or significance, TEMPO TIRED DEFEAT HENRY are all related to states of being or conditions (left: PAPER JENNIFER KATE CRITICAL)\n    METAL GLASS PLASTIC ROCK are all materials, KEY CENTRAL ASSIGNMENT VITAL are related to importance or significance, TEMPO TIRED DEFEAT HENRY are all related to states of being or conditions, PAPER JENNIFER KATE CRITICAL are all names (left: )\nOutput: METAL GLASS PLASTIC ROCK, KEY CENTRAL ASSIGNMENT VITAL, TEMPO TIRED DEFEAT HENRY, PAPER JENNIFER KATE CRITICAL",
+            "Thoughts:\n    METAL GLASS PLASTIC ROCK are all types of materials (left: KEY TEMPO HENRY TIRED PAPER CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PLASTIC ROCK are all types of materials, KEY TEMPO ASSIGNMENT VITAL CRITICAL relate to concepts of importance or priority (left: HENRY TIRED PAPER CENTRAL JENNIFER DEFEAT KATE)\n    METAL GLASS PLASTIC ROCK are all types of materials, KEY TEMPO ASSIGNMENT VITAL CRITICAL relate to concepts of importance or priority, HENRY JENNIFER KATE are all first names (left: TIRED PAPER CENTRAL DEFEAT)\n    METAL GLASS PLASTIC ROCK are all types of materials, KEY TEMPO ASSIGNMENT VITAL CRITICAL relate to concepts of importance or priority, HENRY JENNIFER KATE are all first names, TIRED DEFEAT PAPER CENTRAL describe states of being or actions (left: )\nOutput: METAL GLASS PLASTIC ROCK, KEY TEMPO ASSIGNMENT VITAL CRITICAL, HENRY JENNIFER KATE, TIRED DEFEAT PAPER CENTRAL"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 23860,
+            "prompt_tokens": 8930,
+            "cost": 0.156555
+        }
+    }
+]

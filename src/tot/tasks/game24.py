@@ -29,7 +29,6 @@ class Game24Task(Task):
         file: a csv file (fixed)
         """
         super().__init__()
-        self.steps = 1
         path = os.path.join(DATA_PATH, '24', file)
         self.data = list(pd.read_csv(path)['Puzzles'])
         self.value_cache = {}

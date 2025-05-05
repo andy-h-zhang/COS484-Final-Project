@@ -1,0 +1,2602 @@
+[
+    {
+        "idx": 100,
+        "ys": [
+            "BALL PIN SPARE TEE, ATE FOR TOO WON, ALLEY LANE MUG TOTE, BACKUP COPY EXTRA PEN",
+            "BALL PIN SPARE TEE, ATE FOR TOO WON, BACKUP COPY EXTRA PEN, ALLEY LANE MUG TOTE",
+            "BALL PIN SPARE TEE, EXTRA TOO WON FOR, COPY MUG PEN TOTE, ATE ALLEY BACKUP LANE",
+            "BALL PIN SPARE TEE, ATE FOR TOO WON, ALLEY LANE MUG TOTE, BACKUP COPY EXTRA PEN",
+            "BALL PIN SPARE TEE, BACKUP COPY FOR TOO, ALLEY LANE MUG WON, ATE EXTRA PEN TOTE",
+            "BALL PIN SPARE TEE, BACKUP COPY EXTRA FOR, ATE TOO WON MUG, ALLEY LANE PEN TOTE",
+            "BALL PIN SPARE TEE, ATE FOR TOO WON, ALLEY LANE MUG TOTE, BACKUP COPY EXTRA PEN",
+            "BALL PIN SPARE TEE, ATE FOR TOO WON, ALLEY BACKUP LANE MUG, COPY EXTRA PEN TOTE",
+            "BALL PIN SPARE TEE, EXTRA MUG TOO TOTE, ALLEY LANE PEN STREET, WON COPY ATE BACKUP",
+            "BALL PIN SPARE TEE, ATE COPY FOR TOO, ALLEY LANE MUG WON, BACKUP EXTRA PEN TOTE"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 280,
+            "prompt_tokens": 405,
+            "cost": 0.003812500000000001
+        }
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "BUS CAR MOTORCYCLE TRUCK, ANIMAL DOG PIGGY SCOOTER, BARTENDER CHEF HOST SERVER, BEAKER DIGIT GONZO MITT",
+            "DOG ANIMAL CHEF PIGGY, BUS CAR SCOOTER TRUCK, BARTENDER HOST SERVER MITT, BEAKER DIGIT GONZO MOTORCYCLE",
+            "CHEF BARTENDER HOST SERVER, DOG ANIMAL PIGGY GONZO, CAR BUS SCOOTER TRUCK, BEAKER DIGIT MITT MOTORCYCLE",
+            "CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER TRUCK, ANIMAL DOG GONZO PIGGY, BEAKER DIGIT MITT MOTORCYCLE",
+            "DOG ANIMAL PIGGY GONZO, CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER TRUCK, DIGIT MITT BEAKER MOTORCYCLE",
+            "DOG ANIMAL BUS TRUCK, CHEF BARTENDER HOST SERVER, CAR SCOOTER MOTORCYCLE MITT, DIGIT BEAKER GONZO PIGGY",
+            "DOG ANIMAL PIGGY GONZO, CAR BUS SCOOTER TRUCK, CHEF BARTENDER HOST SERVER, DIGIT BEAKER MITT MOTORCYCLE",
+            "DOG ANIMAL PIGGY GONZO, BUS CAR SCOOTER TRUCK, CHEF BARTENDER HOST SERVER, BEAKER DIGIT MITT MOTORCYCLE",
+            "CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER TRUCK, DOG ANIMAL MITT PIGGY, DIGIT BEAKER GONZO MOTORCYCLE",
+            "CHEF BARTENDER HOST SERVER, DOG ANIMAL PIGGY GONZO, BUS CAR SCOOTER TRUCK, DIGIT MITT BEAKER MOTORCYCLE"
+        ],
+        "infos": [
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 640,
+            "prompt_tokens": 818,
+            "cost": 0.008445000000000001
+        }
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, GLASS MALT SUNDAE OLD, DASH KEY SIGNS STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SUNDAE, GLASS MALT OLD STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, GLASS MALT SUNDAE OLD, DASH KEY SIGNS STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, GLASS MALT SUNDAE OLD, DASH KEY SIGNS STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SUNDAE, GLASS MALT OLD STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH GLASS KEY SUNDAE, MALT OLD SIGNS STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS GLASS, MALT OLD STAR SUNDAE",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH KEY OLD SIGNS, GLASS MALT STAR SUNDAE",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, GLASS KEY OLD SUNDAE, DASH MALT SIGNS STAR",
+            "FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, GLASS MALT SUNDAE OLD, DASH KEY SIGNS STAR"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 980,
+            "prompt_tokens": 1229,
+            "cost": 0.0128725
+        }
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "FALL DROP SINK DIP, STRONG SWIFT HEALTHY FIT, KEYS NICKS SOUND TAP, SPRING SUMMER FOUNTAIN WELL",
+            "FALL DROP SINK DIP, SPRING FOUNTAIN SOUND TAP, KEYS NICKS STRONG SWIFT, FIT HEALTHY SUMMER WELL",
+            "FALL DROP DIP SINK, STRONG SWIFT HEALTHY FIT, KEYS NICKS SOUND TAP, SPRING SUMMER FOUNTAIN WELL",
+            "FALL DROP DIP SINK, FIT HEALTHY STRONG SWIFT, KEYS SOUND TAP WELL, FOUNTAIN NICKS SPRING SUMMER",
+            "FALL DROP SINK DIP, STRONG SWIFT HEALTHY FIT, KEYS NICKS SOUND TAP, SPRING SUMMER FOUNTAIN WELL",
+            "FALL DROP DIP SINK, KEYS NICKS SOUND TAP, SPRING STRONG SWIFT WELL, FIT FOUNTAIN HEALTHY SUMMER",
+            "FALL DROP SINK SWIFT, KEYS SOUND TAP WELL, FOUNTAIN SPRING SUMMER WELL, STRONG FIT HEALTHY NICKS",
+            "FALL DROP SINK DIP, STRONG SWIFT KEYS SOUND, SPRING FOUNTAIN WELL TAP, HEALTHY FIT NICKS SUMMER",
+            "FALL DROP SINK DIP, SPRING SUMMER WELL FOUNTAIN, KEYS NICKS STRONG SWIFT, SOUND TAP FIT HEALTHY",
+            "FALL DROP DIP SINK, SPRING FOUNTAIN KEYS TAP, STRONG SWIFT WELL HEALTHY, SOUND SUMMER FIT NICKS"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1290,
+            "prompt_tokens": 1636,
+            "cost": 0.016989999999999998
+        }
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "BIRD DINOSAUR PARTRIDGE REPTILE, CLEAVER GRATER LADLE PEELER, FISH MAMMAL MUSHROOM PRINCESS, BUNKER PLUMBER TANNER WHISK",
+            "FISH BIRD PARTRIDGE PRINCESS, CLEAVER LADLE PEELER WHISK, GRATER MUSHROOM REPTILE DINOSAUR, BUNKER MAMMAL PLUMBER TANNER",
+            "FISH BIRD PARTRIDGE PRINCESS, CLEAVER LADLE WHISK PEELER, DINOSAUR MAMMAL REPTILE TANNER, BUNKER GRATER MUSHROOM PLUMBER",
+            "BIRD DINOSAUR PARTRIDGE REPTILE, CLEAVER GRATER LADLE WHISK, FISH MAMMAL MUSHROOM PRINCESS, BUNKER PEELER PLUMBER TANNER",
+            "CLEAVER LADLE WHISK PEELER, DINOSAUR FISH PARTRIDGE REPTILE, BIRD MAMMAL MUSHROOM PRINCESS, BUNKER GRATER PLUMBER TANNER",
+            "PRINCESS PARTRIDGE PLUMBER TANNER, CLEAVER LADLE WHISK PEELER, BIRD DINOSAUR FISH MAMMAL, BUNKER GRATER MUSHROOM REPTILE",
+            "BIRD DINOSAUR PARTRIDGE REPTILE, CLEAVER GRATER LADLE PEELER, FISH MAMMAL MUSHROOM PRINCESS, BUNKER PLUMBER TANNER WHISK",
+            "CLEAVER LADLE WHISK PEELER, BIRD PARTRIDGE PRINCESS TANNER, DINOSAUR FISH MAMMAL REPTILE, BUNKER GRATER MUSHROOM PLUMBER",
+            "PRINCESS PARTRIDGE PLUMBER TANNER, CLEAVER LADLE WHISK PEELER, BIRD DINOSAUR MAMMAL REPTILE, FISH MUSHROOM GRATER BUNKER",
+            "FISH PARTRIDGE BIRD MAMMAL, CLEAVER LADLE WHISK PEELER, DINOSAUR MUSHROOM REPTILE TANNER, PRINCESS PLUMBER BUNKER GRATER"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1750,
+            "prompt_tokens": 2059,
+            "cost": 0.0226475
+        }
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "BLACK COAT VEIL COVER, BOOK CAKE GRAM RING, TRAIN TUBE IN SPARROW, BOUQUET CRUST FROST MA",
+            "BLACK BOOK COVER VEIL, CAKE CRUST FROST GRAM, TRAIN TUBE IN SPARROW, BOUQUET COAT RING MA",
+            "BLACK BOOK COVER VEIL, CAKE CRUST FROST RING, COAT GRAM MA TUBE, BOUQUET IN SPARROW TRAIN",
+            "GRAM BLACK CAKE RING, BOOK COAT COVER VEIL, BOUQUET FROST SPARROW TUBE, TRAIN CRUST IN MA",
+            "BLACK BOOK COVER VEIL, CAKE CRUST FROST RING, BOUQUET COAT SPARROW TRAIN, GRAM IN MA TUBE",
+            "BOOK COAT COVER VEIL, BLACK FROST GRAM MA, CAKE CRUST RING TUBE, BOUQUET IN SPARROW TRAIN",
+            "BLACK COAT COVER VEIL, BOOK CAKE GRAM TUBE, BOUQUET FROST RING SPARROW, CRUST IN MA TRAIN",
+            "BLACK BOOK COVER VEIL, CAKE CRUST FROST TUBE, COAT GRAM IN MA, BOUQUET RING SPARROW TRAIN",
+            "BLACK BOOK COVER VEIL, CAKE CRUST FROST GRAM, BOUQUET RING SPARROW TUBE, COAT IN MA TRAIN",
+            "BLACK BOOK COVER VEIL, CAKE CRUST FROST RING, TRAIN TUBE COAT IN, BOUQUET GRAM MA SPARROW"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2089,
+            "prompt_tokens": 2470,
+            "cost": 0.027065
+        }
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "MAMBA PYTHON BOA VIPER, GARTER SLIP THONG TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BRIEF HOUSE MONTY MOON",
+            "GARTER THONG SLIP TEDDY, BRIEF ABSTRACT DIGEST RUNDOWN, MONTY PYTHON MOON HOUSE, BOA CIRCLE MAMBA VIPER",
+            "GARTER THONG BOA MAMBA, BRIEF DIGEST RUNDOWN ABSTRACT, CIRCLE HOUSE MOON TEDDY, MONTY PYTHON SLIP VIPER",
+            "GARTER THONG BRIEF SLIP, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, HOUSE MOON MONTY TEDDY",
+            "GARTER THONG BRIEF SLIP, MONTY PYTHON BOA VIPER, ABSTRACT CIRCLE HOUSE MOON, DIGEST MAMBA RUNDOWN TEDDY",
+            "GARTER SLIP THONG TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON",
+            "GARTER THONG SLIP TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON",
+            "MAMBA PYTHON VIPER BOA, BRIEF DIGEST RUNDOWN ABSTRACT, GARTER SLIP THONG TEDDY, CIRCLE HOUSE MOON MONTY",
+            "GARTER SLIP THONG TEDDY, ABSTRACT CIRCLE DIGEST RUNDOWN, BOA MAMBA PYTHON VIPER, BRIEF HOUSE MONTY MOON",
+            "BRIEF DIGEST RUNDOWN ABSTRACT, GARTER SLIP THONG TEDDY, BOA MAMBA PYTHON VIPER, CIRCLE HOUSE MONTY MOON"
+        ],
+        "infos": [
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 4
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 4
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2469,
+            "prompt_tokens": 2885,
+            "cost": 0.0319025
+        }
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "GUM LICORICE LOLLIPOP CHOCOLATE, CONE FACE MARK NEEDLE, POTATO POLLEN SAP ACORN, FOOL CHUMP SUCKER HURRICANE",
+            "POTATO ACORN CONE NEEDLE, CHOCOLATE GUM LICORICE LOLLIPOP, CHUMP FOOL MARK SUCKER, FACE HURRICANE POLLEN SAP",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, ACORN CONE NEEDLE SAP, CHUMP FOOL MARK SUCKER, FACE HURRICANE POLLEN POTATO",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, ACORN CONE NEEDLE SAP, CHUMP FOOL SUCKER HURRICANE, FACE MARK POLLEN POTATO",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, ACORN CONE FACE NEEDLE, CHUMP FOOL MARK SUCKER, HURRICANE POLLEN POTATO SAP",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, CONE FACE MARK NEEDLE, CHUMP FOOL SAP SUCKER, ACORN HURRICANE POLLEN POTATO",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, ACORN CONE NEEDLE SAP, CHUMP FOOL MARK SUCKER, FACE HURRICANE POLLEN POTATO",
+            "CHOCOLATE GUM LICORICE LOLLIPOP, CONE MARK NEEDLE SAP, FACE FOOL SUCKER CHUMP, ACORN HURRICANE POLLEN POTATO",
+            "GUM CHOCOLATE LICORICE LOLLIPOP, FACE FOOL MARK SUCKER, ACORN CONE NEEDLE POTATO, CHUMP HURRICANE POLLEN SAP",
+            "GUM LICORICE LOLLIPOP CHOCOLATE, ACORN CONE NEEDLE SAP, CHUMP FOOL MARK SUCKER, FACE HURRICANE POLLEN POTATO"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2870,
+            "prompt_tokens": 3302,
+            "cost": 0.036955
+        }
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "FLASH BULB SPARKLE GLITTER, DRILL RAIL TRAP BOUNCE, BEER CRUNK GRIME YEAR, FISH FORAGE GLEAM HUNT",
+            "FLASH BULB SPARKLE GLITTER, FISH BEER GRIME CRUNK, DRILL HUNT TRAP FORAGE, BOUNCE GLEAM RAIL YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL HUNT TRAP FORAGE, FISH BEER GRIME CRUNK, BOUNCE GLEAM RAIL YEAR",
+            "FLASH BULB SPARKLE GLITTER, FISH BEER CRUNK GRIME, DRILL RAIL TRAP HUNT, BOUNCE FORAGE GLEAM YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL FISH HUNT FORAGE, BEER CRUNK GRIME RAIL, BOUNCE GLEAM TRAP YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL GRIME RAIL TRAP, FISH BEER HUNT FORAGE, BOUNCE CRUNK GLEAM YEAR",
+            "FLASH BULB SPARKLE GLITTER, BEER CRUNK GRIME RAIL, DRILL FISH TRAP HUNT, BOUNCE FORAGE GLEAM YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL FISH HUNT FORAGE, BEER CRUNK GRIME RAIL, BOUNCE GLEAM TRAP YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL TRAP RAIL HUNT, FISH BEER GRIME CRUNK, BOUNCE FORAGE GLEAM YEAR",
+            "FLASH BULB SPARKLE GLITTER, DRILL RAIL TRAP CRUNK, FISH BEER HUNT FORAGE, BOUNCE GLEAM GRIME YEAR"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3240,
+            "prompt_tokens": 3716,
+            "cost": 0.041690000000000005
+        }
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "METAL ROCK GLASS PLASTIC, ASSIGNMENT CENTRAL PAPER KEY, HENRY JENNIFER KATE TIRED, CRITICAL DEFEAT TEMPO VITAL",
+            "METAL ROCK GLASS PLASTIC, ASSIGNMENT CENTRAL CRITICAL VITAL, HENRY JENNIFER KATE TIRED, DEFEAT KEY PAPER TEMPO",
+            "METAL ROCK GLASS PLASTIC, ASSIGNMENT CENTRAL KEY PAPER, HENRY JENNIFER KATE TIRED, CRITICAL DEFEAT TEMPO VITAL",
+            "METAL ROCK GLASS PLASTIC, KEY HENRY JENNIFER KATE, CENTRAL PAPER TEMPO VITAL, ASSIGNMENT CRITICAL DEFEAT TIRED",
+            "METAL ROCK GLASS PLASTIC, CENTRAL CRITICAL TEMPO VITAL, HENRY JENNIFER KATE KEY, ASSIGNMENT DEFEAT PAPER TIRED",
+            "METAL ROCK GLASS PLASTIC, KEY CENTRAL VITAL CRITICAL, HENRY JENNIFER KATE TIRED, ASSIGNMENT DEFEAT PAPER TEMPO",
+            "METAL ROCK GLASS PLASTIC, KEY PAPER CENTRAL ASSIGNMENT, HENRY JENNIFER KATE TIRED, TEMPO VITAL DEFEAT CRITICAL",
+            "METAL ROCK GLASS PLASTIC, KEY PAPER CENTRAL ASSIGNMENT, TEMPO TIRED VITAL CRITICAL, HENRY JENNIFER KATE DEFEAT",
+            "METAL ROCK TEMPO VITAL, KEY PAPER ASSIGNMENT CENTRAL, HENRY JENNIFER KATE TIRED, DEFEAT GLASS PLASTIC CRITICAL",
+            "METAL ROCK GLASS PLASTIC, KEY PAPER ASSIGNMENT CENTRAL, TEMPO TIRED VITAL CRITICAL, HENRY JENNIFER KATE DEFEAT"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3610,
+            "prompt_tokens": 4130,
+            "cost": 0.046425
+        }
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "SHY THIRST WANTING LOW, WOOD PINE IRON CLUB, HEART ACHE LONG SHORT, DIAMOND SPADE WEDGE PUTTER",
+            "SHY LONG SHORT LOW, HEART ACHE THIRST WANTING, WOOD IRON PINE SPADE, CLUB DIAMOND PUTTER WEDGE",
+            "DIAMOND HEART SPADE WOOD, CLUB IRON PUTTER WEDGE, ACHE LONG SHORT THIRST, LOW PINE SHY WANTING",
+            "DIAMOND HEART SPADE CLUB, IRON LOW LONG SHORT, ACHE THIRST WANTING WOOD, PINE PUTTER SHY WEDGE",
+            "HEART SHY SHORT THIRST, CLUB DIAMOND SPADE WEDGE, ACHE LONG LOW WANTING, IRON PINE PUTTER WOOD",
+            "DIAMOND HEART SPADE WOOD, ACHE LONG SHORT THIRST, CLUB PUTTER WEDGE WOOD, IRON LOW PINE WANTING",
+            "HEART SPADE CLUB DIAMOND, ACHE LONG SHORT THIRST, WOOD IRON PUTTER WEDGE, LOW PINE SHY WANTING",
+            "HEART IRON SPADE WOOD, ACHE LONG SHORT THIRST, DIAMOND CLUB WEDGE PUTTER, LOW PINE SHY WANTING",
+            "HEART LONG SHORT WOOD, CLUB DIAMOND SPADE WEDGE, ACHE THIRST WANTING LOW, IRON PINE PUTTER SHY",
+            "HEART SPADE CLUB DIAMOND, ACHE LONG SHORT THIRST, IRON PINE WOOD WEDGE, LOW PUTTER SHY WANTING"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3935,
+            "prompt_tokens": 4539,
+            "cost": 0.050697500000000006
+        }
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "BALLPARK BAT STICK BALL, BRICK CUP LID STIRRER, GO OWL WOLF CARDINAL, ACTION BEET MOTH POPPY",
+            "BAT BALLPARK CARDINAL STRAW, BRICK CUP LID STICK, ACTION GO POPPY STIRRER, BEET MOTH OWL WOLF",
+            "STIRRER STICK STRAW STICK, BALLPARK BAT CARDINAL WOLF, GO LID OWL MOTH, ACTION BEET BRICK POPPY",
+            "BALLPARK BAT CARDINAL OWL, BRICK CUP LID STICK, ACTION GO POPPY STIRRER, BEET MOTH STRAW WOLF",
+            "STICK BAT BALLPARK CUP, ACTION GO LID POPPY, CARDINAL OWL WOLF MOTH, STRAW BRICK BEET STIRRER",
+            "STRAW STICK BRICK LID, BALLPARK BAT CARDINAL WOLF, GO OWL BEET MOTH, ACTION CUP POPPY STIRRER",
+            "BALLPARK BAT STICK STRAW, BRICK CUP LID STIRRER, ACTION GO POPPY WOLF, BEET CARDINAL MOTH OWL",
+            "BALLPARK BAT CARDINAL OWL, STRAW STICK STIRRER LID, ACTION BEET GO POPPY, BRICK CUP MOTH WOLF",
+            "BALLPARK BAT STICK STIRRER, CARDINAL GO OWL WOLF, BRICK CUP LID STRAW, ACTION BEET MOTH POPPY",
+            "BALLPARK BAT STICK STRAW, BRICK CUP LID STIRRER, CARDINAL GO OWL WOLF, ACTION BEET MOTH POPPY"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4285,
+            "prompt_tokens": 4951,
+            "cost": 0.0552275
+        }
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "DOG FUR SHELL SCALES, BOW ARROW CLOCK DOWN, FINGER HINT NOTES SALUTE, MAIL MAPS KNEEL STAND",
+            "DOG FUR SHELL SCALES, ARROW BOW DOWN STAND, CLOCK HINT MAPS NOTES, FINGER KNEEL MAIL SALUTE",
+            "DOG FUR SHELL SCALES, ARROW BOW DOWN SALUTE, CLOCK FINGER HAND KNEEL, HINT MAPS NOTES MAIL",
+            "BOW ARROW DOWN STAND, CLOCK NOTES SCALES SHELL, DOG FUR MAIL SALUTE, FINGER HINT KNEEL MAPS",
+            "DOG BOW FUR SHELL, ARROW DOWN FINGER STAND, CLOCK MAPS NOTES SCALES, HINT KNEEL MAIL SALUTE",
+            "DOG BOW ARROW SALUTE, CLOCK DOWN KNEEL STAND, FINGER HINT NOTES SCALES, FUR MAIL MAPS SHELL",
+            "ARROW BOW FINGER SALUTE, CLOCK DOWN MAPS STAND, DOG FUR SHELL SCALES, HINT KNEEL MAIL NOTES",
+            "DOG SHELL FUR SCALES, BOW ARROW HINT MAPS, CLOCK DOWN STAND NOTES, FINGER KNEEL MAIL SALUTE",
+            "DOG FUR SHELL SCALES, BOW ARROW MAIL SALUTE, CLOCK DOWN KNEEL STAND, FINGER HINT MAPS NOTES",
+            "DOG FUR SHELL SCALES, ARROW BOW DOWN SALUTE, CLOCK NOTES STAND KNEEL, FINGER HINT MAIL MAPS"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4614,
+            "prompt_tokens": 5361,
+            "cost": 0.0595425
+        }
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "SPEECH BLATHER CONVERSE CHAT, PUMA YAK ANGORA ALPACA, AFGHAN JORDAN LEAD VANS, GAB JABBER TRIAL WATER",
+            "PUMA YAK ANGORA ALPACA, BLATHER CHAT GAB JABBER, CONVERSE LEAD SPEECH TRIAL, AFGHAN JORDAN VANS WATER",
+            "PUMA YAK ANGORA ALPACA, BLATHER CHAT CONVERSE GAB, JORDAN LEAD TRIAL WATER, AFGHAN JABBER SPEECH VANS",
+            "PUMA YAK ANGORA ALPACA, JABBER BLATHER CHAT GAB, JORDAN TRIAL VANS WATER, AFGHAN CONVERSE LEAD SPEECH",
+            "WATER LEAD JORDAN YAK, AFGHAN ANGORA ALPACA PUMA, BLATHER CHAT CONVERSE GAB, JABBER SPEECH TRIAL VANS",
+            "PUMA YAK JORDAN VANS, AFGHAN ANGORA ALPACA WATER, BLATHER CHAT CONVERSE GAB, LEAD SPEECH JABBER TRIAL",
+            "SPEECH BLATHER CHAT GAB, AFGHAN ANGORA ALPACA YAK, JABBER CONVERSE LEAD TRIAL, PUMA JORDAN VANS WATER",
+            "SPEECH BLATHER CONVERSE CHAT, PUMA AFGHAN ANGORA ALPACA, JORDAN LEAD TRIAL WATER, JABBER GAB VANS YAK",
+            "CHAT CONVERSE GAB JABBER, AFGHAN ANGORA ALPACA YAK, BLATHER SPEECH TRIAL WATER, JORDAN LEAD PUMA VANS",
+            "PUMA YAK ANGORA ALPACA, JABBER BLATHER CHAT GAB, AFGHAN JORDAN VANS WATER, CONVERSE LEAD SPEECH TRIAL"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4998,
+            "prompt_tokens": 5776,
+            "cost": 0.06442
+        }
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "DONUT BAGEL CHEERIO LIFESAVER, CANDY CANE MISTLETOE PRESENT STOCKING, SHOW EXHIBIT DISPLAY CROSSWALK, REINDEER SNOWMAN TIGER REFEREE",
+            "SHOW EXHIBIT DISPLAY CROSSWALK, DONUT BAGEL CHEERIO LIFESAVER, PRESENT STOCKING CANDY CANE MISTLETOE, TIGER REINDEER SNOWMAN REFEREE",
+            "SHOW EXHIBIT DISPLAY CROSSWALK, BAGEL DONUT CHEERIO LIFESAVER, SNOWMAN REINDEER MISTLETOE STOCKING, CANDY CANE PRESENT REFEREE TIGER",
+            "DONUT BAGEL CHEERIO LIFESAVER, SHOW DISPLAY EXHIBIT PRESENT, STOCKING SNOWMAN REINDEER MISTLETOE, CROSSWALK CANE REFEREE TIGER",
+            "DONUT BAGEL CHEERIO LIFESAVER, CANDY CANE MISTLETOE REINDEER SNOWMAN, SHOW EXHIBIT DISPLAY PRESENT, CROSSWALK REFEREE STOCKING TIGER",
+            "DONUT BAGEL CHEERIO LIFESAVER, CROSSWALK EXHIBIT SHOW DISPLAY, CANDY CANE SNOWMAN REINDEER MISTLETOE, PRESENT REFEREE STOCKING TIGER",
+            "SHOW EXHIBIT DISPLAY CROSSWALK, DONUT BAGEL CHEERIO LIFESAVER, CANDY CANE MISTLETOE PRESENT STOCKING, TIGER SNOWMAN REINDEER REFEREE",
+            "DONUT BAGEL CHEERIO LIFESAVER, CANDY CANE MISTLETOE PRESENT STOCKING, SHOW DISPLAY EXHIBIT CROSSWALK, SNOWMAN REINDEER TIGER REFEREE",
+            "SHOW EXHIBIT DISPLAY CROSSWALK, DONUT BAGEL CANDY LIFESAVER, STOCKING PRESENT SNOWMAN MISTLETOE, TIGER REINDEER CANE REFEREE",
+            "DONUT BAGEL CHEERIO LIFESAVER, CANE MISTLETOE PRESENT STOCKING, REINDEER SNOWMAN TIGER REFEREE, SHOW EXHIBIT DISPLAY CROSSWALK"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 3
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 5469,
+            "prompt_tokens": 6201,
+            "cost": 0.0701925
+        }
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "ANGEL AUNT ARM WING, BEATLE BUSHEL MET TON, BRANCH CHAPTER CUB RED, FLEE NAT PECK STONE",
+            "WING ANGEL ARM PECK, AUNT CUB NAT TON, BEATLE CHAPTER MET RED, BRANCH BUSHEL FLEE STONE",
+            "WING ANGEL AUNT ARM, BEATLE CUB MET NAT, CHAPTER BRANCH TON BUSHEL, FLEE PECK RED STONE",
+            "ARM BRANCH WING MET, ANGEL AUNT NAT RED, BEATLE CUB PECK STONE, BUSHEL CHAPTER FLEE TON",
+            "WING ARM ANGEL PECK, BEATLE RED AUNT NAT, BRANCH BUSHEL CHAPTER TON, CUB FLEE MET STONE",
+            "ANGEL AUNT ARM WING, BEATLE BRANCH CUB RED, CHAPTER MET NAT TON, BUSHEL FLEE PECK STONE",
+            "WING ANGEL ARM PECK, BEATLE RED AUNT NAT, CHAPTER BRANCH CUB BUSHEL, STONE FLEE MET TON",
+            "WING ARM BRANCH TON, AUNT ANGEL CUB MET, BEATLE BUSHEL CHAPTER RED, FLEE NAT PECK STONE",
+            "WING ARM BRANCH MET, STONE BUSHEL TON CUB, ANGEL AUNT NAT RED, BEATLE CHAPTER FLEE PECK",
+            "AUNT ARM MET RED, BEATLE BUSHEL STONE TON, ANGEL CUB FLEE WING, BRANCH CHAPTER NAT PECK"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 5789,
+            "prompt_tokens": 6610,
+            "cost": 0.074415
+        }
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "GAGA HAHA LOL ROFL, DECO DADA GOTHIC POP, DEAD HOOK LUCK NANA, BIRD MACBETH PETER WENDY",
+            "GAGA HAHA LOL ROFL, DECO DADA GOTHIC MACBETH, HOOK LUCK POP WENDY, BIRD DEAD NANA PETER",
+            "HAHA LOL ROFL GAGA, DECO DADA GOTHIC DEAD, BIRD HOOK LUCK POP, PETER WENDY NANA MACBETH",
+            "GAGA HAHA LOL ROFL, BIRD DEAD HOOK POP, DECO DADA GOTHIC NANA, LUCK MACBETH PETER WENDY",
+            "GAGA HAHA LOL ROFL, BIRD DEAD HOOK POP, DECO GOTHIC MACBETH NANA, DADA LUCK PETER WENDY",
+            "GAGA HAHA LOL ROFL, DECO DADA GOTHIC POP, DEAD LUCK MACBETH NANA, HOOK BIRD PETER WENDY",
+            "GAGA HAHA LOL ROFL, DECO DADA GOTHIC POP, HOOK LUCK DEAD PETER, MACBETH NANA BIRD WENDY",
+            "GAGA HAHA LOL ROFL, DECO DADA GOTHIC POP, DEAD HOOK LUCK NANA, BIRD MACBETH PETER WENDY",
+            "GAGA HAHA LOL ROFL, DECO DADA GOTHIC POP, DEAD LUCK MACBETH NANA, HOOK BIRD PETER WENDY",
+            "GAGA HAHA LOL ROFL, DECO DADA GOTHIC POP, DEAD HOOK LUCK NANA, BIRD MACBETH PETER WENDY"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 6148,
+            "prompt_tokens": 7023,
+            "cost": 0.0790375
+        }
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "ROSE CLIFF BROOK SAVANNA, AARON DARREN HANNAH OTTO, MAY EVE KAREN SHARON, DALE DREW NATAN WILL",
+            "ROSE BROOK CLIFF SAVANNA, AARON DALE DARREN KAREN, HANNAH NATAN OTTO WILL, DREW EVE MAY SHARON",
+            "AARON DARREN HANNAH NATAN, BROOK CLIFF DALE SAVANNA, MAY WILL EVE ROSE, KAREN DREW OTTO SHARON",
+            "AARON CLIFF DALE BROOK, HANNAH KAREN SHARON SAVANNA, MAY WILL EVE OTTO, NATAN DREW DARREN ROSE",
+            "ROSE CLIFF BROOK SAVANNA, AARON DARREN HANNAH OTTO, MAY JUNE JULY AUGUST, KAREN DALE WILL NATAN",
+            "ROSE CLIFF BROOK SAVANNA, AARON DARREN HANNAH KAREN, DALE DREW MAY WILL, EVE NATAN OTTO SHARON",
+            "ROSE MAY EVE SAVANNA, AARON HANNAH SHARON DARREN, WILL CLIFF BROOK DALE, NATAN DREW KAREN OTTO",
+            "ROSE CLIFF BROOK SAVANNA, AARON DARREN HANNAH SHARON, MAY DALE DREW WILL, EVE KAREN NATAN OTTO",
+            "ROSE CLIFF BROOK SAVANNA, AARON DARREN HANNAH OTTO, MAY WILL EVE NATAN, KAREN DALE DREW SHARON",
+            "AARON DARREN HANNAH SAVANNA, CLIFF BROOK DALE WILL, EVE MAY ROSE SHARON, KAREN NATAN OTTO DREW"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 6536,
+            "prompt_tokens": 7439,
+            "cost": 0.0839575
+        }
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "BIRTHDAY WEDDING ANNIVERSARY SHOWER, BATH SOAP SANDWICH SIGNAL, BARS COMIC DERBY ROCK, READING RECEPTION SERVICE MET",
+            "BIRTHDAY RECEPTION WEDDING ANNIVERSARY, BATH ROCK SOAP SHOWER, BARS COMIC DERBY SIGNAL, MET READING SANDWICH SERVICE",
+            "BIRTHDAY ANNIVERSARY DERBY WEDDING, BATH SHOWER SOAP SIGNAL, ROCK SANDWICH SERVICE MET, BARS COMIC READING RECEPTION",
+            "BIRTHDAY ANNIVERSARY DERBY WEDDING, BATH SHOWER SOAP SIGNAL, BARS MET READING ROCK, COMIC RECEPTION SANDWICH SERVICE",
+            "BIRTHDAY READING WEDDING ANNIVERSARY, BATH ROCK SHOWER SOAP, COMIC DERBY MET SIGNAL, BARS RECEPTION SANDWICH SERVICE",
+            "BATH SHOWER SOAP SIGNAL, BIRTHDAY DERBY READING WEDDING, ANNIVERSARY COMIC RECEPTION SERVICE, BARS MET ROCK SANDWICH",
+            "SOAP SHOWER BATH SIGNAL, BIRTHDAY RECEPTION WEDDING ANNIVERSARY, COMIC DERBY MET ROCK, BARS READING SANDWICH SERVICE",
+            "BIRTHDAY RECEPTION WEDDING ANNIVERSARY, BARS DERBY MET SIGNAL, BATH ROCK SANDWICH SOAP, COMIC READING SERVICE SHOWER",
+            "BIRTHDAY READING COMIC DERBY, BATH SHOWER SOAP SANDWICH, ANNIVERSARY RECEPTION WEDDING SERVICE, BARS MET ROCK SIGNAL",
+            "BIRTHDAY READING RECEPTION WEDDING, ANNIVERSARY BARS DERBY SHOWER, BATH ROCK SANDWICH SOAP, COMIC MET SERVICE SIGNAL"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 6896,
+            "prompt_tokens": 7852,
+            "cost": 0.08859
+        }
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "CORN PEPPER TOMATO CUCUMBER, KETTLE NOODLE SINGLE TRACK, BIRD CROWN DOME REFEREE, NUMBER MELON TRAIN CUT",
+            "CUCUMBER KETTLE MELON TOMATO, CORN PEPPER SINGLE TRACK, BIRD CUT REFEREE TRAIN, CROWN DOME NUMBER NOODLE",
+            "CUCUMBER MELON NOODLE TOMATO, BIRD CROWN KETTLE PEPPER, NUMBER SINGLE TRACK TRAIN, CUT DOME REFEREE CORN",
+            "CORN PEPPER TOMATO CUCUMBER, KETTLE MELON NOODLE BIRD, NUMBER SINGLE TRACK TRAIN, CROWN CUT DOME REFEREE",
+            "CORN KETTLE PEPPER TOMATO, BIRD CROWN DOME TRACK, MELON NOODLE CUCUMBER TOMATO, NUMBER REFEREE SINGLE TRAIN",
+            "KETTLE PEPPER TOMATO CUCUMBER, CORN MELON NOODLE BIRD, NUMBER SINGLE TRACK TRAIN, CROWN CUT DOME REFEREE",
+            "CORN PEPPER TOMATO CUCUMBER, NUMBER SINGLE TRACK TRAIN, BIRD CROWN DOME REFEREE, KETTLE MELON NOODLE CUT",
+            "CUCUMBER KETTLE MELON TOMATO, CORN NUMBER SINGLE TRACK, BIRD CROWN DOME REFEREE, CUT NOODLE PEPPER TRAIN",
+            "CORN PEPPER TOMATO CUCUMBER, KETTLE NOODLE SINGLE MELON, BIRD CROWN DOME TRACK, NUMBER REFEREE TRAIN CUT",
+            "CUCUMBER MELON NOODLE TOMATO, BIRD CROWN KETTLE PEPPER, CUT DOME NUMBER SINGLE, REFEREE TRACK TRAIN CORN"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 7267,
+            "prompt_tokens": 8266,
+            "cost": 0.093335
+        }
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "SOURCE PLANT SEED GERM, ACTS JOB MARK TRIP, KRAKEN RANGER WILD GENESIS, FLAMES KINGS STARS NAP",
+            "KRAKEN RANGER STARS WILD, GERM GENESIS PLANT SEED, ACTS FLAMES JOB MARK, KINGS NAP SOURCE TRIP",
+            "GERM PLANT SEED SOURCE, ACTS FLAMES JOB MARK, KINGS RANGER STARS WILD, GENESIS KRAKEN NAP TRIP",
+            "PLANT SEED SOURCE GERM, ACTS JOB MARK TRIP, KRAKEN RANGER WILD KINGS, FLAMES GENESIS NAP STARS",
+            "KRAKEN RANGER STARS WILD, ACTS FLAMES GENESIS MARK, GERM PLANT SEED SOURCE, JOB KINGS NAP TRIP",
+            "KRAKEN NAP TRIP WILD, ACTS JOB MARK SOURCE, FLAMES GENESIS SEED PLANT, GERM KINGS RANGER STARS",
+            "KRAKEN NAP TRIP WILD, GENESIS GERM PLANT SEED, ACTS JOB MARK SOURCE, FLAMES KINGS RANGER STARS",
+            "SOURCE PLANT SEED GERM, ACTS JOB MARK TRIP, GENESIS KINGS RANGER STARS, FLAMES KRAKEN NAP WILD",
+            "SOURCE PLANT SEED GERM, ACTS GENESIS KRAKEN TRIP, JOB MARK RANGER WILD, FLAMES KINGS STARS NAP",
+            "NAP JOB TRIP ACTS, KINGS MARK STARS WILD, GERM GENESIS KRAKEN SEED, FLAMES PLANT RANGER SOURCE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 7606,
+            "prompt_tokens": 8677,
+            "cost": 0.0977525
+        }
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "CAN MAY MIGHT COULD, ACTION LEAD PRIME SCRAP, BUTCHER CUT HEAD TOILET, CAMERA LIGHTS TOP WAX",
+            "CUT SCRAP TOILET WAX, ACTION CAMERA LEAD PRIME, CAN COULD MIGHT MAY, BUTCHER HEAD LIGHTS TOP",
+            "LEAD PRIME WAX SCRAP, ACTION CAMERA LIGHTS TOILET, CAN MAY MIGHT COULD, BUTCHER CUT HEAD TOP",
+            "WAX TOILET CAMERA LIGHTS, CAN COULD MIGHT MAY, BUTCHER CUT PRIME SCRAP, ACTION HEAD LEAD TOP",
+            "CAN COULD MIGHT MAY, ACTION HEAD LIGHTS PRIME, BUTCHER CUT SCRAP WAX, CAMERA LEAD TOILET TOP",
+            "CAN COULD MIGHT MAY, ACTION LEAD PRIME SCRAP, BUTCHER CUT HEAD TOILET, CAMERA LIGHTS TOP WAX",
+            "CAN MAY MIGHT COULD, ACTION CAMERA LEAD PRIME, BUTCHER CUT SCRAP TOILET, HEAD LIGHTS TOP WAX",
+            "CAN MAY MIGHT COULD, BUTCHER CUT LEAD PRIME, ACTION HEAD LIGHTS CAMERA, SCRAP TOILET TOP WAX",
+            "BUTCHER CUT PRIME SCRAP, CAN COULD MAY MIGHT, LEAD LIGHTS TOP WAX, ACTION CAMERA HEAD TOILET",
+            "CAN COULD MIGHT MAY, ACTION LEAD PRIME TOP, BUTCHER CUT SCRAP WAX, CAMERA HEAD LIGHTS TOILET"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 7906,
+            "prompt_tokens": 9084,
+            "cost": 0.10177
+        }
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "CROWN TIARA MASK MASCARA, DIAL FAUCET NOSE SWORD, BLOCK HAND HIDE STRAP, CANDIDATE COVER LASSO SHIELD",
+            "CROWN MASK TIARA MASCARA, BLOCK DIAL FAUCET SHIELD, HAND HIDE NOSE COVER, CANDIDATE LASSO SWORD STRAP",
+            "MASK MASCARA HIDE COVER, CROWN TIARA SWORD SHIELD, BLOCK DIAL FAUCET HAND, CANDIDATE LASSO NOSE STRAP",
+            "CROWN TIARA SWORD SHIELD, DIAL FAUCET HAND MASCARA, MASK COVER HIDE STRAP, BLOCK CANDIDATE LASSO NOSE",
+            "CROWN TIARA MASK MASCARA, SWORD SHIELD LASSO STRAP, NOSE HAND FAUCET DIAL, BLOCK CANDIDATE COVER HIDE",
+            "CROWN TIARA MASK MASCARA, SWORD SHIELD LASSO STRAP, DIAL FAUCET NOSE HAND, BLOCK CANDIDATE COVER HIDE",
+            "CROWN MASK TIARA SWORD, COVER HIDE SHIELD STRAP, BLOCK DIAL FAUCET HAND, CANDIDATE LASSO MASCARA NOSE",
+            "CROWN TIARA SWORD SHIELD, DIAL FAUCET HAND MASK, BLOCK COVER HIDE STRAP, CANDIDATE LASSO MASCARA NOSE",
+            "CROWN TIARA SWORD SHIELD, BLOCK COVER HIDE MASK, DIAL FAUCET HAND NOSE, CANDIDATE LASSO MASCARA STRAP",
+            "MASK MASCARA SHIELD COVER, NOSE HAND HIDE STRAP, CROWN TIARA FAUCET DIAL, BLOCK CANDIDATE LASSO SWORD"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 8276,
+            "prompt_tokens": 9498,
+            "cost": 0.106505
+        }
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "LIMA LAGOS LINCOLN LUXOR, CREATOR DUDE RAPPER STALLION, LINE METER RHYME VERSE, FAVA KIDNEY LIMERICK PINTO",
+            "LIMA LAGOS LINCOLN LUXOR, CREATOR DUDE RAPPER STALLION, LINE METER RHYME VERSE, FAVA KIDNEY LIMERICK PINTO",
+            "LINE LIMA LAGOS LUXOR, CREATOR RAPPER VERSE RHYME, KIDNEY FAVA PINTO STALLION, DUDE LIMERICK LINCOLN METER",
+            "LIMA LAGOS LUXOR LINCOLN, CREATOR KIDNEY PINTO FAVA, LINE METER RHYME VERSE, LIMERICK RAPPER STALLION DUDE",
+            "LAGOS LIMA LINCOLN LUXOR, CREATOR DUDE RAPPER STALLION, FAVA KIDNEY LIMERICK PINTO, LINE METER RHYME VERSE",
+            "LIMA LUXOR LAGOS LINCOLN, CREATOR DUDE PINTO RAPPER, FAVA KIDNEY LINE METER, LIMERICK RHYME STALLION VERSE",
+            "LIMA LAGOS LINCOLN LUXOR, CREATOR DUDE RAPPER STALLION, FAVA KIDNEY PINTO RHYME, LINE LIMERICK METER VERSE",
+            "LAGOS LIMA LINCOLN LUXOR, CREATOR DUDE RAPPER STALLION, FAVA KIDNEY LIMA PINTO, LIMMERICK METER RHYME VERSE",
+            "LIMA LAGOS LINCOLN LUXOR, CREATOR DUDE RAPPER STALLION, LINE METER RHYME VERSE, FAVA KIDNEY LIMERICK PINTO",
+            "LINCOLN LIMA LAGOS LUXOR, CREATOR KIDNEY PINTO FAVA, LINE METER RHYME VERSE, DUDE RAPPER STALLION LIMERICK"
+        ],
+        "infos": [
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 8697,
+            "prompt_tokens": 9917,
+            "cost": 0.11176249999999999
+        }
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "CRADLE CRIB DIGS SEAT, BOOTY BOTTOM LOOT SPOILS, CORD DIAL HANDSET JOINT, PAD SWAG BUNS TAIL",
+            "CRADLE CRIB DIAL HANDSET, BOOTY LOOT SPOILS SWAG, BOTTOM DIGS JOINT PAD, CORD SEAT TAIL BUNS",
+            "CRADLE CRIB DIAL HANDSET, BOOTY LOOT SPOILS SWAG, BOTTOM DIGS JOINT PAD, BUNS CORD SEAT TAIL",
+            "CRADLE CRIB SEAT HANDSET, BOTTOM DIGS PAD TAIL, BOOTY LOOT SPOILS SWAG, BUNS CORD DIAL JOINT",
+            "CRADLE CRIB DIGS SEAT, BOOTY LOOT SPOILS SWAG, CORD DIAL HANDSET JOINT, BOTTOM BUNS PAD TAIL",
+            "CRADLE CRIB PAD SEAT, BOOTY BOTTOM LOOT SPOILS, DIAL HANDSET JOINT CORD, BUNS DIGS SWAG TAIL",
+            "CRADLE CRIB DIAL HANDSET, BOOTY LOOT SPOILS SWAG, BOTTOM DIGS PAD SEAT, BUNS CORD JOINT TAIL",
+            "CRADLE CRIB DIAL HANDSET, BOOTY BOTTOM LOOT SPOILS, CORD JOINT SWAG TAIL, DIGS PAD SEAT BUNS",
+            "CRADLE CRIB PAD SEAT, BOOTY BOTTOM LOOT SPOILS, CORD DIAL HANDSET JOINT, DIGS SWAG TAIL BUNS",
+            "CRADLE CRIB DIAL HANDSET, BOOTY BOTTOM LOOT SPOILS, PAD SEAT SWAG TAIL, CORD DIGS JOINT BUNS"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 9077,
+            "prompt_tokens": 10332,
+            "cost": 0.11660000000000001
+        }
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "FILE COPY PRINT SAVE, BABE CHARLOTTE WILLY YANK, BEETHOVEN HAMMER SAW WRENCH, FIND JERK LEVEL TUG",
+            "FILE COPY PRINT SAVE, BABE CHARLOTTE JERK WILLY, BEETHOVEN FIND LEVEL YANK, HAMMER SAW TUG WRENCH",
+            "FILE COPY PRINT SAVE, BABE BEETHOVEN CHARLOTTE WILLY, HAMMER SAW TUG WRENCH, FIND JERK LEVEL YANK",
+            "FILE COPY PRINT SAVE, BABE CHARLOTTE WILLY YANK, BEETHOVEN FIND LEVEL WRENCH, HAMMER JERK SAW TUG",
+            "FILE COPY PRINT SAVE, BABE CHARLOTTE WILLY YANK, BEETHOVEN FIND LEVEL WRENCH, HAMMER JERK SAW TUG",
+            "FILE COPY FIND SAVE, BABE CHARLOTTE WILLY YANK, HAMMER JERK SAW WRENCH, BEETHOVEN LEVEL PRINT TUG",
+            "BEETHOVEN CHARLOTTE WILLY YANK, FILE PRINT SAVE COPY, BABE JERK TUG WRENCH, FIND HAMMER LEVEL SAW",
+            "FILE COPY PRINT SAVE, BABE CHARLOTTE WILLY YANK, BEETHOVEN HAMMER JERK SAW, FIND LEVEL TUG WRENCH",
+            "FILE COPY PRINT SAVE, BABE BEETHOVEN CHARLOTTE WILLY, HAMMER SAW WRENCH YANK, FIND JERK LEVEL TUG",
+            "BEETHOVEN CHARLOTTE FILE WILLY, COPY FIND PRINT SAVE, BABE JERK TUG YANK, HAMMER LEVEL SAW WRENCH"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 9437,
+            "prompt_tokens": 10745,
+            "cost": 0.12123249999999999
+        }
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT LIP ROT SPOIL, TURN LURCH FESTER SOUR, THING CHANCE TUESDAY WEDNESDAY",
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT LIP ROT SOUR, TURN SPOIL LURCH FESTER, THING CHANCE TUESDAY WEDNESDAY",
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT LIP ROT SOUR, CHANCE LURCH SPOIL THING, TUESDAY WEDNESDAY TURN FESTER",
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT LIP ROT SPOIL, CHANCE LURCH SOUR THING, TURN TUESDAY WEDNESDAY FESTER",
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT LIP ROT SOUR, TURN CHANCE SPOIL THING, LURCH FESTER TUESDAY WEDNESDAY",
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT LIP LURCH ROT, SPOIL SOUR FESTER TURN, CHANCE THING TUESDAY WEDNESDAY",
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT LIP ROT SPOIL, TURN LURCH FESTER SOUR, CHANCE THING TUESDAY WEDNESDAY",
+            "FRIDAY SATURDAY SUNDAY THURSDAY, CAT LIP ROT SPOIL, CHANCE LURCH THING TURN, SOUR TUESDAY WEDNESDAY FESTER",
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT THING CHANCE LIP, SOUR SPOIL ROT FESTER, TURN LURCH TUESDAY WEDNESDAY",
+            "SUNDAY SATURDAY FRIDAY THURSDAY, CAT LIP LURCH ROT, TURN SPOIL SOUR FESTER, CHANCE THING TUESDAY WEDNESDAY"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 9817,
+            "prompt_tokens": 11160,
+            "cost": 0.12607000000000002
+        }
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "GHOST BOMB DUD FLOP, CANDY LEMON RASPBERRY STAR, GARDEN DESERT BOTTOM HISS, BOO IGNORE JEER JILT",
+            "GHOST BOO DUD FLOP, LEMON RASPBERRY CANDY BOMB, DESERT GARDEN BOTTOM STAR, HISS IGNORE JEER JILT",
+            "GHOST BOO HISS JEER, LEMON RASPBERRY CANDY BOMB, DESERT GARDEN DUD FLOP, IGNORE JILT STAR BOTTOM",
+            "GHOST BOO HISS JEER, LEMON RASPBERRY CANDY BOMB, DESERT GARDEN BOTTOM FLOP, IGNORE JILT DUD STAR",
+            "GHOST BOO HISS JEER, BOMB DUD FLOP IGNORE, LEMON RASPBERRY CANDY BOTTOM, DESERT GARDEN STAR JILT",
+            "GHOST BOMB DUD FLOP, LEMON RASPBERRY CANDY GARDEN, STAR BOTTOM DESERT JEER, HISS IGNORE BOO JILT",
+            "BOMB DUD FLOP IGNORE, CANDY LEMON RASPBERRY STAR, BOO GHOST HISS JEER, BOTTOM DESERT GARDEN JILT",
+            "BOMB DUD FLOP BOTTOM, BOO GHOST HISS JEER, CANDY LEMON RASPBERRY STAR, DESERT GARDEN IGNORE JILT",
+            "GHOST BOMB DUD FLOP, CANDY LEMON RASPBERRY STAR, GARDEN DESERT BOTTOM HISS, BOO IGNORE JEER JILT",
+            "BOMB DUD FLOP HISS, BOO GHOST JEER JILT, BOTTOM DESERT GARDEN STAR, CANDY IGNORE LEMON RASPBERRY"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 10207,
+            "prompt_tokens": 11576,
+            "cost": 0.13101000000000002
+        }
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "PUFF BREEZE GUST SNOOZE, YAWN PANT SNOOZE DRAFT, BOXER KICK BITE ZIP, DRAG TANG TONG BORE",
+            "PUFF BREEZE GUST TANG, KICK BITE PANT YAWN, BOXER DRAG TONG ZIP, BORE DRAFT GOGGLE SNOOZE",
+            "PUFF BREEZE GUST SNOOZE, BITE KICK PANT YAWN, BOXER DRAG DRAFT ZIP, BORE GOGGLE TANG TONG",
+            "PUFF YAWN SNOOZE TONG, KICK BOXER BITE PANT, BORE DRAG DRAFT ZIP, BREEZE GOGGLE GUST TANG",
+            "PUFF BREEZE GUST TANG, KICK BITE PANT ZIP, BOXER DRAFT TONG YAWN, BORE DRAG GOGGLE SNOOZE",
+            "PUFF BREEZE GUST TANG, KICK BOXER DRAG ZIP, YAWN SNOOZE BORE PANT, BITE DRAFT GOGGLE TONG",
+            "PUFF YAWN SNOOZE TONG, BITE KICK PANT ZIP, BOXER DRAG DRAFT GOGGLE, BORE BREEZE GUST TANG",
+            "PUFF BREEZE GUST TANG, KICK BITE PANT TONG, BOXER DRAG ZIP DRAFT, YAWN SNOOZE BORE GOGGLE",
+            "PUFF SNOOZE YAWN ZIP, BITE BORE DRAG TANG, BREEZE GUST KICK PANT, BOXER DRAFT GOGGLE TONG",
+            "PUFF SNOOZE YAWN ZZZZZ, BOXER DRAFT KICK PANT, BITE BORE DRAG ZIP, BREEZE GOGGLE GUST TANG"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 10600,
+            "prompt_tokens": 11992,
+            "cost": 0.13598
+        }
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "FAKE FOOD FUDGE FIE, FIREFLY FLIPPER FLEABAG FARGO, FASHION FABRICATE FORGE FORWARD, FRIENDS FRICK FIX FIDDLESTICKS",
+            "FAKE FORGE FORWARD FIX, FOOD FUDGE FIE FARGO, FASHION FABRICATE FRIENDS FRICK, FIREFLY FLEABAG FLIPPER FIDDLESTICKS",
+            "FAKE FIE FORGE FORWARD, FOOD FUDGE FLEABAG FRIENDS, FIREFLY FARGO FLIPPER FIDDLESTICKS, FASHION FABRICATE FIX FRICK",
+            "FAKE FIE FRICK FIX, FOOD FUDGE FLEABAG FUDGE, FASHION FORWARD FORGE FRIENDS, FIREFLY FLIPPER FARGO FIDDLESTICKS",
+            "FAKE FABRICATE FORGE FIX, FOOD FUDGE FIE FIREFLY, FASHION FORWARD FLEABAG FRIENDS, FARGO FLIPPER FRICK FIDDLESTICKS",
+            "FAKE FIE FORGE FUDGE, FIREFLY FLEABAG FLIPPER FIDDLESTICKS, FOOD FASHION FORWARD FRIENDS, FABRICATE FARGO FIX FRICK",
+            "FAKE FIE FRICK FUDGE, FOOD FORGE FORWARD FUDGE, FIREFLY FLEABAG FLIPPER FIDDLESTICKS, FASHION FABRICATE FARGO FRIENDS",
+            "FAKE FIE FRICK FUDGE, FIREFLY FLEABAG FLIPPER FIDDLESTICKS, FABRICATE FASHION FORGE FORWARD, FOOD FRIENDS FARGO FIX",
+            "FAKE FABRICATE FORGE FUDGE, FIREFLY FIE FLIPPER FLEABAG, FOOD FASHION FORWARD FRIENDS, FARGO FIX FRICK FIDDLESTICKS",
+            "FAKE FABRICATE FORGE FIX, FOOD FUDGE FLEABAG FIREFLY, FASHION FORWARD FRIENDS FIE, FRICK FLIPPER FARGO FIDDLESTICKS"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 11010,
+            "prompt_tokens": 12410,
+            "cost": 0.141125
+        }
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "EVEN FAIR JUST EQUAL, CLOUD HIVE NEST WEB, DEN LAIR NEST WARREN, IMPOSSIBLE METAVERSE NOTHING GOOD",
+            "CLOUD HIVE NEST WEB, DEN FAIR LAIR WARREN, EVEN EQUAL JUST NOTHING, GOOD IMPOSSIBLE METAVERSE NET",
+            "CLOUD DEN HIVE NEST, EVEN EQUAL FAIR JUST, IMPOSSIBLE METAVERSE NOTHING WEB, GOOD LAIR NET WARREN",
+            "CLOUD HIVE NEST WEB, DEN FAIR LAIR WARREN, EVEN EQUAL GOOD JUST, IMPOSSIBLE METAVERSE NOTHING NET",
+            "CLOUD HIVE LAIR NEST, DEN FAIR JUST WARREN, EVEN EQUAL GOOD NOTHING, IMPOSSIBLE METAVERSE NET WEB",
+            "CLOUD DEN HIVE NEST, EVEN FAIR JUST NOTHING, EQUAL GOOD IMPOSSIBLE METAVERSE, LAIR NET WARREN WEB",
+            "DEN FAIR LAIR NEST, CLOUD HIVE NET WEB, EVEN EQUAL JUST NOTHING, GOOD IMPOSSIBLE METAVERSE WARREN",
+            "CLOUD HIVE NEST WEB, EQUAL EVEN FAIR JUST, DEN LAIR NEST WARREN, GOOD IMPOSSIBLE METAVERSE NOTHING",
+            "GOOD JUST EVEN FAIR, CLOUD HIVE NEST WEB, IMPOSSIBLE NOTHING EQUAL DEN, LAIR NET METAVERSE WARREN",
+            "CLOUD HIVE NEST WEB, EVEN EQUAL FAIR JUST, DEN LAIR NETHER WARREN, GOOD IMPOSSIBLE METAVERSE NOTHING"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 11311,
+            "prompt_tokens": 12816,
+            "cost": 0.14515
+        }
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "HOOK WIRE STRAP LASER, SPAM BALONEY BUNK TRIPE, PLATE BOWL DISH SAUCER, RADAR CUP CROCK SCUBA",
+            "HOOK WIRE STRAP LASER, BALONEY BUNK SPAM TRIPE, CUP DISH PLATE SAUCER, CROCK RADAR SCUBA BOWL",
+            "HOOK PLATE DISH SAUCER, BOWL CUP CROCK TRIPE, RADAR LASER SCUBA WIRE, BALONEY BUNK SPAM STRAP",
+            "BOWL CUP PLATE SAUCER, CROCK DISH HOOK STRAP, BALONEY BUNK RADAR TRIPE, LASER SCUBA SPAM WIRE",
+            "WIRE RADAR LASER SCUBA, BALONEY BUNK SPAM TRIPE, CUP DISH PLATE SAUCER, CROCK HOOK STRAP BOWL",
+            "PLATE DISH SAUCER BOWL, BALONEY BUNK SCUBA TRIPE, HOOK STRAP WIRE RADAR, CUP LASER CROCK SPAM",
+            "HOOK STRAP WIRE LASER, CUP DISH PLATE SAUCER, BALONEY BUNK CROCK TRIPE, RADAR SCUBA SPAM BOWL",
+            "HOOK PLATE DISH SAUCER, BALONEY BUNK CROCK TRIPE, CUP BOWL SCUBA WIRE, LASER RADAR SPAM STRAP",
+            "HOOK STRAP WIRE LASER, PLATE DISH BOWL SAUCER, BALONEY BUNK SCUBA TRIPE, CUP CROCK RADAR SPAM",
+            "HOOK PLATE DISH SAUCER, BALONEY BUNK SPAM TRIPE, CUP BOWL CROCK WIRE, LASER RADAR SCUBA STRAP"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 11663,
+            "prompt_tokens": 13229,
+            "cost": 0.14970250000000002
+        }
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "JAM SCONE LOAF TRIFLE, CHILL GROOVE LOUNGE BOP, PICKLE MASH ROAST BANGER, BIND HANG SCRAPE SPOT",
+            "JAM PICKLE SCONE TRIFLE, BANGER BOP GROOVE LOUNGE, BIND CHILL HANG SCRAPE, LOAF MASH ROAST SPOT",
+            "JAM LOAF PICKLE SCONE, BOP CHILL GROOVE LOUNGE, BANGER MASH ROAST TRIFLE, BIND HANG SCRAPE SPOT",
+            "JAM BOP CHILL GROOVE, LOAF MASH PICKLE SCONE, BANGER ROAST SCRAPE SPOT, BIND HANG LOUNGE TRIFLE",
+            "JAM PICKLE SCRAPE SPOT, BANGER HANG MASH ROAST, CHILL GROOVE LOUNGE BOP, BIND LOAF SCONE TRIFLE",
+            "JAM PICKLE SCONE TRIFLE, BANG HANG SCRAPE SPOT, CHILL GROOVE LOUNGE BOP, BIND LOAF MASH ROAST",
+            "JAM SCONE LOAF TRIFLE, LOUNGE GROOVE HANG CHILL, BANGER MASH PICKLE ROAST, BOP BIND SCRAPE SPOT",
+            "JAM PICKLE SCONE TRIFLE, BANGER BOP GROOVE LOUNGE, HANG SCRAPE CHILL BIND, LOAF MASH ROAST SPOT",
+            "JAM PICKLE SCONE TRIFLE, BANGER LOAF MASH ROAST, BIND CHILL HANG SCRAPE, BOP GROOVE LOUNGE SPOT",
+            "JAM LOAF SCONE TRIFLE, BOP CHILL GROOVE LOUNGE, BANGER MASH PICKLE ROAST, BIND HANG SCRAPE SPOT"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 12043,
+            "prompt_tokens": 13643,
+            "cost": 0.1545375
+        }
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "CANDY SELTZER SPUR RING, FEELINGS FOCUS SILENT VIBE, DRIVE KNOCKS MOTIVATE INSPIRE, COPY CONNECTION SPARK VIBRATE",
+            "CANDY SELTZER SPUR RING, FEELINGS FOCUS VIBE VIBRATE, MOTIVATE DRIVE INSPIRE SPARK, COPY KNOCKS CONNECTION SILENT",
+            "CANDY SELTZER SPUR RING, FEELINGS FOCUS VIBE VIBRATE, COPY DRIVE MOTIVATE INSPIRE, CONNECTION KNOCKS SILENT SPARK",
+            "CANDY SELTZER SPARK VIBE, DRIVE FOCUS MOTIVATE INSPIRE, COPY FEELINGS KNOCKS SILENT, CONNECTION RING SPUR VIBRATE",
+            "CANDY SELTZER SPARK VIBE, FEELINGS FOCUS INSPIRE MOTIVATE, CONNECTION COPY DRIVE RING, KNOCKS SILENT SPUR VIBRATE",
+            "CANDY RING SELTZER SPUR, COPY DRIVE FOCUS INSPIRE, FEELINGS MOTIVATE SPARK VIBE, CONNECTION KNOCKS SILENT VIBRATE",
+            "CANDY SELTZER SPARK VIBE, FEELINGS FOCUS MOTIVATE INSPIRE, KNOCKS RING SPUR VIBRATE, CONNECTION COPY DRIVE SILENT",
+            "CANDY SELTZER SPARK VIBE, CONNECTION DRIVE FEELINGS FOCUS, KNOCKS RING SPUR VIBRATE, COPY INSPIRE MOTIVATE SILENT",
+            "CANDY SELTZER SPARK VIBE, FEELINGS MOTIVATE INSPIRE DRIVE, FOCUS CONNECTION SILENT COPY, KNOCKS RING SPUR VIBRATE",
+            "CANDY SELTZER SPARK VIBRATE, CONNECTION DRIVE FOCUS INSPIRE, FEELINGS MOTIVATE SILENT VIBE, COPY KNOCKS RING SPUR"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 12433,
+            "prompt_tokens": 14059,
+            "cost": 0.1594775
+        }
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "SCHOOL TEXTBOOK BACKPACK RECESS, CRANNY NOOK NICHE PRIDE, BIGWIG CLASSIC DEFINITIVE MODEL, HERD COLONY RAGTAG DOWNTOWN",
+            "SCHOOL RECESS BACKPACK TEXTBOOK, CRANNY NOOK NICHE PRIDE, COLONY HERD BIGWIG RAGTAG, CLASSIC DEFINITIVE DOWNTOWN MODEL",
+            "SCHOOL TEXTBOOK BACKPACK RECESS, CRANNY NOOK COLONY NICHE, BIGWIG HERD PRIDE RAGTAG, CLASSIC DEFINITIVE DOWNTOWN MODEL",
+            "SCHOOL TEXTBOOK BACKPACK RECESS, BIGWIG CLASSIC DEFINITIVE MODEL, CRANNY NOOK NICHE RAGTAG, COLONY DOWNTOWN HERD PRIDE",
+            "SCHOOL TEXTBOOK BACKPACK RECESS, CRANNY NOOK NICHE RAGTAG, COLONY HERD PRIDE BIGWIG, CLASSIC DEFINITIVE DOWNTOWN MODEL",
+            "SCHOOL TEXTBOOK BACKPACK RECESS, CRANNY NOOK NICHE RAGTAG, BIGWIG CLASSIC DEFINITIVE MODEL, COLONY HERD DOWNTOWN PRIDE",
+            "SCHOOL CLASSIC DOWNTOWN BACKPACK, MODEL TEXTBOOK DEFINITIVE PRIDE, CRANNY NOOK NICHE RAGTAG, BIGWIG COLONY HERD RECESS",
+            "TEXTBOOK BACKPACK SCHOOL RECESS, CLASSIC DEFINITIVE MODEL PRIDE, CRANNY NICHE NOOK RAGTAG, BIGWIG COLONY HERD DOWNTOWN",
+            "SCHOOL DOWNTOWN COLONY HERD, MODEL CLASSIC DEFINITIVE PRIDE, BACKPACK NOOK CRANNY NICHE, BIGWIG RAGTAG TEXTBOOK RECESS",
+            "SCHOOL RECESS PRIDE CLASSIC, COLONY HERD NICHE NOOK, BACKPACK CRANNY DOWNTOWN NOOK, BIGWIG MODEL RAGTAG DEFINITIVE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 12832,
+            "prompt_tokens": 14475,
+            "cost": 0.16450750000000003
+        }
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "LADY LORD SWAN HEAVENS, PERFECT SIMPLE GOODNESS MERCY, FUTURE MAPLE PAST PRESENT, COUGH DRUMMER RING CORN",
+            "LADY LORD MERCY SWAN, FUTURE HEAVENS PAST PRESENT, DRUMMER MAPLE RING SIMPLE, COUGH CORN GOODNESS PERFECT",
+            "LADY LORD MERCY SWAN, COUGH DRUMMER HEAVENS RING, FUTURE GOODNESS PAST PRESENT, CORN MAPLE PERFECT SIMPLE",
+            "LADY LORD SWAN HEAVENS, FUTURE PAST PRESENT SIMPLE, COUGH MAPLE CORN RING, DRUMMER GOODNESS MERCY PERFECT",
+            "LADY LORD PRESENT SWAN, FUTURE HEAVENS PAST PRESENT, DRUMMER MAPLE MERCY SIMPLE, GOODNESS COUGH CORN RING",
+            "LADY LORD SWAN PRESENT, FUTURE GOODNESS HEAVENS MERCY, COUGH DRUMMER RING SIMPLE, CORN MAPLE PERFECT PAST",
+            "LADY LORD PRESENT SWAN, PERFECT SIMPLE GOODNESS MERCY, DRUMMER COUGH FUTURE HEAVENS, CORN MAPLE PAST RING",
+            "LADY LORD SWAN RING, FUTURE HEAVENS PAST PRESENT, COUGH DRUMMER MAPLE CORN, GOODNESS MERCY PERFECT SIMPLE",
+            "LADY LORD SWAN RING, GOODNESS HEAVENS MERCY PERFECT, MAPLE CORN DRUMMER COUGH, FUTURE PAST PRESENT SIMPLE",
+            "LADY LORD PRESENT SWAN, COUGH DRUMMER RING SIMPLE, FUTURE GOODNESS HEAVENS MERCY, CORN MAPLE PAST PERFECT"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 13182,
+            "prompt_tokens": 14886,
+            "cost": 0.169035
+        }
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "BUBBLE FOAM FROTH LATHER, ACES GLOBE MARBLE PEARL, BUILD GROW MOUNT SWELL, HEAD KEEN NEATO NIFTY",
+            "BUBBLE FOAM FROTH LATHER, ACES HEAD NEATO NIFTY, BUILD GROW MOUNT SWELL, GLOBE KEEN MARBLE PEARL",
+            "BUBBLE FOAM FROTH LATHER, ACES HEAD NEATO NIFTY, GLOBE MARBLE MOUNT PEARL, BUILD GROW KEEN SWELL",
+            "BUBBLE FOAM FROTH LATHER, ACES GLOBE MARBLE PEARL, HEAD KEEN NEATO NIFTY, BUILD GROW MOUNT SWELL",
+            "BUBBLE FOAM FROTH LATHER, ACES GLOBE MARBLE PEARL, GROW MOUNT BUILD SWELL, HEAD KEEN NEATO NIFTY",
+            "BUBBLE FOAM FROTH LATHER, ACES HEAD MARBLE PEARL, GLOBE MOUNT SWELL GROW, NEATO NIFTY KEEN BUILD",
+            "BUBBLE FOAM FROTH LATHER, ACES GLOBE MARBLE PEARL, GROW MOUNT BUILD SWELL, HEAD KEEN NEATO NIFTY",
+            "BUBBLE FOAM FROTH LATHER, ACES GLOBE MARBLE PEARL, BUILD GROW MOUNT SWELL, HEAD KEEN NEATO NIFTY",
+            "BUBBLE FOAM FROTH LATHER, ACES HEAD PEARL MARBLE, BUILD GROW MOUNT SWELL, KEEN NEATO NIFTY GLOBE",
+            "ACES PEARL MARBLE GLOBE, BUBBLE FOAM FROTH LATHER, HEAD MOUNT BUILD GROW, KEEN NEATO NIFTY SWELL"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 13571,
+            "prompt_tokens": 15302,
+            "cost": 0.17396499999999998
+        }
+    },
+    {
+        "idx": 137,
+        "ys": [
+            "GOLD BRASS SILVER COPPER, CHEEK LIBERTY NERVE GALL, ELEPHANTS CARS SWIMMERS TREES, MERCURY NICKEL SKY SPARKS",
+            "ELEPHANTS CARS SWIMMERS TREES, CHEEK GALL LIBERTY NERVE, BRASS COPPER GOLD SILVER, MERCURY NICKEL SKY SPARKS",
+            "ELEPHANTS CARS SWIMMERS TREES, BRASS COPPER GOLD SILVER, CHEEK GALL LIBERTY NERVE, MERCURY NICKEL SKY SPARKS",
+            "BRASS COPPER GOLD SILVER, CARS ELEPHANTS SWIMMERS TREES, CHEEK GALL LIBERTY NERVE, MERCURY NICKEL SKY SPARKS",
+            "GOLD BRASS SILVER COPPER, CARS ELEPHANTS SWIMMERS TREES, CHEEK LIBERTY NERVE GALL, MERCURY NICKEL SKY SPARKS",
+            "BRASS COPPER GOLD SILVER, CARS ELEPHANTS SWIMMERS TREES, CHEEK GALL LIBERTY NERVE, MERCURY NICKEL SKY SPARKS",
+            "BRASS COPPER GOLD SILVER, CHEEK GALL LIBERTY NERVE, CARS ELEPHANTS SWIMMERS TREES, MERCURY NICKEL SKY SPARKS",
+            "BRASS COPPER GOLD SILVER, CHEEK GALL LIBERTY NERVE, ELEPHANTS CARS SWIMMERS TREES, MERCURY NICKEL SKY SPARKS",
+            "GOLD BRASS COPPER SILVER, CARS ELEPHANTS SWIMMERS TREES, CHEEK GALL LIBERTY NERVE, MERCURY NICKEL SKY SPARKS",
+            "ELEPHANTS CARS SWIMMERS TREES, BRASS COPPER GOLD SILVER, CHEEK GALL LIBERTY NERVE, MERCURY NICKEL SKY SPARKS"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 13974,
+            "prompt_tokens": 15719,
+            "cost": 0.17903750000000002
+        }
+    },
+    {
+        "idx": 138,
+        "ys": [
+            "NEW SAME SECOND SIGHT, LOOK STYLE TASTE TOUCH, DITTO LIKEWISE MANNER SMELL, BLUE DRESS HARVEST SAILOR",
+            "NEW SAME SECOND SIGHT, LOOK STYLE TOUCH DRESS, TASTE SMELL SIGHT MANNER, BLUE DITTO HARVEST LIKEWISE",
+            "LIKEWISE SAME SECOND DITTO, LOOK NEW SIGHT SMELL, DRESS HARVEST MANNER STYLE, BLUE SAILOR TASTE TOUCH",
+            "LOOK SIGHT SMELL TASTE, DITTO LIKEWISE SAME SECOND, HARVEST MANNER STYLE TOUCH, BLUE DRESS SAILOR NEW",
+            "LOOK SIGHT SMELL TASTE, LIKEWISE SAME SECOND DITTO, BLUE DRESS NEW STYLE, HARVEST MANNER SAILOR TOUCH",
+            "NEW SECOND SAME SIGHT, DITTO LIKEWISE LOOK TASTE, BLUE DRESS HARVEST SAILOR, MANNER SMELL STYLE TOUCH",
+            "NEW SECOND SAILOR SMELL, LOOK SAME STYLE TASTE, DITTO LIKEWISE MANNER TOUCH, BLUE DRESS HARVEST SIGHT",
+            "DITTO LIKEWISE SAME SECOND, BLUE HARVEST LOOK SIGHT, DRESS MANNER STYLE TOUCH, SAILOR SMELL TASTE NEW",
+            "NEW SAME SECOND DITTO, LOOK SIGHT TASTE SMELL, BLUE DRESS STYLE TOUCH, HARVEST LIKEWISE MANNER SAILOR",
+            "NEW SAME SECOND DITTO, LOOK STYLE DRESS MANNER, TASTE TOUCH SMELL SIGHT, BLUE HARVEST LIKEWISE SAILOR"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 14292,
+            "prompt_tokens": 16128,
+            "cost": 0.18324
+        }
+    },
+    {
+        "idx": 139,
+        "ys": [
+            "HASH JUMBLE MEDLEY STEW, BRIDGE CLUTCH FACE NECK, BROOD FRET LITTER STEW, CHALLENGE CONFRONT OPPOSE HATCH",
+            "NECK FACE BODY STEW, CLUTCH FRET HASH HATCH, BRIDGE CHALLENGE CONFRONT OPPOSE, BROOD JUMBLE LITTER MEDLEY",
+            "NECK FACE BODY STEW, CLUTCH FRET HASH HATCH, CHALLENGE CONFRONT JUMBLE MEDLEY, BRIDGE BROOD LITTER OPPOSE",
+            "NECK FACE BODY STEW, CLUTCH FRET HATCH HASH, BRIDGE CHALLENGE CONFRONT OPPOSE, BROOD JUMBLE LITTER MEDLEY",
+            "NECK FACE BODY STEW, CLUTCH FRET HASH HATCH, BRIDGE CHALLENGE JUMBLE MEDLEY, BROOD CONFRONT LITTER OPPOSE",
+            "NECK FACE BODY STEW, CLUTCH FRET HASH HATCH, CHALLENGE JUMBLE MEDLEY OPPOSE, BRIDGE BROOD CONFRONT LITTER",
+            "CLUTCH FRET HATCH NECK, BODY FACE HASH STEW, BRIDGE CHALLENGE JUMBLE MEDLEY, BROOD CONFRONT LITTER OPPOSE",
+            "NECK BODY FACE HASH, CLUTCH HATCH JUMBLE MEDLEY, BRIDGE CHALLENGE CONFRONT OPPOSE, FRET LITTER BROOD STEW",
+            "FACE HASH NECK BODY, CLUTCH FRET LITTER MEDLEY, CHALLENGE JUMBLE OPPOSE CONFRONT, STEW HATCH BRIDGE BROOD",
+            "NECK FACE HASH STEW, BODY BROOD CLUTCH LITTER, CHALLENGE CONFRONT JUMBLE MEDLEY, BRIDGE FRET HATCH OPPOSE"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 14663,
+            "prompt_tokens": 16542,
+            "cost": 0.187985
+        }
+    },
+    {
+        "idx": 140,
+        "ys": [
+            "DRAGON TALON WING BEAK, BAMBOO BELLY HOT PANIC, FLASH HEARTBEAT SECOND WINK, FEATHER SEASON SNOOZE WIND",
+            "WING FEATHER BEAK TALON, HEARTBEAT HOT PANIC FLASH, BAMBOO DRAGON SEASON WIND, BELLY SECOND SNOOZE WINK",
+            "BELLY HEARTBEAT HOT PANIC, BAMBOO DRAGON FEATHER WING, FLASH SECOND SEASON WINK, SNOOZE TALON BEAK WIND",
+            "BELLY DRAGON TALON WING, FLASH HOT PANIC SNOOZE, BAMBOO FEATHER SECOND WIND, HEARTBEAT SEASON WINK BEAK",
+            "DRAGON TALON WING FEATHER, BAMBOO FLASH HOT WIND, BELLY HEARTBEAT PANIC SNOOZE, SECOND SEASON WINK BEAK",
+            "WING FEATHER BEAK TALON, HEARTBEAT HOT PANIC FLASH, DRAGON BAMBOO SEASON WIND, BELLY SECOND SNOOZE WINK",
+            "TALON WING FEATHER BEAK, HEARTBEAT HOT PANIC SNOOZE, FLASH SECOND SEASON WINK, BELLY BAMBOO DRAGON WIND",
+            "WING DRAGON TALON BEAK, BAMBOO FLASH HOT PANIC, FEATHER HEARTBEAT SECOND WINK, BELLY SEASON SNOOZE WIND",
+            "WING FEATHER BEAK TALON, HOT PANIC FLASH SNOOZE, BAMBOO DRAGON WIND SECOND, BELLY HEARTBEAT SEASON WINK",
+            "BELLY HOT PANIC SNOOZE, BAMBOO DRAGON TALON WING, HEARTBEAT SECOND SEASON WINK, FEATHER FLASH WIND BEAK"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 15024,
+            "prompt_tokens": 16955,
+            "cost": 0.19262749999999998
+        }
+    },
+    {
+        "idx": 141,
+        "ys": [
+            "FARMER CARPENTER SPORTS TRACTOR, DAISY TULIP ROSE VIOLET, BARN CHICKEN DUST LIFE, ASTER CRAVEN WAN YELLOW",
+            "FARMER TRACTOR BARN CHICKEN, DAISY ROSE TULIP VIOLET, CARPENTER CRAVEN SPORTS WAN, ASTER DUST LIFE YELLOW",
+            "FARMER TRACTOR BARN CHICKEN, DAISY TULIP ROSE VIOLET, CARPENTER CRAVEN SPORTS WAN, ASTER DUST LIFE YELLOW",
+            "FARMER TRACTOR BARN CHICKEN, DAISY TULIP ROSE VIOLET, CARPENTER CRAVEN SPORTS WAN, ASTER DUST LIFE YELLOW",
+            "FARMER TRACTOR BARN CHICKEN, DAISY ROSE TULIP VIOLET, CARPENTER CRAVEN SPORTS WAN, ASTER DUST LIFE YELLOW",
+            "FARMER TRACTOR BARN CHICKEN, DAISY TULIP ROSE VIOLET, CARPENTER CRAVEN WAN YELLOW, ASTER DUST LIFE SPORTS",
+            "FARMER TRACTOR BARN CHICKEN, DAISY TULIP ROSE VIOLET, CARPENTER CRAVEN SPORTS WAN, ASTER DUST LIFE YELLOW",
+            "FARMER TRACTOR BARN CHICKEN, DAISY TULIP ROSE VIOLET, CARPENTER CRAVEN SPORTS WAN, ASTER DUST LIFE YELLOW",
+            "DAISY ROSE TULIP VIOLET, CARPENTER FARMER TRACTOR BARN, ASTER CHICKEN CRAVEN WAN, LIFE SPORTS DUST YELLOW",
+            "FARMER TRACTOR BARN CHICKEN, DAISY TULIP ROSE VIOLET, CARPENTER CRAVEN LIFE WAN, ASTER DUST SPORTS YELLOW"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 15423,
+            "prompt_tokens": 17371,
+            "cost": 0.1976575
+        }
+    },
+    {
+        "idx": 142,
+        "ys": [
+            "WELL LIKE UM UH, ER ERM HEM UH, DARN SEAM SEW HEM, HOUSE FOLLOW SHARE SUBSCRIBE",
+            "LIKE SHARE SUBSCRIBE FOLLOW, ER ERM UH UM, HOUSE HEM SEAM SEW, DARN RATCHED SCRUBS WELL",
+            "WELL LIKE UM UH, ER ERM UH HEM, DARN FOLLOW SHARE SUBSCRIBE, HOUSE RATCHED SCRUBS SEW",
+            "WELL HOUSE HEM SEAM, LIKE SHARE FOLLOW SUBSCRIBE, UM ER ERM UH, DARN RATCHED SCRUBS SEW",
+            "WELL HOUSE SEAM SEW, LIKE FOLLOW SHARE SUBSCRIBE, UM ER UH ERM, HEM DARN RATCHED SCRUBS",
+            "LIKE SHARE SUBSCRIBE FOLLOW, UM ER UH ERM, DARN HEM SEAM SEW, HOUSE RATCHED SCRUBS WELL",
+            "LIKE SHARE SUBSCRIBE FOLLOW, DARN HEM SEAM SEW, ER ERM UH UM, HOUSE RATCHED SCRUBS WELL",
+            "WELL UM ER ERM, LIKE FOLLOW SHARE SUBSCRIBE, HEM DARN SEAM SEW, HOUSE SCRUBS RATCHED UH",
+            "WELL LIKE UM UH, ER ERM HEM UH, HOUSE SEAM SHARE SUBSCRIBE, DARN FOLLOW SCRUBS RATCHED",
+            "WELL LIKE UM UH, ER ERM HEM UH, HOUSE FOLLOW SHARE SUBSCRIBE, DARN RATCHED SCRUBS SEAM"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 15724,
+            "prompt_tokens": 17778,
+            "cost": 0.201685
+        }
+    },
+    {
+        "idx": 143,
+        "ys": [
+            "APPLE DELL INTEL KINDLE, COMPUTER DATA INFO TORCH, HOLLOW REACTOR VALLEY GLEN, LIGHT NEWS PLANET BURN",
+            "APPLE COMPUTER DELL INTEL, BURN LIGHT TORCH VALLEY, DATA INFO NEWS PLANET, GLEN HOLLOW KINDLE REACTOR",
+            "APPLE COMPUTER DELL INTEL, LIGHT NEWS TORCH BURN, DATA INFO PLANET REACTOR, GLEN HOLLOW KINDLE VALLEY",
+            "COMPUTER DELL INTEL KINDLE, APPLE HOLLOW PLANET VALLEY, BURN LIGHT TORCH NEWS, DATA GLEN INFO REACTOR",
+            "BURN LIGHT TORCH KINDLE, APPLE DELL INTEL COMPUTER, GLEN HOLLOW VALLEY PLANET, DATA INFO NEWS REACTOR",
+            "APPLE DELL INTEL COMPUTER, BURN KINDLE LIGHT TORCH, DATA INFO NEWS PLANET, GLEN HOLLOW REACTOR VALLEY",
+            "BURN LIGHT TORCH KINDLE, APPLE DELL INTEL COMPUTER, DATA INFO NEWS PLANET, GLEN HOLLOW REACTOR VALLEY",
+            "NEWS INFO DATA COMPUTER, APPLE DELL INTEL KINDLE, BURN LIGHT TORCH REACTOR, GLEN HOLLOW VALLEY PLANET",
+            "APPLE DELL INTEL KINDLE, COMPUTER DATA INFO TORCH, BURN LIGHT NEWS TORCH, GLEN HOLLOW REACTOR VALLEY",
+            "KINDLE LIGHT TORCH BURN, COMPUTER DELL INTEL APPLE, INFO DATA NEWS PLANET, VALLEY GLEN HOLLOW REACTOR"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 16042,
+            "prompt_tokens": 18187,
+            "cost": 0.2058875
+        }
+    },
+    {
+        "idx": 144,
+        "ys": [
+            "ARE WE THERE YET, YOU HEAR SEE WHY, HOWEVER STILL THOUGH TUT, FAMILY FLUSH JELLY KNOCK",
+            "ARE HOWEVER SEE THOUGH, FAMILY HEAR KNOCK YOU, STILL TUT YET WHY, FLUSH JELLY THERE WE",
+            "ARE YOU WE WHY, HOWEVER SEE THOUGH YET, FAMILY HEAR JELLY KNOCK, FLUSH STILL THERE TUT",
+            "ARE WE YOU WHY, HEAR KNOCK SEE STILL, JELLY TUT YET FLUSH, FAMILY HOWEVER THERE THOUGH",
+            "ARE WE THERE YET, HOWEVER SEE STILL THOUGH, FAMILY HEAR KNOCK JELLY, FLUSH TUT WHY YOU",
+            "ARE WE THERE YET, SEE HEAR YOU WHY, FAMILY JELLY TUT HOWEVER, KNOCK STILL FLUSH THOUGH",
+            "ARE WE THERE YET, JELLY KNOCK SEE TUT, FAMILY HEAR HOWEVER WHY, FLUSH STILL THOUGH YOU",
+            "ARE YOU WE WHY, HEAR KNOCK SEE STILL, JELLY TUT YET THOUGH, FAMILY FLUSH HOWEVER THERE",
+            "ARE KNOCK STILL YOU, FAMILY HEAR SEE YOU, HOWEVER THOUGH WHY YET, FLUSH JELLY TUT WE",
+            "ARE YOU WE WHY, HEAR SEE TUT KNOCK, JELLY STILL THERE YET, HOWEVER THOUGH FAMILY FLUSH"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 16332,
+            "prompt_tokens": 18593,
+            "cost": 0.20980250000000003
+        }
+    },
+    {
+        "idx": 145,
+        "ys": [
+            "TUBE PIPE ROPE HOSE, BIKE SPORTS TRAIN TICKET, DRILL KNIFE WRENCH CANDLESTICK, CIGARETTE PRACTICE STRAW STUDY",
+            "TRAIN TICKET TUBE ROPE, BIKE SPORTS STUDY PRACTICE, CIGARETTE PIPE STRAW CANDLESTICK, DRILL KNIFE WRENCH HOSE",
+            "TRAIN TUBE PIPE ROPE, CIGARETTE KNIFE SPORTS STRAW, BIKE PRACTICE STUDY TICKET, CANDLESTICK DRILL HOSE WRENCH",
+            "TRAIN TICKET TUBE ROPE, STRAW CIGARETTE PIPE CANDLESTICK, BIKE SPORTS STUDY PRACTICE, DRILL HOSE KNIFE WRENCH",
+            "TRAIN TUBE ROPE HOSE, BIKE PIPE SPORTS TICKET, CIGARETTE CANDLESTICK KNIFE WRENCH, DRILL PRACTICE STRAW STUDY",
+            "TICKET ROPE STRAW TUBE, BIKE CIGARETTE PIPE WRENCH, DRILL KNIFE PRACTICE STUDY, CANDLESTICK HOSE SPORTS TRAIN",
+            "TRAIN TICKET TUBE ROPE, BIKE SPORTS STRAW STUDY, CIGARETTE PIPE CANDLESTICK KNIFE, DRILL HOSE PRACTICE WRENCH",
+            "TRAIN TUBE ROPE PIPE, STRAW CIGARETTE KNIFE WRENCH, TICKET SPORTS STUDY PRACTICE, BIKE DRILL HOSE CANDLESTICK",
+            "TUBE PIPE ROPE HOSE, BIKE SPORTS TRAIN TICKET, CIGARETTE CANDLESTICK KNIFE WRENCH, DRILL PRACTICE STRAW STUDY",
+            "TRAIN TUBE ROPE HOSE, CIGARETTE PIPE STRAW WRENCH, BIKE SPORTS STUDY PRACTICE, CANDLESTICK DRILL KNIFE TICKET"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 16732,
+            "prompt_tokens": 19010,
+            "cost": 0.214845
+        }
+    },
+    {
+        "idx": 146,
+        "ys": [
+            "BICYCLE ROLLING SPIN STONE, EVEN LEVEL STABLE STEADY, BILLBOARD PIN QUADRANT UNIFORM, LANCE PITCHFORK SKEWER SPIT",
+            "BICYCLE EVEN LEVEL STEADY, BILLBOARD PIN QUADRANT UNIFORM, LANCE PITCHFORK SKEWER SPIT, ROLLING SPIN STABLE STONE",
+            "BICYCLE EVEN LEVEL STEADY, LANCE PITCHFORK SKEWER SPIT, PIN SPIN STABLE UNIFORM, BILLBOARD QUADRANT ROLLING STONE TRILOGY",
+            "BICYCLE EVEN LEVEL STABLE, BILLBOARD ROLLING STONE UNIFORM, PIN PITCHFORK SKEWER SPIT, LANCE QUADRANT SPIN TRILOGY",
+            "BICYCLE EVEN PIN QUADRANT, BILLBOARD ROLLING STONE UNIFORM TRILOGY, SPIN STABLE STEADY LEVEL, LANCE PITCHFORK SKEWER SPIT",
+            "BICYCLE ROLLING STONE UNIFORM QUADRANT, LANCE PITCHFORK SKEWER SPIT, BILLBOARD EVEN LEVEL STABLE, PIN SPIN STEADY TRILOGY",
+            "BICYCLE PIN ROLLING SPIN, EVEN LEVEL STABLE STEADY, LANCE PITCHFORK SKEWER SPIT, BILLBOARD QUADRANT STONE TRILOGY",
+            "BICYCLE EVEN LEVEL STABLE, LANCE PITCHFORK SKEWER SPIT, BILLBOARD ROLLING STONE TRILOGY UNIFORM, PIN QUADRANT SPIN STEADY",
+            "BICYCLE EVEN LEVEL UNIFORM, PIN SKEWER LANCE PITCHFORK, BILLBOARD QUADRANT ROLLING STONE, SPIN STABLE STEADY TRILOGY",
+            "BICYCLE EVEN LEVEL STEADY, BILLBOARD PIN SPIT STONE, LANCE PITCHFORK SKEWER TRILOGY, QUADRANT ROLLING SPIN STABLE"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 17155,
+            "prompt_tokens": 19431,
+            "cost": 0.2201275
+        }
+    },
+    {
+        "idx": 147,
+        "ys": [
+            "ICE SOUP STOCK BOUILLON, CD LP VINYL WAX, BOND OPTION SUGAR WISH, DIE FUNNY HERRING PLATTER",
+            "ICE SOUP HERRING BOUILLON, WAX CD VINYL LP, BOND OPTION STOCK WISH, DIE FUNNY PLATTER SUGAR",
+            "ICE SOUP HERRING BOUILLON, CD LP VINYL WAX, BOND OPTION STOCK WISH, DIE FUNNY PLATTER SUGAR",
+            "ICE SOUP HERRING BOUILLON, CD LP VINYL WAX, OPTION STOCK SUGAR BOND, DIE FUNNY PLATTER WISH",
+            "BOND OPTION STOCK WISH, CD LP VINYL WAX, HERRING PLATTER SUGAR SOUP, BOUILLON DIE FUNNY ICE",
+            "ICE SOUP STOCK BOUILLON, CD LP VINYL WAX, BOND OPTION SUGAR WISH, DIE FUNNY HERRING PLATTER",
+            "ICE SOUP SUGAR WAX, CD LP VINYL BOND, OPTION STOCK WISH DIE, FUNNY HERRING PLATTER BOUILLON",
+            "ICE SOUP SUGAR WAX, CD LP VINYL BOND, DIE FUNNY OPTION WISH, HERRING BOUILLON PLATTER STOCK",
+            "ICE SOUP HERRING BOUILLON, CD LP VINYL WAX, BOND OPTION STOCK WISH, DIE FUNNY PLATTER SUGAR",
+            "ICE SOUP STOCK BOUILLON, CD LP VINYL WAX, BOND OPTION SUGAR WISH, DIE FUNNY HERRING PLATTER"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 17495,
+            "prompt_tokens": 19842,
+            "cost": 0.224555
+        }
+    },
+    {
+        "idx": 148,
+        "ys": [
+            "BING DING PING RING, CAMP EDGE SURFACE WING, CHIME RAT SING SQUEAL, DIVISION FACTION SNITCH WORD",
+            "BING DING PING RING, CAMP EDGE SURFACE WING, CHIME RAT SING SNITCH, DIVISION FACTION SQUEAL WORD",
+            "BING DING PING RING, CAMP RAT SNITCH SQUEAL, CHIME SING WING WORD, DIVISION EDGE FACTION SURFACE",
+            "BING DING PING RING, CAMP EDGE SURFACE WING, DIVISION FACTION RAT WORD, CHIME SING SNITCH SQUEAL",
+            "BING DING PING RING, CAMP EDGE SURFACE WING, FACTION DIVISION SNITCH WORD, CHIME RAT SING SQUEAL",
+            "BING DING PING RING, CAMP EDGE SURFACE WING, RAT SNITCH SQUEAL WORD, CHIME DIVISION FACTION SING",
+            "BING DING PING RING, CAMP FACTION SING WING, EDGE SURFACE WORD DIVISION, CHIME RAT SNITCH SQUEAL",
+            "BING DING PING RING, CAMP EDGE SURFACE WING, CHIME SING SNITCH SQUEAL, DIVISION FACTION RAT WORD",
+            "BING DING PING RING, CAMP FACTION SNITCH SQUEAL, CHIME SING WING WORD, DIVISION EDGE RAT SURFACE",
+            "BING DING PING SING, CAMP EDGE SURFACE WING, CHIME RING SNITCH SQUEAL, DIVISION FACTION RAT WORD"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 17825,
+            "prompt_tokens": 20252,
+            "cost": 0.22888
+        }
+    },
+    {
+        "idx": 149,
+        "ys": [
+            "WAFFLE CURLY MARY RUSSIAN, TOWEL UMBRELLA SUNSCREEN YO-YO, BREEZE HEDGE WAVER WEDGE, FLIP-FLOP MULE SEE-SAW SHOESTRING",
+            "WAFFLE MARY RUSSIAN YO-YO, HEDGE UMBRELLA SUNSCREEN TOWEL, BREEZE WAVER CURLY SEE-SAW, FLIP-FLOP MULE SHOESTRING WEDGE",
+            "WAFFLE TOWEL UMBRELLA SUNSCREEN, YO-YO FLIP-FLOP SEE-SAW WAVER, HEDGE WEDGE CURLY SHOESTRING, BREEZE MARY MULE RUSSIAN",
+            "WAFFLE TOWEL UMBRELLA SUNSCREEN, YO-YO FLIP-FLOP SEE-SAW WAVER, HEDGE WEDGE SHOESTRING CURLY, BREEZE MARY MULE RUSSIAN",
+            "WAFFLE TOWEL UMBRELLA SUNSCREEN, YO-YO FLIP-FLOP SEE-SAW WAVER, HEDGE WEDGE BREEZE CURLY, MARY MULE RUSSIAN SHOESTRING",
+            "WAFFLE YO-YO FLIP-FLOP SEE-SAW, MULE RUSSIAN SHOESTRING WEDGE, HEDGE SUNSCREEN TOWEL UMBRELLA, BREEZE CURLY MARY WAVER",
+            "WAFFLE YO-YO SEE-SAW FLIP-FLOP, CURLY HEDGE WAVER WEDGE, MARY RUSSIAN SHOESTRING UMBRELLA, BREEZE MULE SUNSCREEN TOWEL",
+            "WAFFLE TOWEL UMBRELLA SUNSCREEN, FLIP-FLOP SEE-SAW WAVER YO-YO, BREEZE CURLY MARY RUSSIAN, HEDGE MULE SHOESTRING WEDGE",
+            "WAFFLE CURLY HEDGE WEDGE, TOWEL UMBRELLA SUNSCREEN BREEZE, MARY RUSSIAN SHOESTRING YO-YO, FLIP-FLOP MULE SEE-SAW WAVER",
+            "WAFFLE TOWEL UMBRELLA SUNSCREEN, BREEZE MARY WAVER YO-YO, CURLY FLIP-FLOP SHOESTRING SEE-SAW, HEDGE MULE RUSSIAN WEDGE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 18335,
+            "prompt_tokens": 20680,
+            "cost": 0.23505
+        }
+    }
+]

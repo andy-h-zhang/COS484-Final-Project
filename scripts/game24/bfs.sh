@@ -1,8 +1,8 @@
 python run.py \
-    --backend gpt-4o-mini \
+    --backend gpt-4o \
     --task game24 \
-    --task_start_index 801 \
-    --task_end_index 802 \
+    --task_start_index 800 \
+    --task_end_index 805 \
     --method_generate propose \
     --method_evaluate value \
     --method_select greedy \

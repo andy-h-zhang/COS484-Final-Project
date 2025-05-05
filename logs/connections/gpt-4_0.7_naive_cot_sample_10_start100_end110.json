@@ -1,0 +1,522 @@
+[
+    {
+        "idx": 100,
+        "ys": [
+            "BALL ALLEY LANE MUG terms used in bowling (left: EXTRA WON PIN COPY TOO TEE ATE PEN BACKUP SPARE TOTE FOR)\nBALL ALLEY LANE MUG terms used in bowling, ATE EXTRA TEE TOO are homophones of numbers (left: WON PIN COPY PEN BACKUP SPARE TOTE FOR)\nBALL ALLEY LANE MUG terms used in bowling, ATE EXTRA TEE TOO are homophones of numbers, BACKUP COPY PEN SPARE items often found in an office (left: WON PIN TOTE FOR)\nBALL ALLEY LANE MUG terms used in bowling, ATE EXTRA TEE TOO are homophones of numbers, BACKUP COPY PEN SPARE items often found in an office, WON FOR PIN TOTE verbs followed by \"the\" and a noun\nOutput: BALL ALLEY LANE MUG, ATE EXTRA TEE TOO, BACKUP COPY PEN SPARE, WON FOR PIN TOTE",
+            "    BALL MUG PIN TOTE are all items found in a bowling alley (left: EXTRA WON COPY TOO TEE ATE ALLEY PEN BACKUP SPARE FOR LANE)\n    BALL MUG PIN TOTE are all items found in a bowling alley, ALLEY BACKUP SPARE LANE are all terms related to bowling (left: EXTRA WON COPY TOO TEE ATE PEN FOR)\n    BALL MUG PIN TOTE are all items found in a bowling alley, ALLEY BACKUP SPARE LANE are all terms related to bowling, COPY EXTRA FOR PEN are all related to writing (left: WON TOO TEE ATE)\n    BALL MUG PIN TOTE are all items found in a bowling alley, ALLEY BACKUP SPARE LANE are all terms related to bowling, COPY EXTRA FOR PEN are all related to writing, ATE TEE TOO WON are all homophones of numbers\nOutput: BALL MUG PIN TOTE, ALLEY BACKUP SPARE LANE, COPY EXTRA FOR PEN, ATE TEE TOO WON",
+            "    BALL MUG PIN TOTE are all types of games (left: EXTRA WON COPY TOO TEE ATE ALLEY PEN BACKUP SPARE FOR LANE)\n    BALL MUG PIN TOTE are all types of games, ALLEY BALL LANE PIN are all related to bowling (left: EXTRA WON COPY TOO TEE ATE PEN BACKUP SPARE FOR)\n    BALL MUG PIN TOTE are all types of games, ALLEY BALL LANE PIN are all related to bowling, EXTRA BACKUP COPY SPARE are synonyms for additional (left: WON TOO TEE ATE PEN FOR)\n    BALL MUG PIN TOTE are all types of games, ALLEY BALL LANE PIN are all related to bowling, EXTRA BACKUP COPY SPARE are synonyms for additional, ATE FOR PEN TOO are all homophones for numbers\nOutput: BALL MUG PIN TOTE, ALLEY BALL LANE PIN, EXTRA BACKUP COPY SPARE, ATE FOR PEN TOO",
+            "    BALL MUG PIN TEE are associated with sports (left: EXTRA WON COPY TOO ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE)\n    BALL MUG PIN TEE are associated with sports, ALLEY BACKUP LANE SPARE are terms used in bowling (left: EXTRA WON COPY TOO ATE PEN TOTE FOR)\n    BALL MUG PIN TEE are associated with sports, ALLEY BACKUP LANE SPARE are terms used in bowling, EXTRA PEN TOTE TOO are synonyms of Also (left: WON COPY ATE FOR)\n    BALL MUG PIN TEE are associated with sports, ALLEY BACKUP LANE SPARE are terms used in bowling, EXTRA PEN TOTE TOO are synonyms of Also, ATE COPY FOR WON are verbs in the past tense\nOutput: BALL MUG PIN TEE, ALLEY BACKUP LANE SPARE, EXTRA PEN TOTE TOO, ATE COPY FOR WON",
+            "    BALL MUG PIN TEE are things found in a bowling alley (left: EXTRA WON COPY TOO ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE)\n    BALL MUG PIN TEE are things found in a bowling alley, EXTRA SPARE TOO BACKUP are synonyms for additional (left: WON COPY ATE ALLEY PEN TOTE FOR LANE)\n    BALL MUG PIN TEE are things found in a bowling alley, EXTRA SPARE TOO BACKUP are synonyms for additional, ATE FOR TOO WON are homophones of numbers (left: COPY ALLEY PEN TOTE LANE)\n    BALL MUG PIN TEE are things found in a bowling alley, EXTRA SPARE TOO BACKUP are synonyms for additional, ATE FOR TOO WON are homophones of numbers, ALLEY LANE PEN TOTE could all be types of bags\nOutput: BALL MUG PIN TEE, EXTRA SPARE TOO BACKUP, ATE FOR TOO WON, ALLEY LANE PEN TOTE.",
+            "    BALL MUG PIN TOTE items you can find in a bowling alley (left: EXTRA WON COPY TOO TEE ATE ALLEY PEN BACKUP SPARE FOR LANE)\n    BALL MUG PIN TOTE items you can find in a bowling alley, BACKUP COPY EXTRA SPARE synonyms for additional (left: WON TOO TEE ATE ALLEY PEN FOR LANE)\n    BALL MUG PIN TOTE items you can find in a bowling alley, BACKUP COPY EXTRA SPARE synonyms for additional, ATE FOR TOO WON are all synonyms for also (left: TEE ALLEY PEN LANE)\n    BALL MUG PIN TOTE items you can find in a bowling alley, BACKUP COPY EXTRA SPARE synonyms for additional, ATE FOR TOO WON are all synonyms for also, ALLEY LANE PEN TEE are all places you can find in a bowling center\nOutput: BALL MUG PIN TOTE, BACKUP COPY EXTRA SPARE, ATE FOR TOO WON, ALLEY LANE PEN TEE",
+            "    BALL MUG PIN TOTE are items found in a bowling alley (left: EXTRA WON COPY TOO TEE ATE ALLEY PEN BACKUP SPARE FOR LANE)\n    BALL MUG PIN TOTE are items found in a bowling alley, ATE EXTRA FOR TOO are synonyms for also (left: WON COPY TEE ALLEY PEN BACKUP SPARE LANE)\n    BALL MUG PIN TOTE are items found in a bowling alley, ATE EXTRA FOR TOO are synonyms for also, ALLEY LANE PEN TEE are all narrow passages (left: WON COPY BACKUP SPARE)\n    BALL MUG PIN TOTE are items found in a bowling alley, ATE EXTRA FOR TOO are synonyms for also, ALLEY LANE PEN TEE are all narrow passages, BACKUP COPY SPARE WON are synonyms for extra\nOutput: BALL MUG PIN TOTE, ATE EXTRA FOR TOO, ALLEY LANE PEN TEE, BACKUP COPY SPARE WON",
+            "    BALL MUG PIN TOTE are all items you might find in a bowling alley (left: EXTRA WON COPY TOO TEE ATE ALLEY PEN BACKUP SPARE FOR LANE)\n    BALL MUG PIN TOTE are all items you might find in a bowling alley, ALLEY BACKUP EXTRA SPARE are all words related to bowling (left: WON COPY TOO TEE ATE PEN FOR LANE)\n    BALL MUG PIN TOTE are all items you might find in a bowling alley, ALLEY BACKUP EXTRA SPARE are all words related to bowling, ATE COPY PEN TOO are all words that can be verbs (left: WON TEE FOR LANE)\n    BALL MUG PIN TOTE are all items you might find in a bowling alley, ALLEY BACKUP EXTRA SPARE are all words related to bowling, ATE COPY PEN TOO are all words that can be verbs, FOR LANE TEE WON all have silent E's.\nOutput: BALL MUG PIN TOTE, ALLEY BACKUP EXTRA SPARE, ATE COPY PEN TOO, FOR LANE TEE WON",
+            "    BALL MUG PIN TOTE are all things you can bowl (left: EXTRA WON COPY TOO TEE ATE ALLEY PEN BACKUP SPARE FOR LANE)\n    BALL MUG PIN TOTE are all things you can bowl, ALLEY LANE PEN SPARE are all bowling terms (left: EXTRA WON COPY TOO TEE ATE BACKUP FOR)\n    BALL MUG PIN TOTE are all things you can bowl, ALLEY LANE PEN SPARE are all bowling terms, EXTRA BACKUP COPY FOR are all synonyms for additional (left: WON TOO TEE ATE)\n    BALL MUG PIN TOTE are all things you can bowl, ALLEY LANE PEN SPARE are all bowling terms, EXTRA BACKUP COPY FOR are all synonyms for additional, WON TOO TEE ATE are homophones for the numbers one to four\nOutput: BALL MUG PIN TOTE, ALLEY LANE PEN SPARE, EXTRA BACKUP COPY FOR, WON TOO TEE ATE",
+            "    BALL MUG PIN TOTE are bowling terminology (left: EXTRA WON COPY TOO TEE ATE ALLEY PEN BACKUP SPARE FOR LANE)\n    BALL MUG PIN TOTE are bowling terminology, BACKUP COPY EXTRA SPARE are synonyms for substitute (left: WON TOO TEE ATE ALLEY PEN FOR LANE)\n    BALL MUG PIN TOTE are bowling terminology, BACKUP COPY EXTRA SPARE are synonyms for substitute, ALLEY LANE TEE TOO are all flat and straight paths (left: WON ATE PEN FOR)\n    BALL MUG PIN TOTE are bowling terminology, BACKUP COPY EXTRA SPARE are synonyms for substitute, ALLEY LANE TEE TOO are all flat and straight paths, ATE FOR PEN WON all have homophones\nOutput: BALL MUG PIN TOTE, BACKUP COPY EXTRA SPARE, ALLEY LANE TEE TOO, ATE FOR PEN WON"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2052,
+            "prompt_tokens": 894,
+            "cost": 0.14994
+        }
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "    BEAKER CHEF GONZO PIGGY are characters from the Muppets (left: DOG ANIMAL CAR MITT BUS HOST SCOOTER TRUCK DIGIT BARTENDER MOTORCYCLE SERVER)\n    BEAKER CHEF GONZO PIGGY are characters from the Muppets, CAR MOTORCYCLE SCOOTER TRUCK are types of vehicles (left: DOG ANIMAL MITT BUS HOST DIGIT BARTENDER SERVER)\n    BEAKER CHEF GONZO PIGGY are characters from the Muppets, CAR MOTORCYCLE SCOOTER TRUCK are types of vehicles, ANIMAL DOG HOST SERVER are terms used in computer networking (left: MITT BUS DIGIT BARTENDER)\n    BEAKER CHEF GONZO PIGGY are characters from the Muppets, CAR MOTORCYCLE SCOOTER TRUCK are types of vehicles, ANIMAL DOG HOST SERVER are terms used in computer networking, MITT BARTENDER BUS DIGIT can follow the word hand\nOutput: BEAKER CHEF GONZO PIGGY, CAR MOTORCYCLE SCOOTER TRUCK, ANIMAL DOG HOST SERVER, BARTENDER BUS DIGIT MITT",
+            "    CHEF BARTENDER HOST SERVER are all jobs in the food industry (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all jobs in the food industry, CAR BUS MOTORCYCLE SCOOTER are all types of transportation (left: DOG ANIMAL MITT TRUCK DIGIT BEAKER PIGGY GONZO)\n    CHEF BARTENDER HOST SERVER are all jobs in the food industry, CAR BUS MOTORCYCLE SCOOTER are all types of transportation, DOG PIGGY ANIMAL GONZO are all characters from The Muppets (left: MITT TRUCK DIGIT BEAKER)\n    CHEF BARTENDER HOST SERVER are all jobs in the food industry, CAR BUS MOTORCYCLE SCOOTER are all types of transportation, DOG PIGGY ANIMAL GONZO are all characters from The Muppets, MITT TRUCK DIGIT BEAKER are all things that can hold something\nOutput: CHEF BARTENDER HOST SERVER, CAR BUS MOTORCYCLE SCOOTER, DOG PIGGY ANIMAL GONZO, MITT TRUCK DIGIT BEAKER",
+            "    CHEF BARTENDER HOST SERVER are all hospitality roles (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all hospitality roles, CAR BUS SCOOTER TRUCK are all forms of road transportation (left: DOG ANIMAL MITT DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all hospitality roles, CAR BUS SCOOTER TRUCK are all forms of road transportation, DOG PIGGY ANIMAL GONZO are all Muppet characters (left: MITT DIGIT BEAKER MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all hospitality roles, CAR BUS SCOOTER TRUCK are all forms of road transportation, DOG PIGGY ANIMAL GONZO are all Muppet characters, MITT DIGIT BEAKER MOTORCYCLE are all parts of a science experiment kit\nOutput: CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER TRUCK, DOG PIGGY ANIMAL GONZO, MITT DIGIT BEAKER MOTORCYCLE",
+            "    CHEF HOST SERVER BARTENDER are all positions in a restaurant (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF HOST SERVER BARTENDER are all positions in a restaurant, CAR BUS SCOOTER TRUCK are all types of vehicles (left: DOG ANIMAL MITT DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF HOST SERVER BARTENDER are all positions in a restaurant, CAR BUS SCOOTER TRUCK are all types of vehicles, DOG PIGGY ANIMAL GONZO are all characters from The Muppets (left: MITT DIGIT BEAKER MOTORCYCLE)\n    CHEF HOST SERVER BARTENDER are all positions in a restaurant, CAR BUS SCOOTER TRUCK are all types of vehicles, DOG PIGGY ANIMAL GONZO are all characters from The Muppets, MITT DIGIT BEAKER MOTORCYCLE are all single syllable words\nOutput: CHEF HOST SERVER BARTENDER, CAR BUS SCOOTER TRUCK, DOG PIGGY ANIMAL GONZO, MITT DIGIT BEAKER MOTORCYCLE",
+            "    CHEF HOST BARTENDER SERVER are all roles in a restaurant (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF HOST BARTENDER SERVER are all roles in a restaurant, DOG PIGGY ANIMAL GONZO are related to the Muppets (left: CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER MOTORCYCLE)\n    CHEF HOST BARTENDER SERVER are all roles in a restaurant, DOG PIGGY ANIMAL GONZO are related to the Muppets, CAR BUS SCOOTER MOTORCYCLE are all modes of transportation (left: MITT TRUCK DIGIT BEAKER)\n    CHEF HOST BARTENDER SERVER are all roles in a restaurant, DOG PIGGY ANIMAL GONZO are related to the Muppets, CAR BUS SCOOTER MOTORCYCLE are all modes of transportation, MITT TRUCK DIGIT BEAKER are words that can follow the word \"hand\"\nOutput: CHEF HOST BARTENDER SERVER, DOG PIGGY ANIMAL GONZO, CAR BUS SCOOTER MOTORCYCLE, MITT TRUCK DIGIT BEAKER",
+            "    CHEF BARTENDER HOST SERVER are all jobs in the food service industry (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all jobs in the food service industry, CAR BUS SCOOTER MOTORCYCLE are all modes of transportation (left: DOG ANIMAL MITT TRUCK DIGIT BEAKER PIGGY GONZO)\n    CHEF BARTENDER HOST SERVER are all jobs in the food service industry, CAR BUS SCOOTER MOTORCYCLE are all modes of transportation, DOG ANIMAL PIGGY GONZO are all related to Muppets characters (left: MITT TRUCK DIGIT BEAKER)\n    CHEF BARTENDER HOST SERVER are all jobs in the food service industry, CAR BUS SCOOTER MOTORCYCLE are all modes of transportation, DOG ANIMAL PIGGY GONZO are all related to Muppets characters, MITT BEAKER TRUCK DIGIT can all be used to hold things.\nOutput: CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER MOTORCYCLE, DOG ANIMAL PIGGY GONZO, MITT BEAKER TRUCK DIGIT",
+            "    CHEF BARTENDER HOST SERVER are all restaurant staff (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all restaurant staff, CAR BUS SCOOTER TRUCK are all road transport vehicles (left: DOG ANIMAL MITT DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all restaurant staff, CAR BUS SCOOTER TRUCK are all road transport vehicles, DOG ANIMAL PIGGY GONZO are all Muppets characters (left: MITT DIGIT BEAKER MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all restaurant staff, CAR BUS SCOOTER TRUCK are all road transport vehicles, DOG ANIMAL PIGGY GONZO are all Muppets characters, MITT DIGIT BEAKER MOTORCYCLE are all words that can follow the word Hand\nOutput: CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER TRUCK, DOG ANIMAL PIGGY GONZO, MITT DIGIT BEAKER MOTORCYCLE",
+            "    CHEF BARTENDER HOST SERVER are all hospitality roles (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all hospitality roles, CAR BUS SCOOTER TRUCK are all types of land vehicles (left: DOG ANIMAL MITT DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all hospitality roles, CAR BUS SCOOTER TRUCK are all types of land vehicles, DOG PIGGY ANIMAL GONZO are all names of Muppets (left: MITT DIGIT BEAKER MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all hospitality roles, CAR BUS SCOOTER TRUCK are all types of land vehicles, DOG PIGGY ANIMAL GONZO are all names of Muppets, BEAKER DIGIT MITT MOTORCYCLE are all words associated with hands or fingers\nOutput: CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER TRUCK, DOG PIGGY ANIMAL GONZO, BEAKER DIGIT MITT MOTORCYCLE",
+            "    CHEF BARTENDER HOST SERVER are all jobs in the restaurant industry (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF BARTENDER HOST SERVER are all jobs in the restaurant industry, CAR BUS SCOOTER MOTORCYCLE are all modes of transportation (left: DOG ANIMAL MITT TRUCK DIGIT BEAKER PIGGY GONZO)\n    CHEF BARTENDER HOST SERVER are all jobs in the restaurant industry, CAR BUS SCOOTER MOTORCYCLE are all modes of transportation, DOG ANIMAL PIGGY GONZO are all Muppet characters (left: MITT TRUCK DIGIT BEAKER)\n    CHEF BARTENDER HOST SERVER are all jobs in the restaurant industry, CAR BUS SCOOTER MOTORCYCLE are all modes of transportation, DOG ANIMAL PIGGY GONZO are all Muppet characters, MITT TRUCK DIGIT BEAKER are all words that can follow the word HAND.\nOutput: CHEF BARTENDER HOST SERVER, CAR BUS SCOOTER MOTORCYCLE, DOG ANIMAL PIGGY GONZO, MITT TRUCK DIGIT BEAKER",
+            "    CHEF HOST SERVER BARTENDER are all jobs in the service industry (left: DOG ANIMAL CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER PIGGY GONZO MOTORCYCLE)\n    CHEF HOST SERVER BARTENDER are all jobs in the service industry, DOG PIGGY ANIMAL GONZO are all names of Muppets characters (left: CAR MITT BUS SCOOTER TRUCK DIGIT BEAKER MOTORCYCLE)\n    CHEF HOST SERVER BARTENDER are all jobs in the service industry, DOG PIGGY ANIMAL GONZO are all names of Muppets characters, BUS CAR SCOOTER MOTORCYCLE are all modes of transportation (left: MITT TRUCK DIGIT BEAKER)\n    CHEF HOST SERVER BARTENDER are all jobs in the service industry, DOG PIGGY ANIMAL GONZO are all names of Muppets characters, BUS CAR SCOOTER MOTORCYCLE are all modes of transportation, MITT TRUCK DIGIT BEAKER are all items found in a science lab\nOutput: CHEF HOST SERVER BARTENDER, DOG PIGGY ANIMAL GONZO, BUS CAR SCOOTER MOTORCYCLE, MITT TRUCK DIGIT BEAKER"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 4602,
+            "prompt_tokens": 1797,
+            "cost": 0.33003000000000005
+        }
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "    FLOAT HOVER SHAKE SPLIT are synonyms for tremble (left: STAR FIRM CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE SPLIT are synonyms for tremble, CONCRETE FIRM SOLID TANGIBLE are synonyms for hard (left: STAR SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE SPLIT are synonyms for tremble, CONCRETE FIRM SOLID TANGIBLE are synonyms for hard, DASH KEY OLD STAR are all types of keys on a keyboard (left: SUNDAE GLASS MALT SIGNS)\n    FLOAT HOVER SHAKE SPLIT are synonyms for tremble, CONCRETE FIRM SOLID TANGIBLE are synonyms for hard, DASH KEY OLD STAR are all types of keys on a keyboard, GLASS MALT SIGNS SUNDAE can all follow the word Milk\nOutput: FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, DASH KEY OLD STAR, GLASS MALT SIGNS SUNDAE",
+            "    FLOAT HOVER SHAKE STAR verbs associated with movement (left: FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE STAR verbs associated with movement, CONCRETE FIRM SOLID TANGIBLE synonyms for hard or tangible (left: SPLIT SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR verbs associated with movement, CONCRETE FIRM SOLID TANGIBLE synonyms for hard or tangible, DASH KEY SIGNS SPLIT are connected with a keyboard (left: SUNDAE GLASS OLD MALT)\n    FLOAT HOVER SHAKE STAR verbs associated with movement, CONCRETE FIRM SOLID TANGIBLE synonyms for hard or tangible, DASH KEY SIGNS SPLIT are connected with a keyboard, GLASS MALT OLD SUNDAE are related to drinks\nOutput: FLOAT HOVER SHAKE STAR, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SPLIT, GLASS MALT OLD SUNDAE",
+            "    FLOAT HOVER SHAKE STAR are synonyms for move slightly (left: FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE STAR are synonyms for move slightly, CONCRETE FIRM SOLID TANGIBLE are synonyms for physically exist (left: SPLIT SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR are synonyms for move slightly, CONCRETE FIRM SOLID TANGIBLE are synonyms for physically exist, DASH KEY SIGNS SPLIT are parts of a keyboard (left: SUNDAE GLASS OLD MALT)\n    FLOAT HOVER SHAKE STAR are synonyms for move slightly, CONCRETE FIRM SOLID TANGIBLE are synonyms for physically exist, DASH KEY SIGNS SPLIT are parts of a keyboard, GLASS MALT OLD SUNDAE are components for making a malt shake\nOutput: FLOAT HOVER SHAKE STAR, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SPLIT, GLASS MALT OLD SUNDAE",
+            "    FLOAT HOVER SHAKE STAR can all represent movement (left: FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE STAR can all represent movement, CONCRETE FIRM SOLID TANGIBLE are synonyms for something hard or unyielding (left: SPLIT SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR can all represent movement, CONCRETE FIRM SOLID TANGIBLE are synonyms for something hard or unyielding, DASH KEY SIGNS SPLIT can be associated with a keyboard (left: SUNDAE GLASS OLD MALT)\n    FLOAT HOVER SHAKE STAR can all represent movement, CONCRETE FIRM SOLID TANGIBLE are synonyms for something hard or unyielding, DASH KEY SIGNS SPLIT can be associated with a keyboard, GLASS MALT OLD SUNDAE words that can follow the word 'milk'\nOutput: FLOAT HOVER SHAKE STAR, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SPLIT, GLASS MALT OLD SUNDAE",
+            "    FLOAT HOVER SHAKE STAR are words associated with movement in the air (left: FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE STAR are words associated with movement in the air, CONCRETE FIRM SOLID TANGIBLE are synonyms for something physically substantial (left: SPLIT SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR are words associated with movement in the air, CONCRETE FIRM SOLID TANGIBLE are synonyms for something physically substantial, DASH KEY SPLIT STAR are part of a keyboard (left: SUNDAE GLASS OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR are words associated with movement in the air, CONCRETE FIRM SOLID TANGIBLE are synonyms for something physically substantial, DASH KEY SPLIT STAR are part of a keyboard, GLASS MALT OLD SUNDAE can be associated with a milkshake\nOutput: FLOAT HOVER SHAKE STAR, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SPLIT STAR, GLASS MALT OLD SUNDAE",
+            "    FLOAT HOVER SHAKE SPLIT are all synonyms of Quiver (left: STAR FIRM CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE SPLIT are all synonyms of Quiver, CONCRETE FIRM SOLID TANGIBLE are all synonyms of Hard (left: STAR SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE SPLIT are all synonyms of Quiver, CONCRETE FIRM SOLID TANGIBLE are all synonyms of Hard, KEY SIGNS STAR SUNDAE can be used to make a game of Monopoly (left: GLASS OLD MALT DASH)\n    FLOAT HOVER SHAKE SPLIT are all synonyms of Quiver, CONCRETE FIRM SOLID TANGIBLE are all synonyms of Hard, KEY SIGNS STAR SUNDAE can be used to make a game of Monopoly, GLASS OLD MALT DASH can be found in a pub\nOutput: FLOAT HOVER SHAKE SPLIT, CONCRETE FIRM SOLID TANGIBLE, KEY SIGNS STAR SUNDAE, GLASS OLD MALT DASH",
+            "    FLOAT HOVER SHAKE STAR words that are also verbs (left: FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE STAR words that are also verbs, CONCRETE FIRM SOLID TANGIBLE words that mean physically existent (left: SPLIT SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR words that are also verbs, CONCRETE FIRM SOLID TANGIBLE words that mean physically existent, DASH KEY SIGNS SPLIT words that follow the word Car (left: SUNDAE GLASS OLD MALT)\n    FLOAT HOVER SHAKE STAR words that are also verbs, CONCRETE FIRM SOLID TANGIBLE words that mean physically existent, DASH KEY SIGNS SPLIT words that follow the word Car, GLASS MALT OLD SUNDAE components of a malted milkshake\nOutput: FLOAT HOVER SHAKE STAR, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SPLIT, GLASS MALT OLD SUNDAE",
+            "    FLOAT HOVER SHAKE STAR verbs related to movement (left: FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE STAR verbs related to movement, CONCRETE FIRM SOLID TANGIBLE synonyms for hard or substantial (left: SPLIT SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR verbs related to movement, CONCRETE FIRM SOLID TANGIBLE synonyms for hard or substantial, DASH KEY SIGNS SPLIT words that can follow the word \"keyboard\" (left: SUNDAE GLASS OLD MALT)\n    FLOAT HOVER SHAKE STAR verbs related to movement, CONCRETE FIRM SOLID TANGIBLE synonyms for hard or substantial, DASH KEY SIGNS SPLIT words that can follow the word \"keyboard\", GLASS MALT OLD SUNDAE components of a malt sundae\nOutput: FLOAT HOVER SHAKE STAR, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SPLIT, GLASS MALT OLD SUNDAE",
+            "    FLOAT HOVER SHAKE STAR words that describe moving in the air (left: FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE STAR words that describe moving in the air, CONCRETE FIRM SOLID TANGIBLE synonyms for strong and unyielding (left: SPLIT SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR words that describe moving in the air, CONCRETE FIRM SOLID TANGIBLE synonyms for strong and unyielding, DASH KEY SIGNS SPLIT words that follow the word Door (left: SUNDAE GLASS OLD MALT)\n    FLOAT HOVER SHAKE STAR words that describe moving in the air, CONCRETE FIRM SOLID TANGIBLE synonyms for strong and unyielding, DASH KEY SIGNS SPLIT words that follow the word Door, GLASS MALT OLD SUNDAE words that follow the word Milk\nOutput: FLOAT HOVER SHAKE STAR, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SPLIT, GLASS MALT OLD SUNDAE",
+            "    FLOAT HOVER SHAKE STAR are synonyms for Tremble (left: FIRM SPLIT CONCRETE SUNDAE GLASS KEY SOLID DASH OLD MALT SIGNS TANGIBLE)\n    FLOAT HOVER SHAKE STAR are synonyms for Tremble, CONCRETE FIRM SOLID TANGIBLE all mean solid or substantial (left: SPLIT SUNDAE GLASS KEY DASH OLD MALT SIGNS)\n    FLOAT HOVER SHAKE STAR are synonyms for Tremble, CONCRETE FIRM SOLID TANGIBLE all mean solid or substantial, DASH KEY SIGNS SPLIT all have to do with keys or keyboards (left: SUNDAE GLASS OLD MALT)\n    FLOAT HOVER SHAKE STAR are synonyms for Tremble, CONCRETE FIRM SOLID TANGIBLE all mean solid or substantial, DASH KEY SIGNS SPLIT all have to do with keys or keyboards, GLASS MALT OLD SUNDAE all have to do with drinks or drinking\nOutput: FLOAT HOVER SHAKE STAR, CONCRETE FIRM SOLID TANGIBLE, DASH KEY SIGNS SPLIT, GLASS MALT OLD SUNDAE"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 7025,
+            "prompt_tokens": 2698,
+            "cost": 0.50244
+        }
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "    FALL DROP DIP SINK are synonyms for descend (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n    FALL DROP DIP SINK are synonyms for descend, KEYS NICKS SPRING TAP can all follow the word Car (left: STRONG SWIFT SOUND FIT SUMMER FOUNTAIN HEALTHY WELL)\n    FALL DROP DIP SINK are synonyms for descend, KEYS NICKS SPRING TAP can all follow the word Car, FIT HEALTHY STRONG SWIFT are synonyms for fit (left: SOUND SUMMER FOUNTAIN WELL)\n    FALL DROP DIP SINK are synonyms for descend, KEYS NICKS SPRING TAP can all follow the word Car, FIT HEALTHY STRONG SWIFT are synonyms for fit, FOUNTAIN SOUND SUMMER WELL all have to do with water\nOutput: FALL DROP DIP SINK, KEYS NICKS SPRING TAP, FIT HEALTHY STRONG SWIFT, FOUNTAIN SOUND SUMMER WELL",
+            "    FALL DROP DIP SINK are synonyms for decrease (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n    FALL DROP DIP SINK are synonyms for decrease, STRONG SOUND SWIFT WELL are words that can be followed by the word 'Wind' (left: KEYS SPRING FIT SUMMER TAP FOUNTAIN NICKS HEALTHY)\n    FALL DROP DIP SINK are synonyms for decrease, STRONG SOUND SWIFT WELL are words that can be followed by the word 'Wind', KEYS NICKS SUMMER TAP are words that can be followed by the word 'Water' (left: SPRING FIT FOUNTAIN HEALTHY)\n    FALL DROP DIP SINK are synonyms for decrease, STRONG SOUND SWIFT WELL are words that can be followed by the word 'Wind', KEYS NICKS SUMMER TAP are words that can be followed by the word 'Water', SPRING FIT FOUNTAIN HEALTHY are words that can be followed by the word 'Well'\nOutput: FALL DROP DIP SINK, STRONG SOUND SWIFT WELL, KEYS NICKS SUMMER TAP, SPRING FIT FOUNTAIN HEALTHY",
+            "    DROP DIP SINK FALL are synonyms for descend (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n    DROP DIP SINK FALL are synonyms for descend, KEYS NICKS SOUND SWIFT are musicians (left: STRONG SPRING FIT SUMMER TAP FOUNTAIN HEALTHY WELL)\n    DROP DIP SINK FALL are synonyms for descend, KEYS NICKS SOUND SWIFT are musicians, STRONG FIT HEALTHY WELL are synonyms for being in good health (left: SPRING SUMMER TAP FOUNTAIN)\n    DROP DIP SINK FALL are synonyms for descend, KEYS NICKS SOUND SWIFT are musicians, STRONG FIT HEALTHY WELL are synonyms for being in good health, SPRING SUMMER TAP FOUNTAIN are all sources of water\nOutput: DROP DIP SINK FALL, KEYS NICKS SOUND SWIFT, STRONG FIT HEALTHY WELL, SPRING SUMMER TAP FOUNTAIN",
+            "    FALL DROP DIP SINK are synonyms for a downward movement (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n    FALL DROP DIP SINK are synonyms for a downward movement, STRONG SWIFT SOUND HEALTHY are adjectives that describe a body or person positively (left: KEYS SPRING FIT SUMMER TAP FOUNTAIN NICKS WELL)\n    FALL DROP DIP SINK are synonyms for a downward movement, STRONG SWIFT SOUND HEALTHY are adjectives that describe a body or person positively, KEYS NICKS SPRING SUMMER are artist names (left: FIT TAP FOUNTAIN WELL)\n    FALL DROP DIP SINK are synonyms for a downward movement, STRONG SWIFT SOUND HEALTHY are adjectives that describe a body or person positively, KEYS NICKS SPRING SUMMER are artist names, FIT TAP FOUNTAIN WELL are sources of water\nOutput: FALL DROP DIP SINK, STRONG SWIFT SOUND HEALTHY, KEYS NICKS SPRING SUMMER, FIT TAP FOUNTAIN WELL",
+            "    DROP FALL SINK DIP are synonyms of descend (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n    DROP FALL SINK DIP are synonyms of descend, KEYS SPRING SUMMER FALL are seasons (left: STRONG SWIFT SOUND FIT TAP FOUNTAIN NICKS HEALTHY WELL)\n    DROP FALL SINK DIP are synonyms of descend, KEYS SPRING SUMMER FALL are seasons, FOUNTAIN STRONG SWIFT WELL are words associated with water sources (left: SOUND FIT TAP NICKS HEALTHY)\n    DROP FALL SINK DIP are synonyms of descend, KEYS SPRING SUMMER FALL are seasons, FOUNTAIN STRONG SWIFT WELL are words associated with water sources, SOUND FIT TAP NICKS are all related to music\nOutput: DROP FALL SINK DIP, KEYS SPRING SUMMER FALL, FOUNTAIN STRONG SWIFT WELL, SOUND FIT TAP NICKS",
+            "    STRONG SWIFT SOUND HEALTHY are all adjectives (left: FALL DROP KEYS SPRING SINK FIT DIP SUMMER TAP FOUNTAIN NICKS WELL)\n    STRONG SWIFT SOUND HEALTHY are all adjectives, FALL DROP DIP SINK are verbs for moving downward (left: KEYS SPRING FIT SUMMER TAP FOUNTAIN NICKS WELL)\n    STRONG SWIFT SOUND HEALTHY are all adjectives, FALL DROP DIP SINK are verbs for moving downward, KEYS NICKS SPRING SUMMER are all musicians (left: FIT TAP FOUNTAIN WELL)\n    STRONG SWIFT SOUND HEALTHY are all adjectives, FALL DROP DIP SINK are verbs for moving downward, KEYS NICKS SPRING SUMMER are all musicians, FIT TAP FOUNTAIN WELL are all types of water sources\nOutput: STRONG SWIFT SOUND HEALTHY, FALL DROP DIP SINK, KEYS NICKS SPRING SUMMER, FIT TAP FOUNTAIN WELL",
+            "    DROP FALL SINK DIP are synonyms of descend (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n    DROP FALL SINK DIP are synonyms of descend, KEYS NICKS SOUND TAP are related to music (left: STRONG SWIFT SPRING FIT SUMMER FOUNTAIN HEALTHY WELL)\n    DROP FALL SINK DIP are synonyms of descend, KEYS NICKS SOUND TAP are related to music, SPRING SUMMER FALL FIT are seasons (left: STRONG SWIFT FOUNTAIN HEALTHY WELL)\n    DROP FALL SINK DIP are synonyms of descend, KEYS NICKS SOUND TAP are related to music, SPRING SUMMER FALL FIT are seasons, STRONG SWIFT HEALTHY WELL are synonyms of fit\nOutput: DROP FALL SINK DIP, KEYS NICKS SOUND TAP, SPRING SUMMER FALL FIT, STRONG SWIFT HEALTHY WELL",
+            "    DROP FALL SINK SWIFT words that mean to fall or move down quickly (left: STRONG KEYS SPRING SOUND FIT DIP SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n    DROP FALL SINK SWIFT words that mean to fall or move down quickly, KEYS NICKS TAP WELL are words related to water supply (left: STRONG SPRING SOUND FIT DIP SUMMER FOUNTAIN HEALTHY)\n    DROP FALL SINK SWIFT words that mean to fall or move down quickly, KEYS NICKS TAP WELL are words related to water supply, FIT HEALTHY STRONG SWIFT are words describing good physical condition (left: SPRING SOUND DIP SUMMER FOUNTAIN)\n    DROP FALL SINK SWIFT words that mean to fall or move down quickly, KEYS NICKS TAP WELL are words related to water supply, FIT HEALTHY STRONG SWIFT are words describing good physical condition, DIP FOUNTAIN SPRING SUMMER are words related to seasons and water features\nOutput: DROP FALL SINK SWIFT, KEYS NICKS TAP WELL, FIT HEALTHY STRONG SWIFT, DIP FOUNTAIN SPRING SUMMER",
+            "    FALL DROP DIP SINK are synonyms for descend (left: STRONG SWIFT KEYS SPRING SOUND FIT SUMMER TAP FOUNTAIN NICKS HEALTHY WELL)\n    FALL DROP DIP SINK are synonyms for descend, KEYS NICKS TAP WELL are all related to water (left: STRONG SWIFT SPRING SOUND FIT SUMMER FOUNTAIN HEALTHY)\n    FALL DROP DIP SINK are synonyms for descend, KEYS NICKS TAP WELL are all related to water, SPRING SUMMER FALL FIT are all Seasons (left: STRONG SWIFT SOUND FOUNTAIN HEALTHY)\n    FALL DROP DIP SINK are synonyms for descend, KEYS NICKS TAP WELL are all related to water, SPRING SUMMER FALL FIT are all Seasons, STRONG SWIFT SOUND HEALTHY are words that follow the word 'Taylor' \nOutput: FALL DROP DIP SINK, KEYS NICKS TAP WELL, SPRING SUMMER FALL FIT, STRONG SWIFT SOUND HEALTHY",
+            "    DROP FALL SINK WELL are synonyms for decrease (left: STRONG SWIFT KEYS SPRING SOUND FIT DIP SUMMER TAP FOUNTAIN NICKS HEALTHY)\n    DROP FALL SINK WELL are synonyms for decrease, KEYS NICKS SPRING TAP are synonyms for bounce (left: STRONG SWIFT SOUND FIT DIP SUMMER FOUNTAIN HEALTHY)\n    DROP FALL SINK WELL are synonyms for decrease, KEYS NICKS SPRING TAP are synonyms for bounce, SOUND STRONG SWIFT HEALTHY describe someone's condition (left: FIT DIP SUMMER FOUNTAIN)\n    DROP FALL SINK WELL are synonyms for decrease, KEYS NICKS SPRING TAP are synonyms for bounce, SOUND STRONG SWIFT HEALTHY describe someone's condition, DIP FIT FOUNTAIN SUMMER related to water.\nOutput: DROP FALL SINK WELL, KEYS NICKS SPRING TAP, SOUND STRONG SWIFT HEALTHY, DIP FIT FOUNTAIN SUMMER"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 9277,
+            "prompt_tokens": 3597,
+            "cost": 0.6645299999999998
+        }
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "    BIRD DINOSAUR FISH MAMMAL are all types of animals (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n    BIRD DINOSAUR FISH MAMMAL are all types of animals, CLEAVER LADLE WHISK PEELER are all kitchen utensils (left: PRINCESS PARTRIDGE MUSHROOM REPTILE PLUMBER TANNER GRATER BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are all types of animals, CLEAVER LADLE WHISK PEELER are all kitchen utensils, PRINCESS PLUMBER TANNER BUNKER are all occupations (left: PARTRIDGE MUSHROOM REPTILE GRATER)\n    BIRD DINOSAUR FISH MAMMAL are all types of animals, CLEAVER LADLE WHISK PEELER are all kitchen utensils, PRINCESS PLUMBER TANNER BUNKER are all occupations, PARTRIDGE MUSHROOM REPTILE GRATER follow the word Cheese\nOutput: BIRD DINOSAUR FISH MAMMAL, CLEAVER LADLE WHISK PEELER, PRINCESS PLUMBER TANNER BUNKER, PARTRIDGE MUSHROOM REPTILE GRATER",
+            "    BIRD DINOSAUR FISH MAMMAL represent different animal classifications (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n    BIRD DINOSAUR FISH MAMMAL represent different animal classifications, CLEAVER GRATER LADLE PEELER are kitchen utensils (left: PRINCESS PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER BUNKER)\n    BIRD DINOSAUR FISH MAMMAL represent different animal classifications, CLEAVER GRATER LADLE PEELER are kitchen utensils, BUNKER PARTRIDGE PRINCESS TANNER are characters in TV shows (left: MUSHROOM REPTILE PLUMBER WHISK)\n    BIRD DINOSAUR FISH MAMMAL represent different animal classifications, CLEAVER GRATER LADLE PEELER are kitchen utensils, BUNKER PARTRIDGE PRINCESS TANNER are characters in TV shows, MUSHROOM PLUMBER REPTILE WHISK are all related to Super Mario Bros\nOutput: BIRD DINOSAUR FISH MAMMAL, CLEAVER GRATER LADLE PEELER, BUNKER PARTRIDGE PRINCESS TANNER, MUSHROOM PLUMBER REPTILE WHISK",
+            "    BIRD DINOSAUR FISH MAMMAL are all animals (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n    BIRD DINOSAUR FISH MAMMAL are all animals, CLEAVER GRATER LADLE PEELER are all kitchen utensils (left: PRINCESS PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are all animals, CLEAVER GRATER LADLE PEELER are all kitchen utensils, BUNKER PARTRIDGE PLUMBER TANNER are professions or titles (left: PRINCESS MUSHROOM REPTILE WHISK)\n    BIRD DINOSAUR FISH MAMMAL are all animals, CLEAVER GRATER LADLE PEELER are all kitchen utensils, BUNKER PARTRIDGE PLUMBER TANNER are professions or titles, PRINCESS MUSHROOM REPTILE WHISK follow the word Fairy\nOutput: BIRD DINOSAUR FISH MAMMAL, CLEAVER GRATER LADLE PEELER, BUNKER PARTRIDGE PLUMBER TANNER, PRINCESS MUSHROOM REPTILE WHISK",
+            "    CLEAVER LADLE WHISK GRATER are all kitchen utensils (left: FISH PRINCESS DINOSAUR PARTRIDGE BIRD MUSHROOM REPTILE PLUMBER TANNER BUNKER PEELER MAMMAL)\n    CLEAVER LADLE WHISK GRATER are all kitchen utensils, BIRD DINOSAUR MAMMAL REPTILE are types of animals (left: FISH PRINCESS PARTRIDGE MUSHROOM PLUMBER TANNER BUNKER PEELER)\n    CLEAVER LADLE WHISK GRATER are all kitchen utensils, BIRD DINOSAUR MAMMAL REPTILE are types of animals, BUNKER FISH PEELER TANNER types of professions (left: PRINCESS PARTRIDGE MUSHROOM PLUMBER)\n    CLEAVER LADLE WHISK GRATER are all kitchen utensils, BIRD DINOSAUR MAMMAL REPTILE are types of animals, BUNKER FISH PEELER TANNER types of professions, MUSHROOM PARTRIDGE PLUMBER PRINCESS each have a different type of fungi in their name\n\nOutput: CLEAVER LADLE WHISK GRATER, BIRD DINOSAUR MAMMAL REPTILE, BUNKER FISH PEELER TANNER, MUSHROOM PARTRIDGE PLUMBER PRINCESS",
+            "    BIRD DINOSAUR FISH MAMMAL are all animal classes (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n    BIRD DINOSAUR FISH MAMMAL are all animal classes, CLEAVER GRATER LADLE PEELER are kitchen utensils (left: PRINCESS PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are all animal classes, CLEAVER GRATER LADLE PEELER are kitchen utensils, PARTRIDGE PRINCESS REPTILE TANNER are all job titles in the middle ages (left: MUSHROOM PLUMBER WHISK BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are all animal classes, CLEAVER GRATER LADLE PEELER are kitchen utensils, PARTRIDGE PRINCESS REPTILE TANNER are all job titles in the middle ages, BUNKER MUSHROOM PLUMBER WHISK all follow the word Mushroom in some context\nOutput: BIRD DINOSAUR FISH MAMMAL, CLEAVER GRATER LADLE PEELER, PARTRIDGE PRINCESS REPTILE TANNER, BUNKER MUSHROOM PLUMBER WHISK",
+            "    BIRD DINOSAUR FISH REPTILE are all animals (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER MAMMAL)\n    BIRD DINOSAUR FISH REPTILE are all animals, CLEAVER GRATER LADLE PEELER are all kitchen utensils (left: PRINCESS PARTRIDGE MUSHROOM PLUMBER WHISK TANNER BUNKER MAMMAL)\n    BIRD DINOSAUR FISH REPTILE are all animals, CLEAVER GRATER LADLE PEELER are all kitchen utensils, BUNKER PARTRIDGE PLUMBER TANNER are all professions (left: PRINCESS MUSHROOM WHISK MAMMAL)\n    BIRD DINOSAUR FISH REPTILE are all animals, CLEAVER GRATER LADLE PEELER are all kitchen utensils, BUNKER PARTRIDGE PLUMBER TANNER are all professions, MAMMAL MUSHROOM PRINCESS WHISK are all in the title of popular children's books\nOutput: BIRD DINOSAUR FISH REPTILE, CLEAVER GRATER LADLE PEELER, BUNKER PARTRIDGE PLUMBER TANNER, MAMMAL MUSHROOM PRINCESS WHISK",
+            "    BIRD DINOSAUR FISH MAMMAL are all animal groups (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n    BIRD DINOSAUR FISH MAMMAL are all animal groups, CLEAVER GRATER LADLE PEELER are all kitchen utensils (left: PRINCESS PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are all animal groups, CLEAVER GRATER LADLE PEELER are all kitchen utensils, PRINCESS PLUMBER TANNER WHISK are all job titles (left: PARTRIDGE MUSHROOM REPTILE BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are all animal groups, CLEAVER GRATER LADLE PEELER are all kitchen utensils, PRINCESS PLUMBER TANNER WHISK are all job titles, BUNKER MUSHROOM PARTRIDGE REPTILE are all words from 'Super Mario Bros' game series\nOutput: BIRD DINOSAUR FISH MAMMAL, CLEAVER GRATER LADLE PEELER, PRINCESS PLUMBER TANNER WHISK, BUNKER MUSHROOM PARTRIDGE REPTILE",
+            "    BIRD DINOSAUR FISH REPTILE are types of animals (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM PLUMBER WHISK TANNER GRATER BUNKER PEELER MAMMAL)\n    BIRD DINOSAUR FISH REPTILE are types of animals, CLEAVER LADLE PEELER WHISK are kitchen utensils (left: PRINCESS PARTRIDGE MUSHROOM PLUMBER TANNER GRATER BUNKER MAMMAL)\n    BIRD DINOSAUR FISH REPTILE are types of animals, CLEAVER LADLE PEELER WHISK are kitchen utensils, BUNKER GRATER PLUMBER TANNER jobs that end in -er (left: PRINCESS PARTRIDGE MUSHROOM MAMMAL)\n    BIRD DINOSAUR FISH REPTILE are types of animals, CLEAVER LADLE PEELER WHISK are kitchen utensils, BUNKER GRATER PLUMBER TANNER jobs that end in -er, MAMMAL MUSHROOM PARTRIDGE PRINCESS things associated with Christmas in some way\nOutput: BIRD DINOSAUR FISH REPTILE, CLEAVER LADLE PEELER WHISK, BUNKER GRATER PLUMBER TANNER, MAMMAL MUSHROOM PARTRIDGE PRINCESS",
+            "    BIRD DINOSAUR FISH MAMMAL are all animal classes (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n    BIRD DINOSAUR FISH MAMMAL are all animal classes, CLEAVER GRATER PEELER WHISK are kitchen utensils (left: PRINCESS LADLE PARTRIDGE MUSHROOM REPTILE PLUMBER TANNER BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are all animal classes, CLEAVER GRATER PEELER WHISK are kitchen utensils, LADLE MUSHROOM PLUMBER PRINCESS professions in the Mario universe (left: PARTRIDGE REPTILE TANNER BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are all animal classes, CLEAVER GRATER PEELER WHISK are kitchen utensils, LADLE MUSHROOM PLUMBER PRINCESS professions in the Mario universe, BUNKER PARTRIDGE REPTILE TANNER words that follow the word \"The\" in movie titles\nOutput: BIRD DINOSAUR FISH MAMMAL, CLEAVER GRATER PEELER WHISK, LADLE MUSHROOM PLUMBER PRINCESS, BUNKER PARTRIDGE REPTILE TANNER",
+            "    BIRD DINOSAUR FISH MAMMAL are different classes of animals (left: CLEAVER PRINCESS LADLE PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER GRATER BUNKER PEELER)\n    BIRD DINOSAUR FISH MAMMAL are different classes of animals, CLEAVER GRATER LADLE PEELER are kitchen utensils (left: PRINCESS PARTRIDGE MUSHROOM REPTILE PLUMBER WHISK TANNER BUNKER)\n    BIRD DINOSAUR FISH MAMMAL are different classes of animals, CLEAVER GRATER LADLE PEELER are kitchen utensils, BUNKER PLUMBER TANNER WHISK are jobs (left: PRINCESS PARTRIDGE MUSHROOM REPTILE)\n    BIRD DINOSAUR FISH MAMMAL are different classes of animals, CLEAVER GRATER LADLE PEELER are kitchen utensils, BUNKER PLUMBER TANNER WHISK are jobs, MUSHROOM PARTRIDGE PRINCESS REPTILE are connected to the word \"in\" - \"in a pear tree\", \"in Mario\", \"in a castle\", \"in a pet shop\"\nOutput: BIRD DINOSAUR FISH MAMMAL, CLEAVER GRATER LADLE PEELER, BUNKER PLUMBER TANNER WHISK, MUSHROOM PARTRIDGE PRINCESS REPTILE"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 12300,
+            "prompt_tokens": 4512,
+            "cost": 0.8733599999999999
+        }
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "    TRAIN TUBE RING SPARROW are all part of the London Underground (left: COAT GRAM MA BLACK BOOK CAKE FROST BOUQUET CRUST VEIL COVER IN)\n    TRAIN TUBE RING SPARROW are all part of the London Underground, COAT VEIL COVER CRUST all mean to cover something (left: GRAM MA BLACK BOOK CAKE FROST BOUQUET IN)\n    TRAIN TUBE RING SPARROW are all part of the London Underground, COAT VEIL COVER CRUST all mean to cover something, GRAM MA BOOK IN are all units of measurement (left: BLACK CAKE FROST BOUQUET)\n    TRAIN TUBE RING SPARROW are all part of the London Underground, COAT VEIL COVER CRUST all mean to cover something, GRAM MA BOOK IN are all units of measurement, BLACK CAKE FROST BOUQUET are often found at weddings\nOutput: TRAIN TUBE RING SPARROW, COAT VEIL COVER CRUST, GRAM MA BOOK IN, BLACK CAKE FROST BOUQUET",
+            "    TRAIN VEIL BOUQUET RING are associated with a wedding (left: COAT GRAM MA BLACK BOOK CAKE FROST TUBE CRUST COVER IN SPARROW)\n    TRAIN VEIL BOUQUET RING are associated with a wedding, CAKE CRUST FROST TUBE are associated with baking (left: COAT GRAM MA BLACK BOOK COVER IN SPARROW)\n    TRAIN VEIL BOUQUET RING are associated with a wedding, CAKE CRUST FROST TUBE are associated with baking, COAT COVER GRAM IN are all units of measurement (left: MA BLACK BOOK SPARROW)\n    TRAIN VEIL BOUQUET RING are associated with a wedding, CAKE CRUST FROST TUBE are associated with baking, COAT COVER GRAM IN are all units of measurement, MA BLACK BOOK SPARROW are words that can follow the word \"Jack\"\nOutput: TRAIN VEIL BOUQUET RING, CAKE CRUST FROST TUBE, COAT COVER GRAM IN, MA BLACK BOOK SPARROW",
+            "    TRAIN VEIL BOUQUET RING are associated with a wedding (left: COAT GRAM MA BLACK BOOK CAKE TUBE CRUST COVER IN SPARROW)\n    TRAIN VEIL BOUQUET RING are associated with a wedding, COAT COVER VEIL TUBE are things that cover something (left: GRAM MA BLACK BOOK CAKE CRUST IN SPARROW)\n    TRAIN VEIL BOUQUET RING are associated with a wedding, COAT COVER VEIL TUBE are things that cover something, BOOK GRAM IN SPARROW are things that can be read (left: MA BLACK CAKE CRUST)\n    TRAIN VEIL BOUQUET RING are associated with a wedding, COAT COVER VEIL TUBE are things that cover something, BOOK GRAM IN SPARROW are things that can be read, BLACK CAKE CRUST MA are words that can be followed by the word \"Pie\"\nOutput: TRAIN VEIL BOUQUET RING, COAT COVER VEIL TUBE, BOOK GRAM IN SPARROW, BLACK CAKE CRUST MA",
+            "    BOOK COVER RING VEIL things that cover or conceal something (left: TRAIN COAT GRAM MA BLACK CAKE FROST BOUQUET TUBE CRUST IN SPARROW)\n    BOOK COVER RING VEIL things that cover or conceal something, CAKE FROST CRUST TUBE types of baking or food prep (left: TRAIN COAT GRAM MA BLACK BOUQUET IN SPARROW)\n    BOOK COVER RING VEIL things that cover or conceal something, CAKE FROST CRUST TUBE types of baking or food prep, TRAIN GRAM IN SPARROW can be followed by the word Station (left: COAT MA BLACK BOUQUET)\n    BOOK COVER RING VEIL things that cover or conceal something, CAKE FROST CRUST TUBE types of baking or food prep, TRAIN GRAM IN SPARROW can be followed by the word Station, BLACK BOUQUET COAT MA words associated with funerals\nOutput: BOOK COVER RING VEIL, CAKE FROST CRUST TUBE, TRAIN GRAM IN SPARROW, BLACK BOUQUET COAT MA",
+            "    BLACK BOOK RING TRAIN words that follow the word Wedding (left: COAT GRAM MA CAKE FROST BOUQUET TUBE CRUST VEIL COVER IN SPARROW)\n    BLACK BOOK RING TRAIN words that follow the word Wedding, CAKE CRUST FROST TUBE words related to baking (left: COAT GRAM MA BOUQUET VEIL COVER IN SPARROW)\n    BLACK BOOK RING TRAIN words that follow the word Wedding, CAKE CRUST FROST TUBE words related to baking, BOUQUET COAT VEIL COAT words that are associated with weddings (left: GRAM MA IN SPARROW)\n    BLACK BOOK RING TRAIN words that follow the word Wedding, CAKE CRUST FROST TUBE words related to baking, BOUQUET COAT VEIL COAT words that are associated with weddings, GRAM IN MA SPARROW prepositions\nOutput: BLACK BOOK RING TRAIN, CAKE CRUST FROST TUBE, BOUQUET COAT VEIL COAT, GRAM IN MA SPARROW",
+            "    TRAIN VEIL BOUQUET RING are all associated with weddings (left: COAT GRAM MA BLACK BOOK CAKE FROST TUBE CRUST COVER IN SPARROW)\n    TRAIN VEIL BOUQUET RING are all associated with weddings, BLACK BOOK CAKE SPARROW are all things that can be red (left: COAT GRAM MA FROST TUBE CRUST COVER IN)\n    TRAIN VEIL BOUQUET RING are all associated with weddings, BLACK BOOK CAKE SPARROW are all things that can be red, COAT COVER TUBE IN are all things you can get inside of (left: GRAM MA FROST CRUST)\n    TRAIN VEIL BOUQUET RING are all associated with weddings, BLACK BOOK CAKE SPARROW are all things that can be red, COAT COVER TUBE IN are all things you can get inside of, GRAM MA FROST CRUST are all related to cold or freezing\nOutput: TRAIN VEIL BOUQUET RING, BLACK BOOK CAKE SPARROW, COAT COVER TUBE IN, GRAM MA FROST CRUST",
+            "    TRAIN VEIL COAT COVER are things that can be worn (left: GRAM MA BLACK BOOK CAKE RING FROST BOUQUET TUBE CRUST IN SPARROW)\n    TRAIN VEIL COAT COVER are things that can be worn, BOOK CAKE RING TUBE are all round (left: GRAM MA BLACK FROST BOUQUET CRUST IN SPARROW)\n    TRAIN VEIL COAT COVER are things that can be worn, BOOK CAKE RING TUBE are all round, BLACK FROST IN SPARROW are words that follow the word Jack (left: GRAM MA BOUQUET CRUST)\n    TRAIN VEIL COAT COVER are things that can be worn, BOOK CAKE RING TUBE are all round, BLACK FROST IN SPARROW are words that follow the word Jack, BOUQUET CRUST GRAM MA are all things you might find at a wedding\nOutput: TRAIN VEIL COAT COVER, BOOK CAKE RING TUBE, BLACK FROST IN SPARROW, BOUQUET CRUST GRAM MA",
+            "    BLACK BOOK COVER VEIL have synonyms that mean to hide (left: TRAIN COAT GRAM MA CAKE RING FROST BOUQUET TUBE CRUST IN SPARROW)\n    BLACK BOOK COVER VEIL have synonyms that mean to hide, CAKE CRUST FROST RING are often found on a cake (left: TRAIN COAT GRAM MA BOUQUET TUBE IN SPARROW)\n    BLACK BOOK COVER VEIL have synonyms that mean to hide, CAKE CRUST FROST RING are often found on a cake, BOUQUET COAT GRAM TRAIN are words that come after 'Steam' (left: MA TUBE IN SPARROW)\n    BLACK BOOK COVER VEIL have synonyms that mean to hide, CAKE CRUST FROST RING are often found on a cake, BOUQUET COAT GRAM TRAIN are words that come after 'Steam', MA IN SPARROW TUBE are words that precede 'Tube'\nOutput: BLACK BOOK COVER VEIL, CAKE CRUST FROST RING, BOUQUET COAT GRAM TRAIN, MA IN SPARROW TUBE",
+            "    BLACK BOOK RING SPARROW follow the word Jack (left: TRAIN COAT GRAM MA CAKE FROST BOUQUET TUBE CRUST VEIL COVER IN)\n    BLACK BOOK RING SPARROW follow the word Jack, CAKE CRUST FROST TUBE are all related to baking (left: TRAIN COAT GRAM MA BOUQUET VEIL COVER IN)\n    BLACK BOOK RING SPARROW follow the word Jack, CAKE CRUST FROST TUBE are all related to baking, BOUQUET COAT VEIL COVER things you can wear or hold in a wedding (left: TRAIN GRAM MA IN)\n    BLACK BOOK RING SPARROW follow the word Jack, CAKE CRUST FROST TUBE are all related to baking, BOUQUET COAT VEIL COVER things you can wear or hold in a wedding, TRAIN GRAM IN MA words that are part of a college education\nOutput: BLACK BOOK RING SPARROW, CAKE CRUST FROST TUBE, BOUQUET COAT VEIL COVER, TRAIN GRAM IN MA",
+            "    TRAIN VEIL RING BOUQUET are related to weddings (left: COAT GRAM MA BLACK BOOK CAKE FROST TUBE CRUST COVER IN SPARROW)\n    TRAIN VEIL RING BOUQUET are related to weddings, BOOK COVER TUBE COAT are all things that can be wrapped around something else (left: GRAM MA BLACK CAKE FROST CRUST IN SPARROW)\n    TRAIN VEIL RING BOUQUET are related to weddings, BOOK COVER TUBE COAT are all things that can be wrapped around something else, BLACK CAKE FROST CRUST are all related to baking a cake (left: GRAM MA IN SPARROW)\n    TRAIN VEIL RING BOUQUET are related to weddings, BOOK COVER TUBE COAT are all things that can be wrapped around something else, BLACK CAKE FROST CRUST are all related to baking a cake, GRAM MA IN SPARROW are all words that can be followed by the word 'phone'\nOutput: TRAIN VEIL RING BOUQUET, BOOK COVER TUBE COAT, BLACK CAKE FROST CRUST, GRAM MA IN SPARROW"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 14677,
+            "prompt_tokens": 5412,
+            "cost": 1.04298
+        }
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "    PYTHON BOA VIPER MAMBA are all types of snake (left: GARTER BRIEF MONTY DIGEST MOON SLIP ABSTRACT THONG RUNDOWN CIRCLE TEDDY HOUSE)\n    PYTHON BOA VIPER MAMBA are all types of snake, GARTER SLIP THONG TEDDY are all types of underwear (left: BRIEF MONTY DIGEST MOON ABSTRACT RUNDOWN CIRCLE HOUSE)\n    PYTHON BOA VIPER MAMBA are all types of snake, GARTER SLIP THONG TEDDY are all types of underwear, BRIEF DIGEST RUNDOWN ABSTRACT are all summaries (left: MONTY MOON CIRCLE HOUSE)\n    PYTHON BOA VIPER MAMBA are all types of snake, GARTER SLIP THONG TEDDY are all types of underwear, BRIEF DIGEST RUNDOWN ABSTRACT are all summaries, MONTY MOON CIRCLE HOUSE are all names of British comedians\nOutput: PYTHON BOA VIPER MAMBA, GARTER SLIP THONG TEDDY, BRIEF DIGEST RUNDOWN ABSTRACT, MONTY MOON CIRCLE HOUSE",
+            "    BRIEF DIGEST RUNDOWN ABSTRACT are synonyms of Summary (left: GARTER MONTY PYTHON MOON SLIP THONG BOA CIRCLE MAMBA TEDDY HOUSE VIPER)\n    BRIEF DIGEST RUNDOWN ABSTRACT are synonyms of Summary, GARTER SLIP TEDDY THONG are types of lingerie (left: MONTY PYTHON MOON BOA CIRCLE MAMBA HOUSE VIPER)\n    BRIEF DIGEST RUNDOWN ABSTRACT are synonyms of Summary, GARTER SLIP TEDDY THONG are types of lingerie, BOA MAMBA VIPER PYTHON are types of snakes (left: MOON CIRCLE HOUSE)\n    BRIEF DIGEST RUNDOWN ABSTRACT are synonyms of Summary, GARTER SLIP TEDDY THONG are types of lingerie, BOA MAMBA VIPER PYTHON are types of snakes, CIRCLE HOUSE MOON MONTY words that follow the word Full\nOutput: BRIEF DIGEST RUNDOWN ABSTRACT, GARTER SLIP TEDDY THONG, BOA MAMBA VIPER PYTHON, CIRCLE HOUSE MOON MONTY",
+            "    PYTHON MAMBA BOA VIPER are types of snakes (left: GARTER BRIEF MONTY DIGEST MOON SLIP ABSTRACT THONG RUNDOWN CIRCLE TEDDY HOUSE)\n    PYTHON MAMBA BOA VIPER are types of snakes, GARTER SLIP THONG TEDDY are types of lingerie (left: BRIEF MONTY DIGEST MOON ABSTRACT RUNDOWN CIRCLE HOUSE)\n    PYTHON MAMBA BOA VIPER are types of snakes, GARTER SLIP THONG TEDDY are types of lingerie, BRIEF DIGEST RUNDOWN ABSTRACT are synonyms for summary (left: MONTY MOON CIRCLE HOUSE)\n    PYTHON MAMBA BOA VIPER are types of snakes, GARTER SLIP THONG TEDDY are types of lingerie, BRIEF DIGEST RUNDOWN ABSTRACT are synonyms for summary, MONTY MOON CIRCLE HOUSE are words that can follow the word Full\nOutput: PYTHON MAMBA BOA VIPER, GARTER SLIP THONG TEDDY, BRIEF DIGEST RUNDOWN ABSTRACT, MONTY MOON CIRCLE HOUSE",
+            "    BRIEF SLIP TEDDY THONG are types of underwear (left: GARTER MONTY PYTHON DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA HOUSE VIPER)\n    BRIEF SLIP TEDDY THONG are types of underwear, GARTER PYTHON MAMBA VIPER are species of snakes (left: MONTY DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE HOUSE)\n    BRIEF SLIP TEDDY THONG are types of underwear, GARTER PYTHON MAMBA VIPER are species of snakes, MONTY PYTHON BOA MOON are words that can follow the word Full (left: DIGEST ABSTRACT RUNDOWN CIRCLE HOUSE)\n    BRIEF SLIP TEDDY THONG are types of underwear, GARTER PYTHON MAMBA VIPER are species of snakes, MONTY PYTHON BOA MOON are words that can follow the word Full, ABSTRACT CIRCLE DIGEST HOUSE are words that follow the word Round\nOutput: BRIEF SLIP TEDDY THONG, GARTER PYTHON MAMBA VIPER, MONTY PYTHON BOA MOON, ABSTRACT CIRCLE DIGEST HOUSE",
+            "    GARTER MAMBA PYTHON VIPER are all types of snakes (left: BRIEF MONTY DIGEST MOON SLIP ABSTRACT THONG BOA RUNDOWN CIRCLE TEDDY HOUSE)\n    GARTER MAMBA PYTHON VIPER are all types of snakes, BRIEF DIGEST RUNDOWN SLIP are all synonyms for summarize (left: MONTY MOON ABSTRACT THONG BOA CIRCLE TEDDY HOUSE)\n    GARTER MAMBA PYTHON VIPER are all types of snakes, BRIEF DIGEST RUNDOWN SLIP are all synonyms for summarize, MONTY MOON TEDDY THONG are all types of underwear (left: ABSTRACT BOA CIRCLE HOUSE)\n    GARTER MAMBA PYTHON VIPER are all types of snakes, BRIEF DIGEST RUNDOWN SLIP are all synonyms for summarize, MONTY MOON TEDDY THONG are all types of underwear, ABSTRACT BOA CIRCLE HOUSE are all types of dances\nOutput: GARTER MAMBA PYTHON VIPER, BRIEF DIGEST RUNDOWN SLIP, MONTY MOON TEDDY THONG, ABSTRACT BOA CIRCLE HOUSE",
+            "    PYTHON BOA MAMBA VIPER are all types of snakes (left: GARTER BRIEF MONTY DIGEST MOON SLIP ABSTRACT THONG RUNDOWN CIRCLE TEDDY HOUSE)\n    PYTHON BOA MAMBA VIPER are all types of snakes, BRIEF DIGEST RUNDOWN ABSTRACT are all summaries (left: GARTER MONTY MOON SLIP THONG CIRCLE TEDDY HOUSE)\n    PYTHON BOA MAMBA VIPER are all types of snakes, BRIEF DIGEST RUNDOWN ABSTRACT are all summaries, CIRCLE MOON MONTY TEDDY names used in nursery rhymes (left: GARTER SLIP THONG HOUSE)\n    PYTHON BOA MAMBA VIPER are all types of snakes, BRIEF DIGEST RUNDOWN ABSTRACT are all summaries, CIRCLE MOON MONTY TEDDY names used in nursery rhymes, GARTER SLIP THONG HOUSE are synonyms of Lingerie\nOutput: PYTHON BOA MAMBA VIPER, BRIEF DIGEST RUNDOWN ABSTRACT, CIRCLE MOON MONTY TEDDY, GARTER SLIP THONG HOUSE",
+            "    MONTY PYTHON GARTER VIPER are all types of snakes (left: BRIEF DIGEST MOON SLIP ABSTRACT THONG BOA RUNDOWN CIRCLE MAMBA TEDDY HOUSE)\n    MONTY PYTHON GARTER VIPER are all types of snakes, BRIEF SLIP THONG TEDDY are all types of underwear (left: DIGEST MOON ABSTRACT BOA RUNDOWN CIRCLE MAMBA HOUSE)\n    MONTY PYTHON GARTER VIPER are all types of snakes, BRIEF SLIP THONG TEDDY are all types of underwear, ABSTRACT DIGEST RUNDOWN SLIP are all synonyms for summarise (left: MOON BOA CIRCLE HOUSE MAMBA)\n    MONTY PYTHON GARTER VIPER are all types of snakes, BRIEF SLIP THONG TEDDY are all types of underwear, ABSTRACT DIGEST RUNDOWN SLIP are all synonyms for summarise, BOA CIRCLE HOUSE MAMBA are all words that follow the word \"Full\"\nOutput: MONTY PYTHON GARTER VIPER, BRIEF SLIP THONG TEDDY, ABSTRACT DIGEST RUNDOWN SLIP, BOA CIRCLE HOUSE MAMBA",
+            "    GARTER MAMBA PYTHON VIPER are all types of snakes (left: BRIEF MONTY DIGEST MOON SLIP ABSTRACT THONG BOA RUNDOWN CIRCLE TEDDY HOUSE)\n    GARTER MAMBA PYTHON VIPER are all types of snakes, MOON CIRCLE HOUSE SLIP are all dance moves (left: BRIEF MONTY DIGEST ABSTRACT THONG BOA RUNDOWN TEDDY)\n    GARTER MAMBA PYTHON VIPER are all types of snakes, MOON CIRCLE HOUSE SLIP are all dance moves, BRIEF DIGEST RUNDOWN ABSTRACT are all summaries (left: MONTY THONG BOA TEDDY)\n    GARTER MAMBA PYTHON VIPER are all types of snakes, MOON CIRCLE HOUSE SLIP are all dance moves, BRIEF DIGEST RUNDOWN ABSTRACT are all summaries, MONTY THONG BOA TEDDY are all types of underwear\nOutput: GARTER MAMBA PYTHON VIPER, MOON CIRCLE HOUSE SLIP, BRIEF DIGEST RUNDOWN ABSTRACT, MONTY THONG BOA TEDDY",
+            "    BOA MAMBA PYTHON VIPER are all types of snakes (left: GARTER BRIEF MONTY DIGEST MOON SLIP ABSTRACT THONG RUNDOWN CIRCLE TEDDY HOUSE)\n    BOA MAMBA PYTHON VIPER are all types of snakes, GARTER SLIP TEDDY THONG are types of underwear (left: BRIEF MONTY DIGEST MOON ABSTRACT RUNDOWN CIRCLE HOUSE)\n    BOA MAMBA PYTHON VIPER are all types of snakes, GARTER SLIP TEDDY THONG are types of underwear, ABSTRACT DIGEST MONTY RUNDOWN are words that can also be nouns and verbs (left: BRIEF MOON CIRCLE HOUSE)\n    BOA MAMBA PYTHON VIPER are all types of snakes, GARTER SLIP TEDDY THONG are types of underwear, ABSTRACT DIGEST MONTY RUNDOWN are words that can also be nouns and verbs, BRIEF CIRCLE HOUSE MOON are all things that can be drawn\nOutput: BOA MAMBA PYTHON VIPER, GARTER SLIP TEDDY THONG, ABSTRACT DIGEST MONTY RUNDOWN, BRIEF CIRCLE HOUSE MOON",
+            "    PYTHON BOA MAMBA VIPER are all types of snakes (left: GARTER BRIEF MONTY DIGEST MOON SLIP ABSTRACT THONG RUNDOWN CIRCLE TEDDY HOUSE)\n    PYTHON BOA MAMBA VIPER are all types of snakes, GARTER SLIP THONG TEDDY are types of lingerie (left: BRIEF MONTY DIGEST MOON ABSTRACT RUNDOWN CIRCLE HOUSE)\n    PYTHON BOA MAMBA VIPER are all types of snakes, GARTER SLIP THONG TEDDY are types of lingerie, BRIEF DIGEST RUNDOWN ABSTRACT are synonyms for summary (left: MONTY MOON CIRCLE HOUSE)\n    PYTHON BOA MAMBA VIPER are all types of snakes, GARTER SLIP THONG TEDDY are types of lingerie, BRIEF DIGEST RUNDOWN ABSTRACT are synonyms for summary, MONTY MOON CIRCLE HOUSE can be followed by the word \"the\"\nOutput: PYTHON BOA MAMBA VIPER, GARTER SLIP THONG TEDDY, BRIEF DIGEST RUNDOWN ABSTRACT, MONTY MOON CIRCLE HOUSE"
+        ],
+        "infos": [
+            {
+                "r": 4
+            },
+            {
+                "r": 4
+            },
+            {
+                "r": 4
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 4
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 17199,
+            "prompt_tokens": 6317,
+            "cost": 1.2214500000000001
+        }
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "    GUM LICORICE LOLLIPOP SUCKER are all candies (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP CHOCOLATE NEEDLE ACORN SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all candies, CONE ACORN NEEDLE POLLEN are related to trees (left: FOOL POTATO MARK FACE CHUMP CHOCOLATE SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all candies, CONE ACORN NEEDLE POLLEN are related to trees, CHOCOLATE POTATO SAP MARK can follow the word \"brown\" (left: FOOL FACE CHUMP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all candies, CONE ACORN NEEDLE POLLEN are related to trees, CHOCOLATE POTATO SAP MARK can follow the word \"brown\", FACE FOOL CHUMP HURRICANE are words that can be preceded by \"total\"\nOutput: GUM LICORICE LOLLIPOP SUCKER, CONE ACORN NEEDLE POLLEN, CHOCOLATE POTATO SAP MARK, FACE FOOL CHUMP HURRICANE",
+            "    CHOCOLATE CONE LICORICE LOLLIPOP are types of candies (left: GUM FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN SAP HURRICANE)\n    CHOCOLATE CONE LICORICE LOLLIPOP are types of candies, ACORN CONE NEEDLE POLLEN are parts of a tree (left: GUM FOOL POTATO MARK FACE CHUMP SUCKER SAP HURRICANE)\n    CHOCOLATE CONE LICORICE LOLLIPOP are types of candies, ACORN CONE NEEDLE POLLEN are parts of a tree, FACE FOOL MARK SUCKER words that follow the word April (left: GUM POTATO CHUMP SAP HURRICANE)\n    CHOCOLATE CONE LICORICE LOLLIPOP are types of candies, ACORN CONE NEEDLE POLLEN are parts of a tree, FACE FOOL MARK SUCKER words that follow the word April, CHUMP GUM HURRICANE SAP are words that follow the word Bubble\nOutput: CHOCOLATE CONE LICORICE LOLLIPOP, ACORN CONE NEEDLE POLLEN, FACE FOOL MARK SUCKER, CHUMP GUM HURRICANE SAP",
+            "    GUM LICORICE LOLLIPOP SUCKER types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP CHOCOLATE NEEDLE ACORN SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER types of candy, ACORN CONE NEEDLE POLLEN terms associated with trees (left: FOOL POTATO MARK FACE CHUMP CHOCOLATE SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER types of candy, ACORN CONE NEEDLE POLLEN terms associated with trees, CHOCOLATE FOOL POTATO SAP are edible things (left: MARK FACE CHUMP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER types of candy, ACORN CONE NEEDLE POLLEN terms associated with trees, CHOCOLATE FOOL POTATO SAP are edible things, CHUMP FACE HURRICANE MARK words that can follow the word Storm\nOutput: GUM LICORICE LOLLIPOP SUCKER, ACORN CONE NEEDLE POLLEN, CHOCOLATE FOOL POTATO SAP, CHUMP FACE HURRICANE MARK",
+            "    GUM LICORICE LOLLIPOP SUCKER are all types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP CHOCOLATE NEEDLE ACORN SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all types of candy, ACORN CONE NEEDLE POLLEN are parts of plants (left: FOOL POTATO MARK FACE CHUMP CHOCOLATE SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all types of candy, ACORN CONE NEEDLE POLLEN are parts of plants, CHOCOLATE FACE MARK POTATO are all types of chips (left: FOOL CHUMP SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all types of candy, ACORN CONE NEEDLE POLLEN are parts of plants, CHOCOLATE FACE MARK POTATO are all types of chips, CHUMP FOOL HURRICANE SAP all have double letters\nOutput: GUM LICORICE LOLLIPOP SUCKER, ACORN CONE NEEDLE POLLEN, CHOCOLATE FACE MARK POTATO, CHUMP FOOL HURRICANE SAP",
+            "    CONE ACORN POTATO CHOCOLATE are all things you can eat (left: GUM FOOL POLLEN MARK FACE CHUMP SUCKER NEEDLE SAP LOLLIPOP HURRICANE)\n    CONE ACORN POTATO CHOCOLATE are all things you can eat, GUM LOLLIPOP SAP SUCKER describe types of candy (left: FOOL POLLEN MARK FACE CHUMP NEEDLE HURRICANE)\n    CONE ACORN POTATO CHOCOLATE are all things you can eat, GUM LOLLIPOP SAP SUCKER describe types of candy, FOOL CHUMP FACE MARK are slang terms for a person (left: POLLEN NEEDLE HURRICANE)\n    CONE ACORN POTATO CHOCOLATE are all things you can eat, GUM LOLLIPOP SAP SUCKER describe types of candy, FOOL CHUMP FACE MARK are slang terms for a person, POLLEN NEEDLE HURRICANE all connect to natural disasters\nOutput: CONE ACORN POTATO CHOCOLATE, GUM LOLLIPOP SAP SUCKER, FOOL CHUMP FACE MARK, POLLEN NEEDLE HURRICANE",
+            "    CONE GUM LICORICE LOLLIPOP are types of candy (left: FOOL POTATO POLLEN MARK FACE CHUMP SUCKER CHOCOLATE NEEDLE ACORN SAP HURRICANE)\n    CONE GUM LICORICE LOLLIPOP are types of candy, CHUMP FACE FOOL SUCKER are synonyms for idiot (left: POTATO POLLEN MARK CHOCOLATE NEEDLE ACORN SAP HURRICANE)\n    CONE GUM LICORICE LOLLIPOP are types of candy, CHUMP FACE FOOL SUCKER are synonyms for idiot, MARK NEEDLE POTATO SAP can be associated with a doctor's visit (left: POLLEN CHOCOLATE ACORN HURRICANE)\n    CONE GUM LICORICE LOLLIPOP are types of candy, CHUMP FACE FOOL SUCKER are synonyms for idiot, MARK NEEDLE POTATO SAP can be associated with a doctor's visit, ACORN CHOCOLATE HURRICANE POLLEN are items with a rough or textured surface\nOutput: CONE GUM LICORICE LOLLIPOP, CHUMP FACE FOOL SUCKER, MARK NEEDLE POTATO SAP, ACORN CHOCOLATE HURRICANE POLLEN",
+            "    ACORN CONE GUM SAP are all types of tree products (left: FOOL POTATO POLLEN MARK FACE CHUMP SUCKER CHOCOLATE NEEDLE LICORICE LOLLIPOP HURRICANE)\n    ACORN CONE GUM SAP are all types of tree products, CHUMP FACE FOOL SUCKER are synonyms for idiot (left: POTATO POLLEN MARK CHOCOLATE NEEDLE LICORICE LOLLIPOP HURRICANE)\n    ACORN CONE GUM SAP are all types of tree products, CHUMP FACE FOOL SUCKER are synonyms for idiot, CHOCOLATE GUM LICORICE LOLLIPOP are all sweets (left: POTATO POLLEN MARK NEEDLE HURRICANE)\n    ACORN CONE GUM SAP are all types of tree products, CHUMP FACE FOOL SUCKER are synonyms for idiot, CHOCOLATE GUM LICORICE LOLLIPOP are all sweets, HURRICANE MARK NEEDLE POTATO are words that can follow the word \"potato\"\nOutput: ACORN CONE GUM SAP, CHUMP FACE FOOL SUCKER, CHOCOLATE GUM LICORICE LOLLIPOP, HURRICANE MARK NEEDLE POTATO",
+            "    CHOCOLATE GUM LICORICE LOLLIPOP types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN SAP HURRICANE)\n    CHOCOLATE GUM LICORICE LOLLIPOP types of candy, CHUMP FOOL MARK SUCKER words that refer to a gullible person (left: CONE POTATO POLLEN FACE NEEDLE ACORN SAP HURRICANE)\n    CHOCOLATE GUM LICORICE LOLLIPOP types of candy, CHUMP FOOL MARK SUCKER words that refer to a gullible person, ACORN CONE NEEDLE SAP parts of a tree (left: POTATO POLLEN FACE HURRICANE)\n    CHOCOLATE GUM LICORICE LOLLIPOP types of candy, CHUMP FOOL MARK SUCKER words that refer to a gullible person, ACORN CONE NEEDLE SAP parts of a tree, FACE HURRICANE POLLEN POTATO things that can cause an allergic reaction\nOutput: CHOCOLATE GUM LICORICE LOLLIPOP, CHUMP FOOL MARK SUCKER, ACORN CONE NEEDLE SAP, FACE HURRICANE POLLEN POTATO",
+            "    CHOCOLATE CONE GUM LICORICE are types of candy (left: FOOL POTATO POLLEN MARK FACE CHUMP SUCKER NEEDLE ACORN SAP LOLLIPOP HURRICANE)\n    CHOCOLATE CONE GUM LICORICE are types of candy, ACORN CONE NEEDLE POLLEN are parts of a tree (left: FOOL POTATO MARK FACE CHUMP SUCKER SAP LOLLIPOP HURRICANE)\n    CHOCOLATE CONE GUM LICORICE are types of candy, ACORN CONE NEEDLE POLLEN are parts of a tree, CHUMP FOOL MARK SUCKER are synonyms for dupe (left: POTATO FACE SAP LOLLIPOP HURRICANE)\n    CHOCOLATE CONE GUM LICORICE are types of candy, ACORN CONE NEEDLE POLLEN are parts of a tree, CHUMP FOOL MARK SUCKER are synonyms for dupe, FACE HURRICANE LOLLIPOP POTATO can all be types of potatoes\nOutput: CHOCOLATE CONE GUM LICORICE, ACORN CONE NEEDLE POLLEN, CHUMP FOOL MARK SUCKER, FACE HURRICANE LOLLIPOP POTATO",
+            "    GUM LICORICE LOLLIPOP SUCKER are all types of candy (left: CONE FOOL POTATO POLLEN MARK FACE CHUMP CHOCOLATE NEEDLE ACORN SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all types of candy, CHUMP FACE FOOL MARK are terms used to describe a person in a demeaning way (left: CONE POTATO POLLEN CHOCOLATE NEEDLE ACORN SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all types of candy, CHUMP FACE FOOL MARK are terms used to describe a person in a demeaning way, ACORN CONE NEEDLE POLLEN are related to trees (left: POTATO CHOCOLATE SAP HURRICANE)\n    GUM LICORICE LOLLIPOP SUCKER are all types of candy, CHUMP FACE FOOL MARK are terms used to describe a person in a demeaning way, ACORN CONE NEEDLE POLLEN are related to trees, CHOCOLATE HURRICANE POTATO SAP words that follow the word Sweet\nOutput: GUM LICORICE LOLLIPOP SUCKER, CHUMP FACE FOOL MARK, ACORN CONE NEEDLE POLLEN, CHOCOLATE HURRICANE POTATO SAP"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 19743,
+            "prompt_tokens": 7222,
+            "cost": 1.40124
+        }
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "    FLASH GLEAM GLITTER SPARKLE are synonyms for shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, DRILL FISH HUNT TRAP are related to fishing (left: BULB BEER GRIME YEAR FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, DRILL FISH HUNT TRAP are related to fishing, BOUNCE CRUNK FORAGE RAIL words that follow the word Club (left: BULB BEER GRIME YEAR)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, DRILL FISH HUNT TRAP are related to fishing, BOUNCE CRUNK FORAGE RAIL words that follow the word Club, BEER BULB GRIME YEAR objects found in a college dormitory\nOutput: FLASH GLEAM GLITTER SPARKLE, DRILL FISH HUNT TRAP, BOUNCE CRUNK FORAGE RAIL, BEER BULB GRIME YEAR",
+            "    BEER BOUNCE DRILL YEAR can all follow the word 'Leap' (left: FLASH FISH BULB TRAP SPARKLE GRIME GLITTER HUNT GLEAM FORAGE CRUNK RAIL)\n    BEER BOUNCE DRILL YEAR can all follow the word 'Leap', FISH FORAGE HUNT TRAP relate to hunting or gathering food (left: FLASH BULB SPARKLE GRIME GLITTER GLEAM CRUNK RAIL)\n    BEER BOUNCE DRILL YEAR can all follow the word 'Leap', FISH FORAGE HUNT TRAP relate to hunting or gathering food, FLASH GLEAM GLITTER SPARKLE are synonyms for shine (left: BULB GRIME CRUNK RAIL)\n    BEER BOUNCE DRILL YEAR can all follow the word 'Leap', FISH FORAGE HUNT TRAP relate to hunting or gathering food, FLASH GLEAM GLITTER SPARKLE are synonyms for shine, BULB CRUNK GRIME RAIL are words that rhyme with 'Plunk'\nOutput: BEER BOUNCE DRILL YEAR, FISH FORAGE HUNT TRAP, FLASH GLEAM GLITTER SPARKLE, BULB CRUNK GRIME RAIL",
+            "    FLASH SPARKLE GLITTER GLEAM all mean to shine brightly (left: DRILL FISH BULB BEER TRAP YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM all mean to shine brightly, DRILL FISH HUNT TRAP all involve hunting or catching (left: BULB BEER YEAR FORAGE CRUNK RAIL BOUNCE)\n    FLASH SPARKLE GLITTER GLEAM all mean to shine brightly, DRILL FISH HUNT TRAP all involve hunting or catching, BEER BOUNCE CRUNK FORAGE are all related to partying or having fun (left: BULB YEAR RAIL GRIME)\n    FLASH SPARKLE GLITTER GLEAM all mean to shine brightly, DRILL FISH HUNT TRAP all involve hunting or catching, BEER BOUNCE CRUNK FORAGE are all related to partying or having fun, BULB GRIME RAIL YEAR all have a connection to trains\nOutput: FLASH SPARKLE GLITTER GLEAM, DRILL FISH HUNT TRAP, BEER BOUNCE CRUNK FORAGE, BULB GRIME RAIL YEAR",
+            "    FLASH GLEAM GLITTER SPARKLE words associated with light (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE words associated with light, DRILL FISH HUNT TRAP words associated with hunting (left: BULB BEER GRIME YEAR FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE words associated with light, DRILL FISH HUNT TRAP words associated with hunting, BOUNCE CRUNK FORAGE RAIL all verbs that can also be nouns (left: BULB BEER GRIME YEAR)\n    FLASH GLEAM GLITTER SPARKLE words associated with light, DRILL FISH HUNT TRAP words associated with hunting, BOUNCE CRUNK FORAGE RAIL all verbs that can also be nouns, BEER BULB GRIME YEAR words that can be associated with a party\nOutput: FLASH GLEAM GLITTER SPARKLE, DRILL FISH HUNT TRAP, BOUNCE CRUNK FORAGE RAIL, BEER BULB GRIME YEAR",
+            "    FLASH GLEAM GLITTER SPARKLE synonyms for shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE synonyms for shine, BEER BOUNCE CRUNK YEAR are all related to parties (left: DRILL FISH BULB TRAP GRIME HUNT FORAGE RAIL)\n    FLASH GLEAM GLITTER SPARKLE synonyms for shine, BEER BOUNCE CRUNK YEAR are all related to parties, DRILL FISH HUNT TRAP activities that involve a tool (left: BULB GRIME FORAGE RAIL)\n    FLASH GLEAM GLITTER SPARKLE synonyms for shine, BEER BOUNCE CRUNK YEAR are all related to parties, DRILL FISH HUNT TRAP activities that involve a tool, BULB FORAGE GRIME RAIL related to trains\nOutput: FLASH GLEAM GLITTER SPARKLE, BEER BOUNCE CRUNK YEAR, DRILL FISH HUNT TRAP, BULB FORAGE GRIME RAIL",
+            "    FLASH GLEAM GLITTER SPARKLE are synonyms for shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, BEER BOUNCE CRUNK YEAR words that follow the word New (left: DRILL FISH BULB TRAP GRIME HUNT FORAGE RAIL)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, BEER BOUNCE CRUNK YEAR words that follow the word New, DRILL FISH HUNT TRAP are verbs for obtaining something (left: BULB FORAGE GRIME RAIL)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, BEER BOUNCE CRUNK YEAR words that follow the word New, DRILL FISH HUNT TRAP are verbs for obtaining something, BULB FORAGE GRIME RAIL can be related to gardening\nOutput: FLASH GLEAM GLITTER SPARKLE, BEER BOUNCE CRUNK YEAR, DRILL FISH HUNT TRAP, BULB FORAGE GRIME RAIL",
+            "    FLASH GLEAM GLITTER SPARKLE are synonyms for shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, BEER BULB FISH TRAP are found in a pub or bar (left: DRILL GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, BEER BULB FISH TRAP are found in a pub or bar, DRILL FORAGE HUNT RAIL are related to searching or seeking (left: GRIME YEAR CRUNK BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, BEER BULB FISH TRAP are found in a pub or bar, DRILL FORAGE HUNT RAIL are related to searching or seeking, BOUNCE CRUNK GRIME YEAR are words that can follow the word Good\nOutput: FLASH GLEAM GLITTER SPARKLE, BEER BULB FISH TRAP, DRILL FORAGE HUNT RAIL, BOUNCE CRUNK GRIME YEAR",
+            "    BOUNCE CRUNK FLASH SPARKLE are all dance moves (left: DRILL FISH BULB BEER TRAP GRIME GLITTER YEAR HUNT GLEAM FORAGE RAIL)\n    BOUNCE CRUNK FLASH SPARKLE are all dance moves, BEER DRILL FISH TRAP are all related to fishing (left: BULB GRIME GLITTER YEAR HUNT GLEAM FORAGE RAIL)\n    BOUNCE CRUNK FLASH SPARKLE are all dance moves, BEER DRILL FISH TRAP are all related to fishing, BULB GLEAM GLITTER SPARKLE are words associated with light (left: GRIME YEAR HUNT FORAGE RAIL)\n    BOUNCE CRUNK FLASH SPARKLE are all dance moves, BEER DRILL FISH TRAP are all related to fishing, BULB GLEAM GLITTER SPARKLE are words associated with light, FORAGE GRIME HUNT RAIL are words that can follow the word \"Scavenger\"\nOutput: BOUNCE CRUNK FLASH SPARKLE, BEER DRILL FISH TRAP, BULB GLEAM GLITTER SPARKLE, FORAGE GRIME HUNT RAIL",
+            "    FLASH GLEAM GLITTER SPARKLE words that describe light phenomena (left: DRILL FISH BULB BEER TRAP YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE words that describe light phenomena, BOUNCE CRUNK DRILL RAIL are all types of dance (left: FISH BULB BEER TRAP YEAR HUNT FORAGE)\n    FLASH GLEAM GLITTER SPARKLE words that describe light phenomena, BOUNCE CRUNK DRILL RAIL are all types of dance, FISH FORAGE HUNT TRAP verbs related to seeking and catching food (left: BULB BEER YEAR GRIME)\n    FLASH GLEAM GLITTER SPARKLE words that describe light phenomena, BOUNCE CRUNK DRILL RAIL are all types of dance, FISH FORAGE HUNT TRAP verbs related to seeking and catching food, BEER BULB GRIME YEAR words that can be followed by the word \"light\"\nOutput: FLASH GLEAM GLITTER SPARKLE, BOUNCE CRUNK DRILL RAIL, FISH FORAGE HUNT TRAP, BEER BULB GRIME YEAR",
+            "    FLASH GLEAM GLITTER SPARKLE are synonyms for shine (left: DRILL FISH BULB BEER TRAP GRIME YEAR HUNT FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, DRILL FISH HUNT TRAP are all related to catching animals (left: BULB BEER GRIME YEAR FORAGE CRUNK RAIL BOUNCE)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, DRILL FISH HUNT TRAP are all related to catching animals, BOUNCE CRUNK FORAGE YEAR verbs that describe movement (left: BULB BEER GRIME RAIL)\n    FLASH GLEAM GLITTER SPARKLE are synonyms for shine, DRILL FISH HUNT TRAP are all related to catching animals, BOUNCE CRUNK FORAGE YEAR verbs that describe movement, BULB BEER GRIME RAIL can follow the word Light\nOutput: FLASH GLEAM GLITTER SPARKLE, DRILL FISH HUNT TRAP, BOUNCE CRUNK FORAGE YEAR, BULB BEER GRIME RAIL"
+        ],
+        "infos": [
+            {
+                "r": 1
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 22205,
+            "prompt_tokens": 8125,
+            "cost": 1.5760499999999997
+        }
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "    METAL GLASS PAPER PLASTIC are common recycling materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PAPER PLASTIC are common recycling materials, CENTRAL CRITICAL TEMPO VITAL can be terms used in music (left: KEY ROCK HENRY TIRED ASSIGNMENT JENNIFER DEFEAT KATE)\n    METAL GLASS PAPER PLASTIC are common recycling materials, CENTRAL CRITICAL TEMPO VITAL can be terms used in music, HENRY JENNIFER KATE ROCK are first names (left: KEY TIRED ASSIGNMENT DEFEAT)\n    METAL GLASS PAPER PLASTIC are common recycling materials, CENTRAL CRITICAL TEMPO VITAL can be terms used in music, HENRY JENNIFER KATE ROCK are first names, KEY ASSIGNMENT DEFEAT TIRED words that follow the word Homework\nOutput: METAL GLASS PAPER PLASTIC, CENTRAL CRITICAL TEMPO VITAL, HENRY JENNIFER KATE ROCK, KEY ASSIGNMENT DEFEAT TIRED",
+            "    GLASS METAL PAPER PLASTIC are recyclable materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    GLASS METAL PAPER PLASTIC are recyclable materials, ASSIGNMENT DEFEAT TEMPO TIRED words that often follow the word Beat (left: KEY ROCK HENRY CENTRAL VITAL JENNIFER KATE CRITICAL)\n    GLASS METAL PAPER PLASTIC are recyclable materials, ASSIGNMENT DEFEAT TEMPO TIRED words that often follow the word Beat, CENTRAL CRITICAL KEY VITAL words that can precede the word Point (left: ROCK HENRY JENNIFER KATE)\n    GLASS METAL PAPER PLASTIC are recyclable materials, ASSIGNMENT DEFEAT TEMPO TIRED words that often follow the word Beat, CENTRAL CRITICAL KEY VITAL words that can precede the word Point, HENRY JENNIFER KATE ROCK famous British royals\nOutput: GLASS METAL PAPER PLASTIC, ASSIGNMENT DEFEAT TEMPO TIRED, CENTRAL CRITICAL KEY VITAL, HENRY JENNIFER KATE ROCK",
+            "    KEY ROCK PAPER METAL are materials or substances (left: TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT GLASS KATE PLASTIC CRITICAL)\n    KEY ROCK PAPER METAL are materials or substances, CENTRAL CRITICAL TEMPO VITAL are all music terms (left: HENRY TIRED ASSIGNMENT JENNIFER DEFEAT GLASS KATE PLASTIC)\n    KEY ROCK PAPER METAL are materials or substances, CENTRAL CRITICAL TEMPO VITAL are all music terms, ASSIGNMENT DEFEAT JENNIFER TIRED words that follow \"a feeling of\" (left: HENRY GLASS KATE PLASTIC)\n    KEY ROCK PAPER METAL are materials or substances, CENTRAL CRITICAL TEMPO VITAL are all music terms, ASSIGNMENT DEFEAT JENNIFER TIRED words that follow \"a feeling of\", GLASS HENRY KATE PLASTIC are all names of Hollywood actors\nOutput: KEY ROCK PAPER METAL, CENTRAL CRITICAL TEMPO VITAL, ASSIGNMENT DEFEAT JENNIFER TIRED, GLASS HENRY KATE PLASTIC",
+            "    KEY METAL ROCK GLASS are materials (left: TEMPO HENRY TIRED PAPER CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE PLASTIC CRITICAL)\n    KEY METAL ROCK GLASS are materials, CENTRAL CRITICAL TEMPO VITAL are synonyms for crucial (left: HENRY TIRED PAPER ASSIGNMENT JENNIFER DEFEAT KATE PLASTIC)\n    KEY METAL ROCK GLASS are materials, CENTRAL CRITICAL TEMPO VITAL are synonyms for crucial, ASSIGNMENT DEFEAT PAPER TIRED words that follow the word Final (left: HENRY JENNIFER KATE PLASTIC)\n    KEY METAL ROCK GLASS are materials, CENTRAL CRITICAL TEMPO VITAL are synonyms for crucial, ASSIGNMENT DEFEAT PAPER TIRED words that follow the word Final, HENRY JENNIFER KATE PLASTIC are common first names\nOutput: KEY METAL ROCK GLASS, CENTRAL CRITICAL TEMPO VITAL, ASSIGNMENT DEFEAT PAPER TIRED, HENRY JENNIFER KATE PLASTIC",
+            "    METAL GLASS PAPER PLASTIC are types of recyclable materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PAPER PLASTIC are types of recyclable materials, CENTRAL CRITICAL TEMPO VITAL are often used to describe important elements (left: KEY ROCK HENRY TIRED ASSIGNMENT JENNIFER DEFEAT KATE)\n    METAL GLASS PAPER PLASTIC are types of recyclable materials, CENTRAL CRITICAL TEMPO VITAL are often used to describe important elements, ASSIGNMENT DEFEAT KEY ROCK are all words you can play in a game of Scrabble (left: HENRY TIRED JENNIFER KATE)\n    METAL GLASS PAPER PLASTIC are types of recyclable materials, CENTRAL CRITICAL TEMPO VITAL are often used to describe important elements, ASSIGNMENT DEFEAT KEY ROCK are all words you can play in a game of Scrabble, HENRY JENNIFER KATE TIRED are first names\nOutput: METAL GLASS PAPER PLASTIC, CENTRAL CRITICAL TEMPO VITAL, ASSIGNMENT DEFEAT KEY ROCK, HENRY JENNIFER KATE TIRED",
+            "    GLASS METAL PAPER PLASTIC are recyclable materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    GLASS METAL PAPER PLASTIC are recyclable materials, ASSIGNMENT DEFEAT KEY TEMPO are musical terms (left: ROCK HENRY TIRED CENTRAL VITAL JENNIFER KATE CRITICAL)\n    GLASS METAL PAPER PLASTIC are recyclable materials, ASSIGNMENT DEFEAT KEY TEMPO are musical terms, CENTRAL CRITICAL ROCK VITAL are geology terms (left: HENRY TIRED JENNIFER KATE)\n    GLASS METAL PAPER PLASTIC are recyclable materials, ASSIGNMENT DEFEAT KEY TEMPO are musical terms, CENTRAL CRITICAL ROCK VITAL are geology terms, HENRY JENNIFER KATE TIRED character names in \"The Turn of the Screw\"\nOutput: GLASS METAL PAPER PLASTIC, ASSIGNMENT DEFEAT KEY TEMPO, CENTRAL CRITICAL ROCK VITAL, HENRY JENNIFER KATE TIRED",
+            "    KEY METAL PAPER PLASTIC are recyclable materials (left: ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT GLASS KATE CRITICAL)\n    KEY METAL PAPER PLASTIC are recyclable materials, CENTRAL CRITICAL TEMPO VITAL are adjectives related to importance (left: ROCK HENRY TIRED ASSIGNMENT JENNIFER DEFEAT GLASS KATE)\n    KEY METAL PAPER PLASTIC are recyclable materials, CENTRAL CRITICAL TEMPO VITAL are adjectives related to importance, ASSIGNMENT DEFEAT ROCK TIRED can follow the word \"Homework\" (left: HENRY JENNIFER GLASS KATE)\n    KEY METAL PAPER PLASTIC are recyclable materials, CENTRAL CRITICAL TEMPO VITAL are adjectives related to importance, ASSIGNMENT DEFEAT ROCK TIRED can follow the word \"Homework\", GLASS HENRY JENNIFER KATE are common first names\nOutput: KEY METAL PAPER PLASTIC, CENTRAL CRITICAL TEMPO VITAL, ASSIGNMENT DEFEAT ROCK TIRED, GLASS HENRY JENNIFER KATE",
+            "    GLASS METAL PAPER PLASTIC are recyclable materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    GLASS METAL PAPER PLASTIC are recyclable materials, CENTRAL CRITICAL TEMPO VITAL are synonyms for Important (left: KEY ROCK HENRY TIRED ASSIGNMENT JENNIFER DEFEAT KATE)\n    GLASS METAL PAPER PLASTIC are recyclable materials, CENTRAL CRITICAL TEMPO VITAL are synonyms for Important, ASSIGNMENT DEFEAT KEY ROCK are used in video games (left: HENRY TIRED JENNIFER KATE)\n    GLASS METAL PAPER PLASTIC are recyclable materials, CENTRAL CRITICAL TEMPO VITAL are synonyms for Important, ASSIGNMENT DEFEAT KEY ROCK are used in video games, HENRY TIRED JENNIFER KATE are first names\nOutput: GLASS METAL PAPER PLASTIC, CENTRAL CRITICAL TEMPO VITAL, ASSIGNMENT DEFEAT KEY ROCK, HENRY TIRED JENNIFER KATE",
+            "    KEY ROCK PAPER METAL are types of materials (left: TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT GLASS KATE PLASTIC CRITICAL)\n    KEY ROCK PAPER METAL are types of materials, ASSIGNMENT DEFEAT TEMPO TIRED words related to school (left: HENRY CENTRAL VITAL JENNIFER GLASS KATE PLASTIC CRITICAL)\n    KEY ROCK PAPER METAL are types of materials, ASSIGNMENT DEFEAT TEMPO TIRED words related to school, CENTRAL CRITICAL VITAL PLASTIC are words that can be a part of a hospital (left: HENRY JENNIFER GLASS KATE)\n    KEY ROCK PAPER METAL are types of materials, ASSIGNMENT DEFEAT TEMPO TIRED words related to school, CENTRAL CRITICAL VITAL PLASTIC are words that can be a part of a hospital, HENRY JENNIFER GLASS KATE are names of famous movie characters\nOutput: KEY ROCK PAPER METAL, ASSIGNMENT DEFEAT TEMPO TIRED, CENTRAL CRITICAL VITAL PLASTIC, HENRY JENNIFER GLASS KATE",
+            "    METAL GLASS PAPER PLASTIC are materials (left: KEY ROCK TEMPO HENRY TIRED CENTRAL ASSIGNMENT VITAL JENNIFER DEFEAT KATE CRITICAL)\n    METAL GLASS PAPER PLASTIC are materials, KEY ROCK CENTRAL CRITICAL are words that follow the word Control (left: TEMPO HENRY TIRED ASSIGNMENT VITAL JENNIFER DEFEAT KATE)\n    METAL GLASS PAPER PLASTIC are materials, KEY ROCK CENTRAL CRITICAL are words that follow the word Control, TEMPO TIRED DEFEAT VITAL are words related to physical fitness (left: HENRY ASSIGNMENT JENNIFER KATE)\n    METAL GLASS PAPER PLASTIC are materials, KEY ROCK CENTRAL CRITICAL are words that follow the word Control, TEMPO TIRED DEFEAT VITAL are words related to physical fitness, HENRY ASSIGNMENT JENNIFER KATE are human names\nOutput: METAL GLASS PAPER PLASTIC, KEY ROCK CENTRAL CRITICAL, TEMPO TIRED DEFEAT VITAL, HENRY ASSIGNMENT JENNIFER KATE"
+        ],
+        "infos": [
+            {
+                "r": 2
+            },
+            {
+                "r": 4
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 24739,
+            "prompt_tokens": 9030,
+            "cost": 1.75524
+        }
+    }
+]

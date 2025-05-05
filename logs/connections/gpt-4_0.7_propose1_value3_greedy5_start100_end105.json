@@ -1,0 +1,248 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\n",
+                    "BALL TEE ALLEY LANE terms used in different sports (left: EXTRA WON MUG PIN COPY TOO ATE PEN BACKUP SPARE TOTE FOR)\n",
+                    "MUG PIN PEN TOTE items that can be personalized (left: EXTRA BALL WON COPY TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\n",
+                    "COPY PEN TOTE BALL objects that can be held in the hand (left: EXTRA WON MUG PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)\n",
+                    "MUG PIN TEE ALLEY items associated with beverages or bars (left: EXTRA BALL WON COPY TOO ATE PEN BACKUP SPARE TOTE FOR LANE)\n",
+                    "EXTRA BALL BACKUP LANE synonyms for additional in different contexts (left: WON MUG PIN COPY TOO TEE ATE ALLEY PEN SPARE TOTE FOR)\n",
+                    "TOO FOR ATE TEE homophones for prepositions (left: EXTRA BALL WON MUG PIN COPY ALLEY PEN BACKUP SPARE TOTE LANE)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.6,
+                    0.25,
+                    0.1,
+                    0.0,
+                    0.4
+                ],
+                "select_new_ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\n",
+                    "TOO FOR ATE TEE homophones for prepositions (left: EXTRA BALL WON MUG PIN COPY ALLEY PEN BACKUP SPARE TOTE LANE)\n",
+                    "COPY PEN TOTE BALL objects that can be held in the hand (left: EXTRA WON MUG PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)\n",
+                    "MUG PIN TEE ALLEY items associated with beverages or bars (left: EXTRA BALL WON COPY TOO ATE PEN BACKUP SPARE TOTE FOR LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\n",
+                    "TOO FOR ATE TEE homophones for prepositions (left: EXTRA BALL WON MUG PIN COPY ALLEY PEN BACKUP SPARE TOTE LANE)\n",
+                    "COPY PEN TOTE BALL objects that can be held in the hand (left: EXTRA WON MUG PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)\n",
+                    "MUG PIN TEE ALLEY items associated with beverages or bars (left: EXTRA BALL WON COPY TOO ATE PEN BACKUP SPARE TOTE FOR LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\n"
+                ],
+                "new_ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA BACKUP COPY SPARE synonyms for additional or replacement items (left: BALL MUG PIN TEE ALLEY PEN TOTE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL TEE ALLEY LANE bowling terminology (left: EXTRA MUG PIN COPY BACKUP SPARE TOTE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG BALL PEN TOTE cylindrical objects (left: EXTRA PIN COPY TEE ALLEY BACKUP SPARE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL TEE ALLEY LANE sports equipment (left: EXTRA MUG PIN COPY BACKUP SPARE TOTE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\n",
+                    "TOO FOR ATE TEE homophones for prepositions (left: EXTRA BALL WON MUG PIN COPY ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA BACKUP SPARE COPY synonyms for additional or replacement (left: BALL WON MUG PIN ALLEY PEN TOTE LANE)\n",
+                    "TOO FOR ATE TEE homophones for prepositions (left: EXTRA BALL WON MUG PIN COPY ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG PIN TOTE objects you can hold in one hand (left: EXTRA WON COPY ALLEY PEN BACKUP SPARE LANE)\n",
+                    "TOO FOR ATE TEE homophones for prepositions (left: EXTRA BALL WON MUG PIN COPY ALLEY PEN BACKUP SPARE TOTE LANE)\nALLEY LANE BALL PIN related to bowling (left: EXTRA WON MUG COPY PEN BACKUP SPARE TOTE)\n",
+                    "TOO FOR ATE TEE homophones for prepositions (left: EXTRA BALL WON MUG PIN COPY ALLEY PEN BACKUP SPARE TOTE LANE)\nWON MUG TOTE LANE words that can precede -bag in compound words (left: EXTRA BALL COPY ALLEY PEN BACKUP SPARE)\n",
+                    "COPY PEN TOTE BALL objects that can be held in the hand (left: EXTRA WON MUG PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)\nEXTRA SPARE BACKUP FOR synonyms for additional (left: WON MUG PIN TOO TEE ATE ALLEY LANE)\n",
+                    "COPY PEN TOTE BALL objects that can be held in the hand (left: EXTRA WON MUG PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)\nMUG PIN TEE LANE items associated with sports (left: EXTRA WON TOO ATE ALLEY BACKUP SPARE FOR)\n",
+                    "COPY PEN TOTE BALL objects that can be held in the hand (left: EXTRA WON MUG PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)\nWON TOO ATE FOR homophones for numbers (left: EXTRA MUG PIN TEE ALLEY BACKUP SPARE LANE)\n",
+                    "COPY PEN TOTE BALL objects that can be held in the hand (left: EXTRA WON MUG PIN TOO TEE ATE ALLEY BACKUP SPARE FOR LANE)\nALLEY LANE BACKUP EXTRA terms used in bowling (left: WON MUG PIN TOO TEE ATE SPARE FOR)\n",
+                    "MUG PIN TEE ALLEY items associated with beverages or bars (left: EXTRA BALL WON COPY TOO ATE PEN BACKUP SPARE TOTE FOR LANE)\nEXTRA SPARE BACKUP COPY synonyms for additional (left: BALL WON TOO ATE PEN TOTE FOR LANE)\n",
+                    "MUG PIN TEE ALLEY items associated with beverages or bars (left: EXTRA BALL WON COPY TOO ATE PEN BACKUP SPARE TOTE FOR LANE)\nBALL LANE SPARE STRIKE bowling terms (left: EXTRA WON TOO ATE PEN BACKUP TOTE FOR)\n",
+                    "MUG PIN TEE ALLEY items associated with beverages or bars (left: EXTRA BALL WON COPY TOO ATE PEN BACKUP SPARE TOTE FOR LANE)\nPEN COPY TOTE BACKUP office supplies (left: EXTRA BALL WON TOO ATE FOR LANE)\n",
+                    "MUG PIN TEE ALLEY items associated with beverages or bars (left: EXTRA BALL WON COPY TOO ATE PEN BACKUP SPARE TOTE FOR LANE)\nTOO ATE FOR WON words that are also numbers (left: EXTRA BALL PEN BACKUP SPARE TOTE LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nBALL PIN ALLEY LANE bowling related terms (left: WON MUG TOO TEE ATE PEN TOTE FOR)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nTEE ATE TOO FOR golfing terms or phonetic numbers (left: BALL WON MUG PIN PEN TOTE ALLEY LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nWON TOO TOTE FOR words that sound like numbers (left: BALL MUG PIN TEE ATE PEN ALLEY LANE)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.1,
+                    0.7,
+                    0.3,
+                    0.0,
+                    0.1,
+                    0.4,
+                    0.3,
+                    0.2,
+                    0.2,
+                    0.0,
+                    0.0,
+                    0.1,
+                    0.0,
+                    0.0,
+                    0.3,
+                    0.03333333333333333,
+                    0.0,
+                    0.25,
+                    0.2,
+                    0.0,
+                    0.1,
+                    0.45,
+                    0.25
+                ],
+                "select_new_ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\n"
+                ],
+                "new_ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nEXTRA COPY BACKUP SPARE synonyms for additional or replacement (left: BALL TEE ALLEY LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nBALL TEE ALLEY LANE terms used in sports (left: EXTRA COPY BACKUP SPARE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nBALL BACKUP SPARE LANE bowling terms (left: EXTRA COPY TEE ALLEY)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nEXTRA SPARE BACKUP ALLEY terms for reserve or safety measures (left: BALL COPY TEE LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL WON TOO TEE homophones of numbers (left: ATE FOR ALLEY LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nATE FOR TOO TEE homophones of prepositions (left: BALL WON ALLEY LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL ALLEY LANE FOR terms related to sports or games (left: WON TOO TEE ATE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nWON TOO FOR ATE words that can be used in math equations (left: BALL TEE ALLEY LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL WON FOR ALLEY words associated with bowling (left: TOO TEE ATE LANE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL TEE ALLEY LANE items used in different sports (left: WON TOO ATE FOR)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nBALL TEE PIN LANE bowling and golf terms (left: MUG ALLEY PEN SPARE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nBALL ALLEY SPARE LANE bowling terms (left: MUG PIN TEE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG BALL TEE PIN round objects (left: ALLEY PEN SPARE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nPEN MUG BALL PIN items that can be personalized (left: TEE ALLEY SPARE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nTEE LANE SPARE PIN things associated with sports (left: BALL MUG ALLEY PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nBALL MUG ALLEY SPARE things that can have a liquid inside (left: PIN TEE PEN LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nTEE BALL SPARE MUG items with four letters (left: PIN ALLEY PEN LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nEXTRA SPARE BACKUP COPY synonyms for 'additional' or 'substitute' (left: PIN ALLEY LANE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN ALLEY LANE objects or places associated with bowling (left: EXTRA COPY BACKUP SPARE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nEXTRA ALLEY BACKUP LANE terms associated with roads or pathways (left: PIN COPY SPARE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN EXTRA COPY items you can write with (left: ALLEY BACKUP SPARE LANE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nEXTRA SPARE BACKUP COPY synonyms for additional (left: PIN ALLEY LANE PEN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN LANE ALLEY long and narrow items or places (left: EXTRA COPY BACKUP SPARE)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.9,
+                    0.13333333333333333,
+                    0.0,
+                    0.2,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.09999999999999999,
+                    0.9,
+                    0.13333333333333333,
+                    0.7,
+                    0.2,
+                    0.2,
+                    0.0,
+                    0.1,
+                    0.2,
+                    0.0,
+                    0.0,
+                    0.9,
+                    0.2,
+                    0.0,
+                    0.0,
+                    0.9
+                ],
+                "select_new_ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nBALL TEE ALLEY LANE terms used in sports (left: EXTRA COPY BACKUP SPARE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL TEE ALLEY LANE items used in different sports (left: WON TOO ATE FOR)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN ALLEY LANE objects or places associated with bowling (left: EXTRA COPY BACKUP SPARE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN LANE ALLEY long and narrow items or places (left: EXTRA COPY BACKUP SPARE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "EXTRA BALL WON MUG PIN COPY TOO TEE ATE ALLEY PEN BACKUP SPARE TOTE FOR LANE",
+                "ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nBALL TEE ALLEY LANE terms used in sports (left: EXTRA COPY BACKUP SPARE)\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL TEE ALLEY LANE items used in different sports (left: WON TOO ATE FOR)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN ALLEY LANE objects or places associated with bowling (left: EXTRA COPY BACKUP SPARE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN LANE ALLEY long and narrow items or places (left: EXTRA COPY BACKUP SPARE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\n"
+                ],
+                "new_ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nBALL TEE ALLEY LANE terms used in sports (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for additional or replacement items (left: )\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL TEE ALLEY LANE items used in different sports (left: WON TOO ATE FOR)\nWON TOO ATE FOR homophones for numbers (left: )\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN ALLEY LANE objects or places associated with bowling (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for additional or reserve\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN LANE ALLEY long and narrow items or places (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for \"additional\" (left: )\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\nBALL TEE PIN ALLEY bowling terminology (left: LANE) \n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\nBALL TEE LANE ALLEY golf terminology (left: PIN)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\nBALL LANE PIN ALLEY terms related to roads or paths (left: TEE)\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\nTEE ALLEY PIN LANE terms beginning with a consonant (left: BALL)\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nBALL TEE ALLEY LANE terms used in sports (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for additional or replacement items (left: )\n",
+                    "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL TEE ALLEY LANE items used in different sports (left: WON TOO ATE FOR)\nWON TOO ATE FOR homophones for numbers (left: )\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN ALLEY LANE objects or places associated with bowling (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for additional or reserve\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN LANE ALLEY long and narrow items or places (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for \"additional\" (left: )\n",
+                    "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\nBALL TEE PIN ALLEY bowling terminology (left: LANE) \n"
+                ]
+            }
+        ],
+        "idx": 100,
+        "ys": [
+            "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG PIN PEN TOTE everyday objects (left: EXTRA BALL COPY TEE ALLEY BACKUP SPARE LANE)\nBALL TEE ALLEY LANE terms used in sports (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for additional or replacement items (left: )\n",
+            "EXTRA SPARE BACKUP COPY synonyms for additional or reserve (left: BALL WON MUG PIN TOO TEE ATE ALLEY PEN TOTE FOR LANE)\nMUG PIN PEN TOTE items you might find in an office (left: BALL WON TOO TEE ATE FOR ALLEY LANE)\nBALL TEE ALLEY LANE items used in different sports (left: WON TOO ATE FOR)\nWON TOO ATE FOR homophones for numbers (left: )\n",
+            "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nMUG TOTE BALL TEE objects that can hold things (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN ALLEY LANE objects or places associated with bowling (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for additional or reserve\n",
+            "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nBALL MUG TEE TOTE round objects (left: EXTRA PIN COPY ALLEY BACKUP SPARE LANE PEN)\nPIN PEN LANE ALLEY long and narrow items or places (left: EXTRA COPY BACKUP SPARE)\nEXTRA COPY BACKUP SPARE synonyms for \"additional\" (left: )\n",
+            "WON TOO ATE FOR homophones for numbers (left: EXTRA BALL MUG PIN COPY TEE ALLEY PEN BACKUP SPARE TOTE LANE)\nEXTRA COPY BACKUP TOTE words associated with storage and duplication (left: BALL MUG PIN TEE ALLEY PEN SPARE LANE)\nMUG PEN SPARE BALL items you might find on a desk (left: BALL TEE PIN ALLEY LANE)\nBALL TEE PIN ALLEY bowling terminology (left: LANE) \n"
+        ],
+        "infos": [
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 2
+            },
+            {
+                "r": 1
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 10351,
+            "prompt_tokens": 25202,
+            "cost": 1.3771200000000001
+        }
+    }
+]

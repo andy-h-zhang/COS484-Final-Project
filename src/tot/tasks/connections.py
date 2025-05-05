@@ -11,8 +11,18 @@ from tot.prompts.connections import *
 # (2) Update __init__.py to reflect the addition of Connections
 
 def get_current_guess(y: str) -> str:
+    # last_line = y.strip().split('\n')[-1]
+    # return last_line.split('left: ')[-1].split(')')[0]
     last_line = y.strip().split('\n')[-1]
-    return last_line.split('Output: ')[-1]
+    if 'left: ' in last_line:
+        return last_line.split('left: ')[-1].split(')')[0].strip()
+    # new: if this is still the original input, we haven’t formed a group yet
+    return ''
+
+    
+    ## Code that works for Standard/COT
+    # last_line = y.strip().split('\n')[-1]
+    # return last_line.split('Output: ')[-1]
 
 class ConnectionsTask(Task):
     """
@@ -46,31 +56,69 @@ class ConnectionsTask(Task):
         return ' '.join(words)
 
     def test_output(self, idx: int, output: str):
-        # correct groupings
+        # # For COT/Standard
+        # # correct groupings
+        # correct_df = list(self.puzzles.values())[idx]
+        # correct_groupings = correct_df.groupby('Group Name')['Word'].apply(lambda x: sorted(x.tolist())).tolist()
+
+        # # dissect LLM output
+        # last_line = output.strip().split('\n')[-1]
+        # if 'Output:' in last_line:
+        #     last_line = last_line.split('Output:')[-1].strip()
+
+        # guessed_groups = [sorted(group.strip().split()) for group in last_line.split(',')]
+
+        # # confirm output is correct format
+        # if len(guessed_groups) != 4 or any(len(group) != 4 for group in guessed_groups):
+        #     return {'r': 0}
+
+        # # sort lists
+        # guessed_groups_sorted = sorted(guessed_groups)
+        # correct_groupings_sorted = sorted(correct_groupings)
+
+        # # return answer
+        # correct_set = [set(g) for g in correct_groupings]
+        # guess_set = [set(g) for g in guessed_groups]
+
+        # num_correct = sum(1 for g in guess_set if g in correct_set)
+        # return {'r': num_correct}
+
+        ## For TOT
+        # 1) load correct answers
         correct_df = list(self.puzzles.values())[idx]
-        correct_groupings = correct_df.groupby('Group Name')['Word'].apply(lambda x: sorted(x.tolist())).tolist()
+        correct_group_sets = [
+            set(words) for words in
+            correct_df.groupby('Group Name')['Word']
+                    .apply(list)
+        ]
 
-        # dissect LLM output
-        last_line = output.strip().split('\n')[-1]
-        if 'Output:' in last_line:
-            last_line = last_line.split('Output:')[-1].strip()
+        # 2) split into non‐empty lines and take first 4
+        lines = [line.strip() for line in output.strip().split('\n') if line.strip()]
+        lines = lines[:4]
 
-        guessed_groups = [sorted(group.strip().split()) for group in last_line.split(',')]
+        # 3) parse each line --> first 4 tokens before any '('
+        guessed_sets = []
+        for line in lines:
+            # drop any leading "Output:" if present
+            if line.startswith('Output:'):
+                line = line[len('Output:'):].strip()
+            # keep only the text before the first "("
+            content = line.split('(')[0].strip()
+            tokens = content.split()
+            if len(tokens) < 4:
+                # malformed line
+                return {'r': 0}
+            guessed_sets.append(set(tokens[:4]))
 
-        # confirm output is correct format
-        if len(guessed_groups) != 4 or any(len(group) != 4 for group in guessed_groups):
-            return {'r': 0}
-
-        # sort lists
-        guessed_groups_sorted = sorted(guessed_groups)
-        correct_groupings_sorted = sorted(correct_groupings)
-
-        # return answer
-        correct_set = [set(g) for g in correct_groupings]
-        guess_set = [set(g) for g in guessed_groups]
-
-        num_correct = sum(1 for g in guess_set if g in correct_set)
+        # 5) count how many guessed sets match any correct set
+        num_correct = sum(1 for g in guessed_sets if g in correct_group_sets)
         return {'r': num_correct}
+
+
+        ## remove this one
+        # # 4) must have exactly 4 groups of size 4 
+        # if len(guessed_sets) != 4 or any(len(g)!=4 for g in guessed_sets):
+        #     return {'r': 0}
 
     @staticmethod
     def standard_prompt_wrap(x: str, y:str='') -> str:
@@ -82,19 +130,41 @@ class ConnectionsTask(Task):
     
     @staticmethod
     def propose_prompt_wrap(x: str, y: str='') -> str:
-        current_guess = get_current_guess(y if y else x)
-        if len(current_guess.split()) == 4:
-            prompt = cot_prompt.format(input=x) + 'Steps:' + y
-            # print([prompt])
-        else:
-            prompt = propose_prompt.format(input=current_guess)
-        return prompt
+        ## Proper valuing, but no iteration
+        # current_guess = get_current_guess(y if y else x)
+        # if current_guess == '':
+        #     return cot_prompt.format(input=x) + '\nThoughts:' + (y if y else '')
+        # # otherwise keep proposing next groups
+        # return propose_prompt.format(input=current_guess)
+
+        # 1) no history yet --> brainstorm first group
+        if not y.strip():
+            return propose_prompt.format(input=x)
+        # 2) we have some groups in y --> extract leftover and propose next
+        leftover = get_current_guess(y)
+        if leftover:
+            return propose_prompt.format(input=leftover)
+        # 3) no leftovers --> switch to COT/finalization
+        return cot_prompt.format(input=x) + '\nThoughts:' + y
+        
+        # if len(current_guess.split()) == 4:
+        #     prompt = cot_prompt.format(input=x) + 'Thoughts:' + y
+        #     # print([prompt])
+        # else:
+        #     prompt = propose_prompt.format(input=current_guess)
+        # return prompt
+
+        # last_line = y.strip().split('\n')[-1] if y.strip() else ''
+        # if last_line.lower().startswith('output:'):
+        #     return ''
+        # return propose_prompt.format(input=x)
     
     @staticmethod
     def value_prompt_wrap(x: str, y: str) -> str:
         last_line = y.strip().split('\n')[-1]
-        if 'Output: ' not in last_line:  # last step
-            ans = last_line.lower().replace('output: ', '')
+        if 'left: ' not in last_line:
+            # strip the cue and pass only the groups to the rubric prompt
+            ans = last_line.split('Output:')[-1].strip()
             # print([value_last_step_prompt.format(input=x, answer=ans)])
             return value_last_step_prompt.format(input=x, output=ans)
         current_guess = get_current_guess(y)
@@ -102,7 +172,19 @@ class ConnectionsTask(Task):
     
     @staticmethod
     def value_outputs_unwrap(x: str, y: str, value_outputs: list) -> float:
-        if len(y.strip().split('\n')) == 4 and 'output' not in y.lower():
+        # # if already four Thoughts + Output --> close out early
+        # if len(y.strip().split('\n')) == 4 and 'output:' in y.lower():
+        #     return 1.0
+
+        # nums = []
+        # for out in value_outputs:
+        #     last = out.strip().split('\n')[-1]
+        #     m = re.search(r'([01](?:\.\d+)?)', last)
+        #     if m:
+        #         nums.append(float(m.group(1)))
+        # return sum(nums)/len(nums) if nums else 0.0
+        
+        if len(y.strip().split('\n')) == 4 and 'value' not in y.lower():
             return 0
         scores = []
         for output in value_outputs:
@@ -127,12 +209,10 @@ class ConnectionsTask(Task):
 
 #     print(f"Loaded {len(task)} puzzles.")
 
-#     # Try the first puzzle
 #     idx = 20
 #     x = task.get_input(idx)
 #     print(f"Puzzle Input (16 words):\n{x}")
 
-#     # Simulate a correct guess from ground truth
 #     correct_df = list(task.puzzles.values())[idx]
 #     grouped = correct_df.groupby('Group Name')['Word'].apply(lambda x: sorted(x.tolist())).tolist()
 #     fake_output = 'Output: ' + ', '.join([' '.join(group) for group in grouped])

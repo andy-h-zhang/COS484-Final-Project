@@ -3,7 +3,7 @@ import json
 import argparse
 
 from tot.tasks import get_task
-from tot.methods.bfs import solve, naive_solve, astar_solve #add import here
+from tot.methods.bfs import solve, naive_solve, astar_one_solution #add import here
 from tot.models import gpt_usage
 
 def run(args):
@@ -24,7 +24,21 @@ def run(args):
         # added line for A* search
         elif args.astar_run:
             print('Using A* search')
-            ys, info = astar_solve(args, task, i)
+            ys, all_steps = [], []                 # will hold N best chains
+
+            for r in range(args.n_select_sample):  # run it N (=beam) times
+                print(f'Running {r}th iteration:')
+                sub_ys, sub_info = astar_one_solution(args, task, i, to_print=True, max_expansions=12)   
+
+                # sub_ys is a list with one chain (or a fallback '')
+                if sub_ys:
+                    can = sub_ys[0].strip()
+                    if can: 
+                        ys.extend(sub_ys)          # keep the chain
+                all_steps.append(sub_info)         # collect logs
+
+            # pack logs in the same shape BFS produces
+            info = {'steps': all_steps}
         else:
             ys, info = solve(args, task, i)
 
